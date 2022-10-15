@@ -1,0 +1,736 @@
+id,values,area,breakdown,year,data_title
+9999198016721150,91.44,INDONESIA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721160,93.88,INDONESIA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721170,95.25,INDONESIA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721180,94.68,INDONESIA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721190,95.48,INDONESIA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721200,96.0,INDONESIA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016721210,97.37,INDONESIA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731150,79.05,INDONESIA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731160,83.76,INDONESIA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731170,84.74,INDONESIA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731180,84.96,INDONESIA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731190,85.23,INDONESIA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731200,87.89,INDONESIA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016731210,88.88,INDONESIA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741150,52.04,INDONESIA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741160,57.47,INDONESIA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741170,57.71,INDONESIA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741180,61.84,INDONESIA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741190,58.33,INDONESIA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741200,63.95,INDONESIA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9999198016741210,65.94,INDONESIA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721150,96.47,ACEH,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721160,98.07,ACEH,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721170,97.85,ACEH,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721180,96.75,ACEH,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721190,98.6,ACEH,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721200,98.33,ACEH,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016721210,99.44,ACEH,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731150,89.01,ACEH,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731160,88.7,ACEH,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731170,89.42,ACEH,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731180,87.15,ACEH,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731190,89.5,ACEH,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731200,90.92,ACEH,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016731210,93.43,ACEH,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741150,68.16,ACEH,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741160,74.46,ACEH,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741170,70.64,ACEH,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741180,70.68,ACEH,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741190,69.96,ACEH,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741200,70.07,ACEH,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1100198016741210,74.36,ACEH,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721150,92.76,SUMATERA UTARA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721160,96.61,SUMATERA UTARA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721170,97.63,SUMATERA UTARA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721180,95.76,SUMATERA UTARA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721190,97.12,SUMATERA UTARA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721200,96.48,SUMATERA UTARA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016721210,98.57,SUMATERA UTARA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731150,80.87,SUMATERA UTARA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731160,87.97,SUMATERA UTARA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731170,88.7,SUMATERA UTARA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731180,87.97,SUMATERA UTARA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731190,88.26,SUMATERA UTARA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731200,91.63,SUMATERA UTARA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016731210,91.35,SUMATERA UTARA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741150,59.54,SUMATERA UTARA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741160,69.69,SUMATERA UTARA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741170,67.16,SUMATERA UTARA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741180,68.34,SUMATERA UTARA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741190,65.21,SUMATERA UTARA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741200,70.39,SUMATERA UTARA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1200198016741210,72.81,SUMATERA UTARA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721150,87.85,SUMATERA BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721160,90.69,SUMATERA BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721170,92.67,SUMATERA BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721180,90.54,SUMATERA BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721190,91.25,SUMATERA BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721200,93.26,SUMATERA BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016721210,95.29,SUMATERA BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731150,78.77,SUMATERA BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731160,82.5,SUMATERA BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731170,81.11,SUMATERA BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731180,82.59,SUMATERA BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731190,84.07,SUMATERA BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731200,87.12,SUMATERA BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016731210,89.49,SUMATERA BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741150,58.04,SUMATERA BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741160,64.97,SUMATERA BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741170,60.8,SUMATERA BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741180,65.34,SUMATERA BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741190,60.32,SUMATERA BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741200,67.11,SUMATERA BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1300198016741210,70.06,SUMATERA BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721150,90.44,RIAU,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721160,93.23,RIAU,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721170,94.76,RIAU,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721180,95.39,RIAU,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721190,95.11,RIAU,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721200,95.18,RIAU,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016721210,96.91,RIAU,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731150,76.54,RIAU,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731160,81.3,RIAU,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731170,85.37,RIAU,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731180,83.45,RIAU,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731190,84.97,RIAU,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731200,86.84,RIAU,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016731210,87.11,RIAU,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741150,57.28,RIAU,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741160,62.12,RIAU,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741170,61.9,RIAU,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741180,63.71,RIAU,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741190,58.78,RIAU,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741200,66.62,RIAU,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1400198016741210,68.94,RIAU,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721150,93.12,JAMBI,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721160,95.93,JAMBI,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721170,95.65,JAMBI,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721180,94.62,JAMBI,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721190,96.99,JAMBI,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721200,95.34,JAMBI,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016721210,98.54,JAMBI,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731150,78.04,JAMBI,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731160,79.86,JAMBI,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731170,84.9,JAMBI,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731180,83.29,JAMBI,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731190,84.4,JAMBI,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731200,86.31,JAMBI,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016731210,89.0,JAMBI,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741150,49.05,JAMBI,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741160,60.5,JAMBI,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741170,58.27,JAMBI,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741180,66.06,JAMBI,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741190,56.87,JAMBI,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741200,63.66,JAMBI,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1500198016741210,64.51,JAMBI,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721150,90.27,SUMATERA SELATAN,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721160,94.86,SUMATERA SELATAN,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721170,95.88,SUMATERA SELATAN,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721180,94.02,SUMATERA SELATAN,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721190,96.08,SUMATERA SELATAN,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721200,95.93,SUMATERA SELATAN,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016721210,97.82,SUMATERA SELATAN,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731150,78.35,SUMATERA SELATAN,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731160,82.41,SUMATERA SELATAN,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731170,82.59,SUMATERA SELATAN,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731180,84.18,SUMATERA SELATAN,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731190,83.4,SUMATERA SELATAN,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731200,85.02,SUMATERA SELATAN,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016731210,87.68,SUMATERA SELATAN,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741150,48.9,SUMATERA SELATAN,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741160,55.37,SUMATERA SELATAN,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741170,54.15,SUMATERA SELATAN,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741180,63.94,SUMATERA SELATAN,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741190,58.23,SUMATERA SELATAN,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741200,65.42,SUMATERA SELATAN,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1600198016741210,67.2,SUMATERA SELATAN,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721150,92.15,BENGKULU,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721160,93.98,BENGKULU,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721170,94.23,BENGKULU,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721180,93.2,BENGKULU,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721190,93.33,BENGKULU,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721200,95.16,BENGKULU,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016721210,98.16,BENGKULU,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731150,78.16,BENGKULU,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731160,84.21,BENGKULU,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731170,82.9,BENGKULU,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731180,86.34,BENGKULU,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731190,85.13,BENGKULU,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731200,87.68,BENGKULU,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016731210,89.94,BENGKULU,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741150,55.94,BENGKULU,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741160,64.31,BENGKULU,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741170,62.57,BENGKULU,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741180,58.86,BENGKULU,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741190,61.47,BENGKULU,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741200,62.73,BENGKULU,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1700198016741210,62.46,BENGKULU,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721150,94.46,LAMPUNG,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721160,96.26,LAMPUNG,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721170,96.67,LAMPUNG,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721180,95.39,LAMPUNG,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721190,96.05,LAMPUNG,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721200,97.69,LAMPUNG,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016721210,98.33,LAMPUNG,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731150,76.68,LAMPUNG,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731160,79.68,LAMPUNG,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731170,85.02,LAMPUNG,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731180,85.09,LAMPUNG,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731190,84.08,LAMPUNG,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731200,86.66,LAMPUNG,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016731210,89.46,LAMPUNG,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741150,40.6,LAMPUNG,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741160,47.62,LAMPUNG,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741170,48.75,LAMPUNG,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741180,54.89,LAMPUNG,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741190,54.87,LAMPUNG,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741200,57.59,LAMPUNG,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1800198016741210,60.09,LAMPUNG,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721150,90.05,KEP. BANGKA BELITUNG,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721160,89.38,KEP. BANGKA BELITUNG,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721170,92.36,KEP. BANGKA BELITUNG,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721180,92.04,KEP. BANGKA BELITUNG,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721190,92.8,KEP. BANGKA BELITUNG,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721200,96.05,KEP. BANGKA BELITUNG,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016721210,96.61,KEP. BANGKA BELITUNG,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731150,70.35,KEP. BANGKA BELITUNG,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731160,75.77,KEP. BANGKA BELITUNG,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731170,75.3,KEP. BANGKA BELITUNG,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731180,79.7,KEP. BANGKA BELITUNG,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731190,77.96,KEP. BANGKA BELITUNG,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731200,81.91,KEP. BANGKA BELITUNG,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016731210,80.99,KEP. BANGKA BELITUNG,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741150,43.46,KEP. BANGKA BELITUNG,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741160,53.84,KEP. BANGKA BELITUNG,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741170,51.55,KEP. BANGKA BELITUNG,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741180,55.01,KEP. BANGKA BELITUNG,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741190,53.84,KEP. BANGKA BELITUNG,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741200,56.74,KEP. BANGKA BELITUNG,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1900198016741210,63.98,KEP. BANGKA BELITUNG,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721150,97.85,KEP. RIAU,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721160,94.9,KEP. RIAU,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721170,96.28,KEP. RIAU,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721180,98.13,KEP. RIAU,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721190,95.69,KEP. RIAU,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721200,95.25,KEP. RIAU,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016721210,98.16,KEP. RIAU,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731150,88.25,KEP. RIAU,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731160,86.92,KEP. RIAU,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731170,92.11,KEP. RIAU,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731180,90.15,KEP. RIAU,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731190,91.56,KEP. RIAU,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731200,94.8,KEP. RIAU,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016731210,92.71,KEP. RIAU,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741150,65.28,KEP. RIAU,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741160,75.93,KEP. RIAU,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741170,83.55,KEP. RIAU,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741180,82.86,KEP. RIAU,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741190,78.14,KEP. RIAU,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741200,78.65,KEP. RIAU,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+2100198016741210,81.07,KEP. RIAU,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721150,96.56,DKI JAKARTA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721160,95.32,DKI JAKARTA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721170,97.2,DKI JAKARTA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721180,95.26,DKI JAKARTA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721190,96.05,DKI JAKARTA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721200,97.8,DKI JAKARTA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016721210,99.26,DKI JAKARTA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731150,86.79,DKI JAKARTA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731160,90.75,DKI JAKARTA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731170,91.2,DKI JAKARTA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731180,92.8,DKI JAKARTA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731190,93.02,DKI JAKARTA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731200,94.57,DKI JAKARTA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016731210,95.0,DKI JAKARTA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741150,74.1,DKI JAKARTA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741160,74.74,DKI JAKARTA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741170,78.25,DKI JAKARTA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741180,83.48,DKI JAKARTA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741190,84.35,DKI JAKARTA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741200,85.67,DKI JAKARTA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3100198016741210,84.98,DKI JAKARTA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721150,92.42,JAWA BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721160,93.75,JAWA BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721170,96.97,JAWA BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721180,97.08,JAWA BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721190,97.92,JAWA BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721200,97.76,JAWA BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016721210,98.45,JAWA BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731150,79.09,JAWA BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731160,84.24,JAWA BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731170,84.64,JAWA BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731180,85.18,JAWA BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731190,85.53,JAWA BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731200,88.17,JAWA BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016731210,88.18,JAWA BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741150,48.53,JAWA BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741160,55.03,JAWA BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741170,48.32,JAWA BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741180,61.04,JAWA BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741190,57.46,JAWA BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741200,63.56,JAWA BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3200198016741210,64.89,JAWA BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721150,92.91,JAWA TENGAH,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721160,95.59,JAWA TENGAH,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721170,96.25,JAWA TENGAH,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721180,96.15,JAWA TENGAH,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721190,96.61,JAWA TENGAH,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721200,97.2,JAWA TENGAH,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016721210,98.06,JAWA TENGAH,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731150,78.96,JAWA TENGAH,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731160,85.93,JAWA TENGAH,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731170,87.24,JAWA TENGAH,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731180,86.9,JAWA TENGAH,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731190,85.47,JAWA TENGAH,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731200,89.0,JAWA TENGAH,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016731210,88.44,JAWA TENGAH,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741150,43.86,JAWA TENGAH,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741160,44.59,JAWA TENGAH,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741170,51.52,JAWA TENGAH,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741180,55.62,JAWA TENGAH,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741190,49.79,JAWA TENGAH,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741200,55.82,JAWA TENGAH,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3300198016741210,59.9,JAWA TENGAH,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721150,95.98,DI YOGYAKARTA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721160,96.64,DI YOGYAKARTA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721170,96.97,DI YOGYAKARTA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721180,95.12,DI YOGYAKARTA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721190,94.92,DI YOGYAKARTA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721200,96.43,DI YOGYAKARTA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016721210,98.48,DI YOGYAKARTA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731150,87.41,DI YOGYAKARTA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731160,92.87,DI YOGYAKARTA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731170,92.13,DI YOGYAKARTA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731180,92.66,DI YOGYAKARTA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731190,92.34,DI YOGYAKARTA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731200,92.36,DI YOGYAKARTA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016731210,94.94,DI YOGYAKARTA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741150,80.77,DI YOGYAKARTA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741160,79.95,DI YOGYAKARTA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741170,85.53,DI YOGYAKARTA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741180,81.96,DI YOGYAKARTA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741190,84.54,DI YOGYAKARTA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741200,87.99,DI YOGYAKARTA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3400198016741210,90.12,DI YOGYAKARTA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721150,91.76,JAWA TIMUR,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721160,94.78,JAWA TIMUR,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721170,96.1,JAWA TIMUR,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721180,95.7,JAWA TIMUR,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721190,96.3,JAWA TIMUR,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721200,96.81,JAWA TIMUR,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016721210,97.76,JAWA TIMUR,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731150,80.98,JAWA TIMUR,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731160,84.7,JAWA TIMUR,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731170,86.2,JAWA TIMUR,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731180,86.04,JAWA TIMUR,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731190,86.21,JAWA TIMUR,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731200,89.98,JAWA TIMUR,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016731210,90.3,JAWA TIMUR,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741150,52.04,JAWA TIMUR,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741160,55.13,JAWA TIMUR,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741170,59.9,JAWA TIMUR,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741180,62.48,JAWA TIMUR,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741190,57.74,JAWA TIMUR,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741200,63.53,JAWA TIMUR,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3500198016741210,66.33,JAWA TIMUR,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721150,91.66,BANTEN,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721160,94.48,BANTEN,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721170,97.56,BANTEN,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721180,95.35,BANTEN,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721190,96.26,BANTEN,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721200,96.03,BANTEN,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016721210,98.82,BANTEN,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731150,79.23,BANTEN,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731160,82.69,BANTEN,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731170,86.82,BANTEN,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731180,85.21,BANTEN,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731190,87.4,BANTEN,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731200,86.7,BANTEN,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016731210,90.63,BANTEN,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741150,52.95,BANTEN,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741160,60.83,BANTEN,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741170,59.87,BANTEN,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741180,67.54,BANTEN,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741190,56.94,BANTEN,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741200,64.24,BANTEN,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+3600198016741210,66.9,BANTEN,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721150,96.73,BALI,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721160,97.0,BALI,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721170,97.21,BALI,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721180,96.4,BALI,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721190,98.34,BALI,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721200,96.66,BALI,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016721210,97.02,BALI,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731150,85.95,BALI,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731160,91.99,BALI,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731170,91.43,BALI,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731180,93.78,BALI,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731190,93.33,BALI,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731200,93.21,BALI,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016731210,94.26,BALI,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741150,69.08,BALI,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741160,73.65,BALI,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741170,74.62,BALI,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741180,78.67,BALI,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741190,64.52,BALI,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741200,74.88,BALI,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5100198016741210,75.86,BALI,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721150,94.4,NUSA TENGGARA BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721160,96.03,NUSA TENGGARA BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721170,96.79,NUSA TENGGARA BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721180,97.59,NUSA TENGGARA BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721190,96.62,NUSA TENGGARA BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721200,97.29,NUSA TENGGARA BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016721210,98.71,NUSA TENGGARA BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731150,84.04,NUSA TENGGARA BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731160,86.91,NUSA TENGGARA BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731170,87.14,NUSA TENGGARA BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731180,87.88,NUSA TENGGARA BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731190,88.64,NUSA TENGGARA BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731200,89.91,NUSA TENGGARA BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016731210,92.19,NUSA TENGGARA BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741150,51.83,NUSA TENGGARA BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741160,55.01,NUSA TENGGARA BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741170,59.1,NUSA TENGGARA BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741180,52.6,NUSA TENGGARA BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741190,57.6,NUSA TENGGARA BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741200,64.66,NUSA TENGGARA BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5200198016741210,65.71,NUSA TENGGARA BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721150,78.94,NUSA TENGGARA TIMUR,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721160,84.71,NUSA TENGGARA TIMUR,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721170,85.07,NUSA TENGGARA TIMUR,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721180,83.87,NUSA TENGGARA TIMUR,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721190,87.39,NUSA TENGGARA TIMUR,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721200,86.92,NUSA TENGGARA TIMUR,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016721210,91.84,NUSA TENGGARA TIMUR,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731150,66.62,NUSA TENGGARA TIMUR,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731160,70.73,NUSA TENGGARA TIMUR,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731170,70.54,NUSA TENGGARA TIMUR,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731180,71.42,NUSA TENGGARA TIMUR,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731190,74.31,NUSA TENGGARA TIMUR,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731200,78.81,NUSA TENGGARA TIMUR,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016731210,78.83,NUSA TENGGARA TIMUR,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741150,37.78,NUSA TENGGARA TIMUR,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741160,48.95,NUSA TENGGARA TIMUR,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741170,41.44,NUSA TENGGARA TIMUR,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741180,43.41,NUSA TENGGARA TIMUR,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741190,43.85,NUSA TENGGARA TIMUR,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741200,50.65,NUSA TENGGARA TIMUR,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+5300198016741210,44.88,NUSA TENGGARA TIMUR,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721150,83.99,KALIMANTAN BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721160,87.93,KALIMANTAN BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721170,86.0,KALIMANTAN BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721180,86.44,KALIMANTAN BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721190,88.23,KALIMANTAN BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721200,91.79,KALIMANTAN BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016721210,94.29,KALIMANTAN BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731150,63.41,KALIMANTAN BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731160,72.66,KALIMANTAN BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731170,72.54,KALIMANTAN BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731180,71.47,KALIMANTAN BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731190,72.78,KALIMANTAN BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731200,80.88,KALIMANTAN BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016731210,79.65,KALIMANTAN BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741150,35.69,KALIMANTAN BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741160,35.69,KALIMANTAN BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741170,42.7,KALIMANTAN BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741180,47.66,KALIMANTAN BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741190,49.29,KALIMANTAN BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741200,55.23,KALIMANTAN BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6100198016741210,54.27,KALIMANTAN BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721150,93.18,KALIMANTAN TENGAH,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721160,93.75,KALIMANTAN TENGAH,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721170,93.06,KALIMANTAN TENGAH,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721180,93.33,KALIMANTAN TENGAH,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721190,94.66,KALIMANTAN TENGAH,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721200,95.45,KALIMANTAN TENGAH,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016721210,97.45,KALIMANTAN TENGAH,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731150,72.59,KALIMANTAN TENGAH,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731160,80.64,KALIMANTAN TENGAH,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731170,76.84,KALIMANTAN TENGAH,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731180,79.87,KALIMANTAN TENGAH,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731190,81.01,KALIMANTAN TENGAH,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731200,84.83,KALIMANTAN TENGAH,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016731210,89.76,KALIMANTAN TENGAH,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741150,47.28,KALIMANTAN TENGAH,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741160,52.42,KALIMANTAN TENGAH,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741170,56.48,KALIMANTAN TENGAH,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741180,53.47,KALIMANTAN TENGAH,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741190,50.01,KALIMANTAN TENGAH,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741200,60.77,KALIMANTAN TENGAH,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6200198016741210,61.04,KALIMANTAN TENGAH,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721150,87.15,KALIMANTAN SELATAN,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721160,93.89,KALIMANTAN SELATAN,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721170,92.49,KALIMANTAN SELATAN,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721180,92.2,KALIMANTAN SELATAN,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721190,91.85,KALIMANTAN SELATAN,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721200,94.1,KALIMANTAN SELATAN,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016721210,95.67,KALIMANTAN SELATAN,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731150,72.89,KALIMANTAN SELATAN,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731160,77.25,KALIMANTAN SELATAN,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731170,77.11,KALIMANTAN SELATAN,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731180,84.05,KALIMANTAN SELATAN,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731190,82.77,KALIMANTAN SELATAN,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731200,82.48,KALIMANTAN SELATAN,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016731210,84.06,KALIMANTAN SELATAN,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741150,44.85,KALIMANTAN SELATAN,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741160,52.91,KALIMANTAN SELATAN,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741170,56.75,KALIMANTAN SELATAN,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741180,61.09,KALIMANTAN SELATAN,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741190,59.52,KALIMANTAN SELATAN,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741200,63.05,KALIMANTAN SELATAN,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6300198016741210,63.59,KALIMANTAN SELATAN,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721150,94.65,KALIMANTAN TIMUR,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721160,98.16,KALIMANTAN TIMUR,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721170,96.42,KALIMANTAN TIMUR,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721180,95.32,KALIMANTAN TIMUR,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721190,96.07,KALIMANTAN TIMUR,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721200,95.84,KALIMANTAN TIMUR,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016721210,96.82,KALIMANTAN TIMUR,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731150,85.13,KALIMANTAN TIMUR,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731160,86.7,KALIMANTAN TIMUR,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731170,88.31,KALIMANTAN TIMUR,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731180,89.14,KALIMANTAN TIMUR,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731190,86.98,KALIMANTAN TIMUR,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731200,92.4,KALIMANTAN TIMUR,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016731210,95.34,KALIMANTAN TIMUR,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741150,67.56,KALIMANTAN TIMUR,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741160,66.76,KALIMANTAN TIMUR,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741170,67.72,KALIMANTAN TIMUR,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741180,68.73,KALIMANTAN TIMUR,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741190,64.74,KALIMANTAN TIMUR,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741200,71.63,KALIMANTAN TIMUR,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6400198016741210,74.26,KALIMANTAN TIMUR,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721150,92.11,KALIMANTAN UTARA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721160,92.72,KALIMANTAN UTARA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721170,92.04,KALIMANTAN UTARA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721180,92.03,KALIMANTAN UTARA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721190,93.23,KALIMANTAN UTARA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721200,96.38,KALIMANTAN UTARA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016721210,95.77,KALIMANTAN UTARA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731150,83.02,KALIMANTAN UTARA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731160,81.96,KALIMANTAN UTARA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731170,82.36,KALIMANTAN UTARA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731180,82.85,KALIMANTAN UTARA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731190,83.85,KALIMANTAN UTARA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731200,87.14,KALIMANTAN UTARA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016731210,90.14,KALIMANTAN UTARA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741150,47.64,KALIMANTAN UTARA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741160,58.6,KALIMANTAN UTARA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741170,57.43,KALIMANTAN UTARA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741180,58.22,KALIMANTAN UTARA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741190,61.1,KALIMANTAN UTARA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741200,67.77,KALIMANTAN UTARA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+6500198016741210,62.3,KALIMANTAN UTARA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721150,93.41,SULAWESI UTARA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721160,94.97,SULAWESI UTARA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721170,95.9,SULAWESI UTARA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721180,95.48,SULAWESI UTARA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721190,95.97,SULAWESI UTARA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721200,95.58,SULAWESI UTARA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016721210,96.1,SULAWESI UTARA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731150,82.35,SULAWESI UTARA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731160,88.08,SULAWESI UTARA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731170,86.01,SULAWESI UTARA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731180,86.72,SULAWESI UTARA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731190,85.67,SULAWESI UTARA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731200,86.69,SULAWESI UTARA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016731210,91.05,SULAWESI UTARA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741150,55.5,SULAWESI UTARA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741160,72.33,SULAWESI UTARA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741170,67.46,SULAWESI UTARA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741180,70.02,SULAWESI UTARA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741190,67.58,SULAWESI UTARA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741200,73.79,SULAWESI UTARA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7100198016741210,68.56,SULAWESI UTARA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721150,87.06,SULAWESI TENGAH,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721160,90.93,SULAWESI TENGAH,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721170,92.83,SULAWESI TENGAH,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721180,91.44,SULAWESI TENGAH,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721190,93.56,SULAWESI TENGAH,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721200,95.05,SULAWESI TENGAH,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016721210,96.19,SULAWESI TENGAH,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731150,77.31,SULAWESI TENGAH,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731160,80.76,SULAWESI TENGAH,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731170,81.72,SULAWESI TENGAH,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731180,78.61,SULAWESI TENGAH,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731190,82.23,SULAWESI TENGAH,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731200,82.79,SULAWESI TENGAH,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016731210,85.42,SULAWESI TENGAH,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741150,45.84,SULAWESI TENGAH,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741160,61.79,SULAWESI TENGAH,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741170,62.73,SULAWESI TENGAH,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741180,53.84,SULAWESI TENGAH,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741190,52.0,SULAWESI TENGAH,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741200,57.68,SULAWESI TENGAH,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7200198016741210,61.16,SULAWESI TENGAH,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721150,91.18,SULAWESI SELATAN,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721160,93.79,SULAWESI SELATAN,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721170,94.53,SULAWESI SELATAN,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721180,94.05,SULAWESI SELATAN,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721190,95.18,SULAWESI SELATAN,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721200,96.13,SULAWESI SELATAN,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016721210,97.3,SULAWESI SELATAN,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731150,78.08,SULAWESI SELATAN,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731160,82.46,SULAWESI SELATAN,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731170,83.01,SULAWESI SELATAN,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731180,83.32,SULAWESI SELATAN,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731190,83.74,SULAWESI SELATAN,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731200,85.08,SULAWESI SELATAN,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016731210,88.18,SULAWESI SELATAN,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741150,50.85,SULAWESI SELATAN,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741160,59.56,SULAWESI SELATAN,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741170,63.82,SULAWESI SELATAN,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741180,56.86,SULAWESI SELATAN,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741190,60.97,SULAWESI SELATAN,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741200,66.22,SULAWESI SELATAN,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7300198016741210,69.43,SULAWESI SELATAN,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721150,92.21,SULAWESI TENGGARA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721160,95.58,SULAWESI TENGGARA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721170,94.16,SULAWESI TENGGARA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721180,95.25,SULAWESI TENGGARA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721190,94.54,SULAWESI TENGGARA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721200,95.28,SULAWESI TENGGARA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016721210,95.58,SULAWESI TENGGARA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731150,82.75,SULAWESI TENGGARA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731160,88.06,SULAWESI TENGGARA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731170,85.1,SULAWESI TENGGARA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731180,86.05,SULAWESI TENGGARA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731190,85.46,SULAWESI TENGGARA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731200,89.18,SULAWESI TENGGARA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016731210,90.88,SULAWESI TENGGARA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741150,61.52,SULAWESI TENGGARA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741160,67.12,SULAWESI TENGGARA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741170,67.75,SULAWESI TENGGARA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741180,67.67,SULAWESI TENGGARA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741190,64.26,SULAWESI TENGGARA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741200,68.28,SULAWESI TENGGARA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7400198016741210,70.65,SULAWESI TENGGARA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721150,85.72,GORONTALO,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721160,88.98,GORONTALO,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721170,87.14,GORONTALO,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721180,88.24,GORONTALO,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721190,89.04,GORONTALO,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721200,91.9,GORONTALO,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016721210,93.44,GORONTALO,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731150,68.81,GORONTALO,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731160,73.35,GORONTALO,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731170,73.62,GORONTALO,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731180,77.41,GORONTALO,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731190,80.6,GORONTALO,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731200,80.1,GORONTALO,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016731210,81.22,GORONTALO,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741150,44.67,GORONTALO,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741160,50.79,GORONTALO,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741170,55.3,GORONTALO,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741180,52.39,GORONTALO,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741190,50.87,GORONTALO,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741200,55.35,GORONTALO,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7500198016741210,53.73,GORONTALO,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721150,90.27,SULAWESI BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721160,90.78,SULAWESI BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721170,90.29,SULAWESI BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721180,92.6,SULAWESI BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721190,91.54,SULAWESI BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721200,94.7,SULAWESI BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016721210,95.93,SULAWESI BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731150,75.58,SULAWESI BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731160,79.45,SULAWESI BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731170,78.46,SULAWESI BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731180,78.83,SULAWESI BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731190,77.68,SULAWESI BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731200,83.08,SULAWESI BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016731210,86.09,SULAWESI BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741150,39.29,SULAWESI BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741160,53.45,SULAWESI BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741170,56.17,SULAWESI BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741180,37.65,SULAWESI BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741190,48.2,SULAWESI BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741200,56.6,SULAWESI BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+7600198016741210,56.22,SULAWESI BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721150,91.56,MALUKU,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721160,93.6,MALUKU,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721170,93.98,MALUKU,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721180,94.49,MALUKU,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721190,94.95,MALUKU,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721200,97.47,MALUKU,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016721210,98.5,MALUKU,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731150,86.29,MALUKU,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731160,88.43,MALUKU,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731170,84.35,MALUKU,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731180,86.38,MALUKU,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731190,88.43,MALUKU,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731200,88.04,MALUKU,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016731210,93.08,MALUKU,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741150,58.59,MALUKU,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741160,72.87,MALUKU,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741170,73.58,MALUKU,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741180,66.42,MALUKU,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741190,67.82,MALUKU,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741200,70.55,MALUKU,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8100198016741210,68.12,MALUKU,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721150,92.25,MALUKU UTARA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721160,91.83,MALUKU UTARA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721170,95.37,MALUKU UTARA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721180,95.65,MALUKU UTARA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721190,94.66,MALUKU UTARA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721200,95.59,MALUKU UTARA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016721210,96.97,MALUKU UTARA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731150,76.39,MALUKU UTARA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731160,83.23,MALUKU UTARA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731170,83.76,MALUKU UTARA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731180,85.39,MALUKU UTARA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731190,85.07,MALUKU UTARA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731200,87.41,MALUKU UTARA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016731210,92.93,MALUKU UTARA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741150,57.12,MALUKU UTARA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741160,64.87,MALUKU UTARA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741170,65.14,MALUKU UTARA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741180,60.07,MALUKU UTARA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741190,59.13,MALUKU UTARA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741200,66.52,MALUKU UTARA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+8200198016741210,66.95,MALUKU UTARA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721150,82.45,PAPUA BARAT,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721160,84.77,PAPUA BARAT,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721170,85.96,PAPUA BARAT,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721180,86.46,PAPUA BARAT,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721190,88.46,PAPUA BARAT,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721200,89.25,PAPUA BARAT,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016721210,91.81,PAPUA BARAT,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731150,76.33,PAPUA BARAT,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731160,76.28,PAPUA BARAT,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731170,78.31,PAPUA BARAT,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731180,81.19,PAPUA BARAT,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731190,80.91,PAPUA BARAT,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731200,83.47,PAPUA BARAT,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016731210,85.18,PAPUA BARAT,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741150,55.24,PAPUA BARAT,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741160,56.12,PAPUA BARAT,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741170,62.81,PAPUA BARAT,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741180,60.47,PAPUA BARAT,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741190,50.95,PAPUA BARAT,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741200,61.49,PAPUA BARAT,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9100198016741210,59.08,PAPUA BARAT,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721150,62.34,PAPUA,SD / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721160,65.66,PAPUA,SD / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721170,74.18,PAPUA,SD / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721180,71.83,PAPUA,SD / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721190,73.07,PAPUA,SD / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721200,78.4,PAPUA,SD / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016721210,78.43,PAPUA,SD / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731150,50.57,PAPUA,SMP / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731160,54.82,PAPUA,SMP / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731170,57.86,PAPUA,SMP / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731180,57.19,PAPUA,SMP / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731190,59.31,PAPUA,SMP / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731200,65.75,PAPUA,SMP / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016731210,66.06,PAPUA,SMP / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741150,28.23,PAPUA,SMA / Sederajat,2015,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741160,35.69,PAPUA,SMA / Sederajat,2016,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741170,33.82,PAPUA,SMA / Sederajat,2017,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741180,29.56,PAPUA,SMA / Sederajat,2018,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741190,27.44,PAPUA,SMA / Sederajat,2019,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741200,30.92,PAPUA,SMA / Sederajat,2020,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+9400198016741210,32.95,PAPUA,SMA / Sederajat,2021,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
