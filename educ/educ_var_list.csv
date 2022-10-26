@@ -1,0 +1,75 @@
+var_id,title
+102,Persentase Penduduk Buta Huruf
+205,Jumlah Desa yang Memiliki Fasilitas Sekolah Menurut Provinsi dan Tingkat Pendidikan
+301,Angka Partisipasi Sekolah ( A P S )
+303,Angka Partisipasi Kasar ( A P K )
+304,Angka Partisipasi Murni ( A P M )
+1339,Angka Partisipasi Kasar (APK) SMA/SMK/MA/ Sederajat Menurut Jenis Kelamin
+1342,Angka Partisipasi Kasar (APK) SMA/SMK/MA/ Sederajat Menurut Daerah Tempat Tinggal
+1343,Angka Partisipasi Kasar (APK) SMA/SMK/MA/ Sederajat Menurut Kelompok Pendapatan
+1417,Proporsi Anak Kelas 4 SD yang Mencapai Standar Kemampuan Minimum Dalam Membaca dan Matematika
+1419,Persentase SD/MI berakreditasi minimal B dan Persentase SMP/MTS berakreditasi minimal B
+1421,Hasil Akreditasi Menurut Jenjang Sekolah dan Peringkat Akreditasi
+1423,Angka Partisipasi Kasar (APK) SD/MI/Sederajat Menurut Daerah Tempat Tinggal
+1424,Angka Partisipasi Kasar (APK) SD/MI/Sederajat Menurut Jenis Kelamin
+1425,Angka Partisipasi Kasar (APK) SD/MI/Sederajat Menurut Kelompok Pengeluaran
+1426,Angka Partisipasi Kasar (APK) SMP/MTS/Sederajat Menurut Daerah Tempat Tinggal
+1427,Angka Partisipasi Kasar (APK) SMP/MTS/Sederajat Menurut Jenis Kelamin
+1428,Angka Partisipasi Kasar (APK) SMP/MTS/Sederajat Menurut Kelompok Pengeluaran
+1429,Rata-Rata Lama Sekolah Penduduk Umur ≥ 15 Tahun Menurut Provinsi
+1430,Rata-Rata Lama Sekolah Penduduk Umur ≥ 15 Tahun Menurut Daerah Tempat Tinggal
+1431,Rata-Rata Lama Sekolah Penduduk Umur ≥ 15 Tahun Menurut Jenis Kelamin
+1432,Rata-Rata Lama Sekolah Penduduk Umur ≥ 15 Tahun Menurut Kelompok Pengeluaran
+1439,Angka Partisipasi Kasar (APK) Anak Yang Mengikuti Pendidikan Anak Usia Dini (PAUD) Menurut Provinsi
+1440,Angka Partisipasi Kasar (APK) Anak Yang Mengikuti Pendidikan Anak Usia Dini (PAUD) Menurut Daerah Tempat Tinggal
+1441,Angka Partisipasi Kasar (APK) Anak Yang Mengikuti Pendidikan Anak Usia Dini (PAUD) Menurut Jenis Kelamin
+1442,Angka Partisipasi Kasar (APK) Anak Yang Mengikuti Pendidikan Anak Usia Dini (PAUD) Menurut Kelompok Pengeluaran
+1443,Angka Partisipasi Kasar (APK) Perguruan Tinggi (PT) Menurut Provinsi
+1444,Angka Partisipasi Kasar (APK) Perguruan Tinggi (PT) Menurut Kelompok Pengeluaran
+1445,Angka Partisipasi Kasar (APK) Perguruan Tinggi (PT) Menurut Daerah Tempat Tinggal
+1446,Angka Partisipasi Kasar (APK) Perguruan Tinggi (PT) Menurut Jenis Kelamin
+1447,Proporsi Remaja Dan Dewasa Usia 15-59 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Provinsi
+1448,Proporsi Remaja Dan Dewasa Usia 15-59 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Kelompok Pengeluaran
+1449,Proporsi Remaja Dan Dewasa Usia 15-59 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Daerah Tempat Tinggal
+1450,Proporsi Remaja Dan Dewasa Usia 15-59 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Jenis Kelamin
+1451,Proporsi Remaja Dan Dewasa Usia 15-24 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Provinsi
+1452,Proporsi Remaja Dan Dewasa Usia 15-24 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Kelompok Pengeluaran
+1453,Proporsi Remaja Dan Dewasa Usia 15-24 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Daerah Tempat Tinggal
+1454,Proporsi Remaja Dan Dewasa Usia 15-24 Tahun Dengan Keterampilan Teknologi Informasi Dan Komputer (TIK) Menurut Jenis Kelamin
+1455,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Provinsi
+1456,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1457,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Kelompok Pengeluaran
+1458,Angka Melek Huruf Penduduk Berumur 15 Tahun Ke Atas Menurut Provinsi
+1459,Angka Melek Huruf Penduduk Berumur 15 Tahun Ke Atas Menurut Kelompok Pendapatan
+1460,Angka Melek Huruf Penduduk Berumur 15 Tahun Ke Atas Menurut Jenis Kelamin
+1461,Angka Melek Huruf Penduduk Berumur 15 Tahun Ke Atas Menurut Daerah Tempat Tinggal
+1462,Angka Melek Huruf Penduduk Umur 15-24 Tahun Menurut Provinsi
+1463,Angka Melek Huruf Penduduk Umur 15-24 Tahun Menurut Daerah Tempat Tinggal
+1464,Angka Melek Huruf Penduduk Umur 15-24 Tahun Menurut Jenis Kelamin
+1465,Angka Melek Huruf Penduduk Umur 15-24 Tahun Menurut Kelompok Pendapatan
+1466,Angka Melek Huruf Penduduk Umur 15-59 Tahun Menurut Provinsi
+1467,Angka Melek Huruf Penduduk Umur 15-59 Tahun Menurut Daerah Tempat Tinggal
+1468,Angka Melek Huruf Penduduk Umur 15-59 Tahun Menurut Jenis Kelamin
+1469,Angka Melek Huruf Penduduk Umur 15-59 Tahun Menurut Kelompok Pendapatan
+1526,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
+1527,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1607,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Kelompok Pendapatan
+1608,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Kelompok Pendapatan (Pengeluaran)
+1794,Proporsi Sekolah dengan Akses Listrik 
+1796,Proporsi Sekolah dengan Akses Komputer
+1797,Proporsi Sekolah dengan Akses Fasilitas Sumber Air Layak 
+1798,Proporsi Sekolah dengan Akses Fasilitas Toilet Terpisah
+1799,"Persentase Guru TK, SD, SMP, SMA, dan SLB Bersertifikasi Pendidik, Persentase Guru Berkualifikasi Minimal S1 pada Satuan Tingkat Pendidikan"
+1980,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Provinsi
+1981,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Wilayah
+1982,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Jenis Kelamin
+1983,Tingkat Penyelesaian Pendidikan Menurut Jenjang Pendidikan dan Kelompok Pengeluaran
+1984,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1986,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Jenis Kelamin
+1988,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Kelompok Pengeluaran
+1990,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut provinsi
+1992,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1994,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1996,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+1998,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+2000,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Kelompok Pengeluaran"
