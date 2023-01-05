@@ -1,17 +1,17 @@
-id,values,breakdown,year,data_title
-4179601150,60.9,SMK,,Proporsi Sekolah dengan Akses Komputer
-4179601160,73.0,SMK,,Proporsi Sekolah dengan Akses Komputer
-4179601170,74.0,SMK,,Proporsi Sekolah dengan Akses Komputer
-4179601180,79.0,SMK,,Proporsi Sekolah dengan Akses Komputer
-1179601150,32.05,SD,,Proporsi Sekolah dengan Akses Komputer
-1179601160,39.67,SD,,Proporsi Sekolah dengan Akses Komputer
-1179601170,41.07,SD,,Proporsi Sekolah dengan Akses Komputer
-1179601180,40.38,SD,,Proporsi Sekolah dengan Akses Komputer
-2179601150,43.41,SMP,,Proporsi Sekolah dengan Akses Komputer
-2179601160,54.0,SMP,,Proporsi Sekolah dengan Akses Komputer
-2179601170,55.0,SMP,,Proporsi Sekolah dengan Akses Komputer
-2179601180,55.0,SMP,,Proporsi Sekolah dengan Akses Komputer
-3179601150,55.02,SMA,,Proporsi Sekolah dengan Akses Komputer
-3179601160,64.36,SMA,,Proporsi Sekolah dengan Akses Komputer
-3179601170,67.5,SMA,,Proporsi Sekolah dengan Akses Komputer
-3179601180,72.92,SMA,,Proporsi Sekolah dengan Akses Komputer
+id,values,jenjang,tahun,data_title
+4179601150,60.9,SMK,2015,Proporsi Sekolah dengan Akses Komputer
+4179601160,73.0,SMK,2016,Proporsi Sekolah dengan Akses Komputer
+4179601170,74.0,SMK,2017,Proporsi Sekolah dengan Akses Komputer
+4179601180,79.0,SMK,2018,Proporsi Sekolah dengan Akses Komputer
+1179601150,32.05,SD,2015,Proporsi Sekolah dengan Akses Komputer
+1179601160,39.67,SD,2016,Proporsi Sekolah dengan Akses Komputer
+1179601170,41.07,SD,2017,Proporsi Sekolah dengan Akses Komputer
+1179601180,40.38,SD,2018,Proporsi Sekolah dengan Akses Komputer
+2179601150,43.41,SMP,2015,Proporsi Sekolah dengan Akses Komputer
+2179601160,54.0,SMP,2016,Proporsi Sekolah dengan Akses Komputer
+2179601170,55.0,SMP,2017,Proporsi Sekolah dengan Akses Komputer
+2179601180,55.0,SMP,2018,Proporsi Sekolah dengan Akses Komputer
+3179601150,55.02,SMA,2015,Proporsi Sekolah dengan Akses Komputer
+3179601160,64.36,SMA,2016,Proporsi Sekolah dengan Akses Komputer
+3179601170,67.5,SMA,2017,Proporsi Sekolah dengan Akses Komputer
+3179601180,72.92,SMA,2018,Proporsi Sekolah dengan Akses Komputer

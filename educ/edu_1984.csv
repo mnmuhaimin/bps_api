@@ -1,28 +1,28 @@
-id,values,area,breakdown,year,data_title
-1198416721190,0.48,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416721200,0.31,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416721210,0.34,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416731190,5.18,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416731200,5.83,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416731210,5.29,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416741190,19.46,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416741200,18.11,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-1198416741210,17.27,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416721190,1.28,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416721200,0.98,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416721210,1.04,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416731190,8.97,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416731200,9.02,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416731210,8.62,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416741190,29.36,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416741200,27.81,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-2198416741210,27.22,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416721190,0.85,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416721200,0.62,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416721210,0.65,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416731190,6.92,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416731200,7.29,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416731210,6.77,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416741190,23.75,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416741200,22.31,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
-3198416741210,21.47,,,,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+id,values,daerah,jenjang,tahun,data_title
+1198416721190,0.48,Perkotaan,SD / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416721200,0.31,Perkotaan,SD / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416721210,0.34,Perkotaan,SD / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416731190,5.18,Perkotaan,SMP / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416731200,5.83,Perkotaan,SMP / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416731210,5.29,Perkotaan,SMP / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416741190,19.46,Perkotaan,SMA / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416741200,18.11,Perkotaan,SMA / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+1198416741210,17.27,Perkotaan,SMA / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416721190,1.28,Perdesaan,SD / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416721200,0.98,Perdesaan,SD / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416721210,1.04,Perdesaan,SD / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416731190,8.97,Perdesaan,SMP / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416731200,9.02,Perdesaan,SMP / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416731210,8.62,Perdesaan,SMP / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416741190,29.36,Perdesaan,SMA / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416741200,27.81,Perdesaan,SMA / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+2198416741210,27.22,Perdesaan,SMA / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416721190,0.85,Perkotaan + Perdesaan,SD / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416721200,0.62,Perkotaan + Perdesaan,SD / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416721210,0.65,Perkotaan + Perdesaan,SD / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416731190,6.92,Perkotaan + Perdesaan,SMP / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416731200,7.29,Perkotaan + Perdesaan,SMP / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416731210,6.77,Perkotaan + Perdesaan,SMP / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416741190,23.75,Perkotaan + Perdesaan,SMA / Sederajat,2019,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416741200,22.31,Perkotaan + Perdesaan,SMA / Sederajat,2020,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal
+3198416741210,21.47,Perkotaan + Perdesaan,SMA / Sederajat,2021,Angka Anak Tidak Sekolah Menurut Jenjang Pendidikan dan Daerah Tempat Tinggal

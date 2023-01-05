@@ -1,4 +1,4 @@
-id,values,breakdown,year,data_title
+id,values,area,tahun,data_title
 1152601150,116.97,Perkotaan,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 1152601160,109.9,Perkotaan,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 1152601170,110.66,Perkotaan,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
@@ -6,6 +6,7 @@ id,values,breakdown,year,data_title
 1152601190,108.45,Perkotaan,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 1152601200,109.41,Perkotaan,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 1152601210,113.66,Perkotaan,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
+1152601220,115.15,Perkotaan,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 2152601150,125.78,Perdesaan,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 2152601160,127.48,Perdesaan,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 2152601170,117.67,Perdesaan,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
@@ -13,6 +14,7 @@ id,values,breakdown,year,data_title
 2152601190,115.28,Perdesaan,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 2152601200,111.57,Perdesaan,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 2152601210,123.12,Perdesaan,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
+2152601220,116.96,Perdesaan,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 3152601150,119.36,Perkotaan+Perdesaan,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 3152601160,115.6,Perkotaan+Perdesaan,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 3152601170,112.72,Perkotaan+Perdesaan,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
@@ -20,3 +22,4 @@ id,values,breakdown,year,data_title
 3152601190,109.47,Perkotaan+Perdesaan,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 3152601200,109.01,Perkotaan+Perdesaan,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
 3152601210,115.26,Perkotaan+Perdesaan,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal
+3152601220,116.04,Perkotaan+Perdesaan,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Daerah Tempat Tinggal

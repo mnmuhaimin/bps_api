@@ -1,17 +1,17 @@
-id,values,breakdown,year,data_title
-4179401150,97.83,SMK,,Proporsi Sekolah dengan Akses Listrik 
-4179401160,99.08,SMK,,Proporsi Sekolah dengan Akses Listrik 
-4179401170,99.37,SMK,,Proporsi Sekolah dengan Akses Listrik 
-4179401180,99.56,SMK,,Proporsi Sekolah dengan Akses Listrik 
-1179401150,90.77,SD,,Proporsi Sekolah dengan Akses Listrik 
-1179401160,93.25,SD,,Proporsi Sekolah dengan Akses Listrik 
-1179401170,93.91,SD,,Proporsi Sekolah dengan Akses Listrik 
-1179401180,94.4,SD,,Proporsi Sekolah dengan Akses Listrik 
-2179401150,93.6,SMP,,Proporsi Sekolah dengan Akses Listrik 
-2179401160,96.08,SMP,,Proporsi Sekolah dengan Akses Listrik 
-2179401170,96.56,SMP,,Proporsi Sekolah dengan Akses Listrik 
-2179401180,96.85,SMP,,Proporsi Sekolah dengan Akses Listrik 
-3179401150,97.19,SMA,,Proporsi Sekolah dengan Akses Listrik 
-3179401160,98.05,SMA,,Proporsi Sekolah dengan Akses Listrik 
-3179401170,98.41,SMA,,Proporsi Sekolah dengan Akses Listrik 
-3179401180,98.93,SMA,,Proporsi Sekolah dengan Akses Listrik 
+id,values,jenjang,tahun,data_title
+4179401150,97.83,SMK,2015,Proporsi Sekolah dengan Akses Listrik 
+4179401160,99.08,SMK,2016,Proporsi Sekolah dengan Akses Listrik 
+4179401170,99.37,SMK,2017,Proporsi Sekolah dengan Akses Listrik 
+4179401180,99.56,SMK,2018,Proporsi Sekolah dengan Akses Listrik 
+1179401150,90.77,SD,2015,Proporsi Sekolah dengan Akses Listrik 
+1179401160,93.25,SD,2016,Proporsi Sekolah dengan Akses Listrik 
+1179401170,93.91,SD,2017,Proporsi Sekolah dengan Akses Listrik 
+1179401180,94.4,SD,2018,Proporsi Sekolah dengan Akses Listrik 
+2179401150,93.6,SMP,2015,Proporsi Sekolah dengan Akses Listrik 
+2179401160,96.08,SMP,2016,Proporsi Sekolah dengan Akses Listrik 
+2179401170,96.56,SMP,2017,Proporsi Sekolah dengan Akses Listrik 
+2179401180,96.85,SMP,2018,Proporsi Sekolah dengan Akses Listrik 
+3179401150,97.19,SMA,2015,Proporsi Sekolah dengan Akses Listrik 
+3179401160,98.05,SMA,2016,Proporsi Sekolah dengan Akses Listrik 
+3179401170,98.41,SMA,2017,Proporsi Sekolah dengan Akses Listrik 
+3179401180,98.93,SMA,2018,Proporsi Sekolah dengan Akses Listrik 

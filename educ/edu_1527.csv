@@ -1,4 +1,4 @@
-id,values,breakdown,year,data_title
+id,values,area,tahun,data_title
 9999152701150,119.36,INDONESIA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9999152701160,115.6,INDONESIA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9999152701170,112.72,INDONESIA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -6,6 +6,7 @@ id,values,breakdown,year,data_title
 9999152701190,109.47,INDONESIA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9999152701200,109.01,INDONESIA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9999152701210,115.26,INDONESIA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+9999152701220,116.04,INDONESIA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1100152701150,155.52,ACEH,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1100152701160,128.71,ACEH,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1100152701170,117.88,ACEH,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -13,6 +14,7 @@ id,values,breakdown,year,data_title
 1100152701190,119.84,ACEH,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1100152701200,107.36,ACEH,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1100152701210,116.72,ACEH,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1100152701220,120.93,ACEH,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1200152701150,158.45,SUMATERA UTARA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1200152701160,152.56,SUMATERA UTARA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1200152701170,115.5,SUMATERA UTARA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -20,6 +22,7 @@ id,values,breakdown,year,data_title
 1200152701190,122.32,SUMATERA UTARA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1200152701200,115.41,SUMATERA UTARA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1200152701210,122.58,SUMATERA UTARA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1200152701220,115.04,SUMATERA UTARA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1300152701150,148.5,SUMATERA BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1300152701160,141.22,SUMATERA BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1300152701170,133.32,SUMATERA BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -27,6 +30,7 @@ id,values,breakdown,year,data_title
 1300152701190,123.63,SUMATERA BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1300152701200,133.35,SUMATERA BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1300152701210,140.12,SUMATERA BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1300152701220,133.2,SUMATERA BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1400152701150,128.8,RIAU,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1400152701160,115.67,RIAU,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1400152701170,123.67,RIAU,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -34,6 +38,7 @@ id,values,breakdown,year,data_title
 1400152701190,128.94,RIAU,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1400152701200,100.22,RIAU,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1400152701210,123.69,RIAU,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1400152701220,122.94,RIAU,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1500152701150,135.29,JAMBI,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1500152701160,106.98,JAMBI,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1500152701170,124.66,JAMBI,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -41,6 +46,7 @@ id,values,breakdown,year,data_title
 1500152701190,118.29,JAMBI,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1500152701200,109.22,JAMBI,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1500152701210,123.61,JAMBI,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1500152701220,120.94,JAMBI,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1600152701150,141.61,SUMATERA SELATAN,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1600152701160,107.85,SUMATERA SELATAN,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1600152701170,124.03,SUMATERA SELATAN,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -48,6 +54,7 @@ id,values,breakdown,year,data_title
 1600152701190,109.65,SUMATERA SELATAN,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1600152701200,122.14,SUMATERA SELATAN,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1600152701210,107.98,SUMATERA SELATAN,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1600152701220,135.61,SUMATERA SELATAN,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1700152701150,168.29,BENGKULU,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1700152701160,127.88,BENGKULU,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1700152701170,126.92,BENGKULU,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -55,6 +62,7 @@ id,values,breakdown,year,data_title
 1700152701190,145.87,BENGKULU,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1700152701200,118.84,BENGKULU,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1700152701210,109.75,BENGKULU,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1700152701220,104.29,BENGKULU,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1800152701150,146.1,LAMPUNG,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1800152701160,117.43,LAMPUNG,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1800152701170,136.41,LAMPUNG,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -62,6 +70,7 @@ id,values,breakdown,year,data_title
 1800152701190,119.21,LAMPUNG,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1800152701200,125.37,LAMPUNG,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1800152701210,105.55,LAMPUNG,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1800152701220,127.28,LAMPUNG,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1900152701150,173.03,KEP. BANGKA BELITUNG,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1900152701160,245.05,KEP. BANGKA BELITUNG,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1900152701170,134.4,KEP. BANGKA BELITUNG,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -69,6 +78,7 @@ id,values,breakdown,year,data_title
 1900152701190,113.88,KEP. BANGKA BELITUNG,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1900152701200,112.94,KEP. BANGKA BELITUNG,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 1900152701210,122.48,KEP. BANGKA BELITUNG,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+1900152701220,132.11,KEP. BANGKA BELITUNG,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 2100152701150,141.23,KEP. RIAU,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 2100152701160,124.05,KEP. RIAU,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 2100152701170,96.86,KEP. RIAU,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -76,6 +86,7 @@ id,values,breakdown,year,data_title
 2100152701190,91.49,KEP. RIAU,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 2100152701200,134.9,KEP. RIAU,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 2100152701210,111.9,KEP. RIAU,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+2100152701220,115.53,KEP. RIAU,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3100152701150,116.87,DKI JAKARTA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3100152701160,104.68,DKI JAKARTA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3100152701170,91.22,DKI JAKARTA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -83,6 +94,7 @@ id,values,breakdown,year,data_title
 3100152701190,108.29,DKI JAKARTA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3100152701200,95.71,DKI JAKARTA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3100152701210,99.58,DKI JAKARTA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3100152701220,112.33,DKI JAKARTA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3200152701150,108.06,JAWA BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3200152701160,123.04,JAWA BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3200152701170,109.86,JAWA BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -90,6 +102,7 @@ id,values,breakdown,year,data_title
 3200152701190,109.49,JAWA BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3200152701200,102.11,JAWA BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3200152701210,111.94,JAWA BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3200152701220,104.87,JAWA BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3300152701150,126.27,JAWA TENGAH,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3300152701160,135.84,JAWA TENGAH,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3300152701170,115.51,JAWA TENGAH,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -97,6 +110,7 @@ id,values,breakdown,year,data_title
 3300152701190,98.47,JAWA TENGAH,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3300152701200,129.61,JAWA TENGAH,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3300152701210,126.62,JAWA TENGAH,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3300152701220,116.06,JAWA TENGAH,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3400152701150,95.48,DI YOGYAKARTA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3400152701160,97.67,DI YOGYAKARTA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3400152701170,102.49,DI YOGYAKARTA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -104,6 +118,7 @@ id,values,breakdown,year,data_title
 3400152701190,96.79,DI YOGYAKARTA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3400152701200,96.18,DI YOGYAKARTA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3400152701210,103.51,DI YOGYAKARTA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3400152701220,101.59,DI YOGYAKARTA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3500152701150,97.99,JAWA TIMUR,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3500152701160,84.59,JAWA TIMUR,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3500152701170,111.77,JAWA TIMUR,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -111,6 +126,7 @@ id,values,breakdown,year,data_title
 3500152701190,103.47,JAWA TIMUR,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3500152701200,107.17,JAWA TIMUR,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3500152701210,110.6,JAWA TIMUR,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3500152701220,120.94,JAWA TIMUR,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3600152701150,115.69,BANTEN,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3600152701160,95.75,BANTEN,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3600152701170,115.54,BANTEN,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -118,6 +134,7 @@ id,values,breakdown,year,data_title
 3600152701190,109.75,BANTEN,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3600152701200,88.36,BANTEN,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 3600152701210,122.58,BANTEN,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+3600152701220,114.55,BANTEN,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5100152701150,96.37,BALI,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5100152701160,86.27,BALI,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5100152701170,96.47,BALI,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -125,6 +142,7 @@ id,values,breakdown,year,data_title
 5100152701190,96.96,BALI,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5100152701200,97.37,BALI,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5100152701210,98.8,BALI,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+5100152701220,103.43,BALI,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5200152701150,99.27,NUSA TENGGARA BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5200152701160,118.84,NUSA TENGGARA BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5200152701170,99.19,NUSA TENGGARA BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -132,6 +150,7 @@ id,values,breakdown,year,data_title
 5200152701190,92.79,NUSA TENGGARA BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5200152701200,99.6,NUSA TENGGARA BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5200152701210,95.45,NUSA TENGGARA BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+5200152701220,92.18,NUSA TENGGARA BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5300152701150,108.6,NUSA TENGGARA TIMUR,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5300152701160,131.36,NUSA TENGGARA TIMUR,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5300152701170,91.28,NUSA TENGGARA TIMUR,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -139,6 +158,7 @@ id,values,breakdown,year,data_title
 5300152701190,107.66,NUSA TENGGARA TIMUR,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5300152701200,101.38,NUSA TENGGARA TIMUR,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 5300152701210,128.96,NUSA TENGGARA TIMUR,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+5300152701220,122.02,NUSA TENGGARA TIMUR,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6100152701150,100.72,KALIMANTAN BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6100152701160,105.88,KALIMANTAN BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6100152701170,111.94,KALIMANTAN BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -146,6 +166,7 @@ id,values,breakdown,year,data_title
 6100152701190,117.96,KALIMANTAN BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6100152701200,127.71,KALIMANTAN BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6100152701210,107.76,KALIMANTAN BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+6100152701220,147.29,KALIMANTAN BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6200152701150,122.82,KALIMANTAN TENGAH,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6200152701160,133.06,KALIMANTAN TENGAH,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6200152701170,101.93,KALIMANTAN TENGAH,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -153,6 +174,7 @@ id,values,breakdown,year,data_title
 6200152701190,86.02,KALIMANTAN TENGAH,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6200152701200,105.33,KALIMANTAN TENGAH,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6200152701210,100.4,KALIMANTAN TENGAH,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+6200152701220,123.92,KALIMANTAN TENGAH,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6300152701150,124.32,KALIMANTAN SELATAN,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6300152701160,140.03,KALIMANTAN SELATAN,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6300152701170,115.49,KALIMANTAN SELATAN,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -160,6 +182,7 @@ id,values,breakdown,year,data_title
 6300152701190,131.15,KALIMANTAN SELATAN,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6300152701200,135.09,KALIMANTAN SELATAN,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6300152701210,105.88,KALIMANTAN SELATAN,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+6300152701220,109.79,KALIMANTAN SELATAN,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6400152701150,131.01,KALIMANTAN TIMUR,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6400152701160,160.99,KALIMANTAN TIMUR,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6400152701170,106.04,KALIMANTAN TIMUR,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -167,6 +190,7 @@ id,values,breakdown,year,data_title
 6400152701190,120.37,KALIMANTAN TIMUR,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6400152701200,111.63,KALIMANTAN TIMUR,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6400152701210,110.38,KALIMANTAN TIMUR,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+6400152701220,116.31,KALIMANTAN TIMUR,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6500152701150,117.93,KALIMANTAN UTARA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6500152701160,137.25,KALIMANTAN UTARA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6500152701170,80.8,KALIMANTAN UTARA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -174,6 +198,7 @@ id,values,breakdown,year,data_title
 6500152701190,140.52,KALIMANTAN UTARA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6500152701200,110.05,KALIMANTAN UTARA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 6500152701210,87.06,KALIMANTAN UTARA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+6500152701220,114.44,KALIMANTAN UTARA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7100152701150,130.41,SULAWESI UTARA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7100152701160,119.9,SULAWESI UTARA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7100152701170,117.46,SULAWESI UTARA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -181,6 +206,7 @@ id,values,breakdown,year,data_title
 7100152701190,118.85,SULAWESI UTARA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7100152701200,99.92,SULAWESI UTARA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7100152701210,116.58,SULAWESI UTARA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7100152701220,145.76,SULAWESI UTARA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7200152701150,123.53,SULAWESI TENGAH,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7200152701160,128.75,SULAWESI TENGAH,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7200152701170,106.23,SULAWESI TENGAH,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -188,6 +214,7 @@ id,values,breakdown,year,data_title
 7200152701190,102.35,SULAWESI TENGAH,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7200152701200,106.49,SULAWESI TENGAH,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7200152701210,126.89,SULAWESI TENGAH,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7200152701220,125.33,SULAWESI TENGAH,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7300152701150,132.62,SULAWESI SELATAN,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7300152701160,133.46,SULAWESI SELATAN,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7300152701170,122.69,SULAWESI SELATAN,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -195,6 +222,7 @@ id,values,breakdown,year,data_title
 7300152701190,122.0,SULAWESI SELATAN,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7300152701200,116.5,SULAWESI SELATAN,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7300152701210,127.54,SULAWESI SELATAN,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7300152701220,113.75,SULAWESI SELATAN,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7400152701150,129.66,SULAWESI TENGGARA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7400152701160,108.51,SULAWESI TENGGARA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7400152701170,113.28,SULAWESI TENGGARA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -202,6 +230,7 @@ id,values,breakdown,year,data_title
 7400152701190,108.75,SULAWESI TENGGARA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7400152701200,109.98,SULAWESI TENGGARA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7400152701210,112.27,SULAWESI TENGGARA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7400152701220,124.95,SULAWESI TENGGARA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7500152701150,149.45,GORONTALO,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7500152701160,136.57,GORONTALO,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7500152701170,126.54,GORONTALO,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -209,6 +238,7 @@ id,values,breakdown,year,data_title
 7500152701190,106.72,GORONTALO,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7500152701200,130.4,GORONTALO,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7500152701210,175.5,GORONTALO,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7500152701220,122.75,GORONTALO,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7600152701150,112.01,SULAWESI BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7600152701160,119.99,SULAWESI BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7600152701170,138.92,SULAWESI BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -216,6 +246,7 @@ id,values,breakdown,year,data_title
 7600152701190,97.73,SULAWESI BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7600152701200,110.47,SULAWESI BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 7600152701210,132.71,SULAWESI BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+7600152701220,127.2,SULAWESI BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8100152701150,137.76,MALUKU,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8100152701160,107.18,MALUKU,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8100152701170,128.58,MALUKU,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -223,6 +254,7 @@ id,values,breakdown,year,data_title
 8100152701190,106.09,MALUKU,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8100152701200,114.1,MALUKU,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8100152701210,116.26,MALUKU,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+8100152701220,120.02,MALUKU,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8200152701150,155.21,MALUKU UTARA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8200152701160,113.73,MALUKU UTARA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8200152701170,97.24,MALUKU UTARA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -230,6 +262,7 @@ id,values,breakdown,year,data_title
 8200152701190,120.42,MALUKU UTARA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8200152701200,97.91,MALUKU UTARA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 8200152701210,113.98,MALUKU UTARA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+8200152701220,118.22,MALUKU UTARA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9100152701150,131.54,PAPUA BARAT,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9100152701160,123.37,PAPUA BARAT,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9100152701170,103.62,PAPUA BARAT,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -237,6 +270,7 @@ id,values,breakdown,year,data_title
 9100152701190,92.76,PAPUA BARAT,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9100152701200,102.45,PAPUA BARAT,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9100152701210,113.32,PAPUA BARAT,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+9100152701220,110.36,PAPUA BARAT,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9400152701150,80.27,PAPUA,2015,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9400152701160,111.37,PAPUA,2016,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9400152701170,97.6,PAPUA,2017,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
@@ -244,3 +278,4 @@ id,values,breakdown,year,data_title
 9400152701190,92.82,PAPUA,2019,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9400152701200,101.38,PAPUA,2020,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
 9400152701210,99.39,PAPUA,2021,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi
+9400152701220,115.54,PAPUA,2022,Rasio Angka Partisipasi Kasar (APK) Perempuan/Laki-Laki di Tingkat Perguruan Tinggi Menurut Provinsi

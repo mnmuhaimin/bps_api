@@ -1,70 +1,82 @@
-id,values,breakdown_1,tahun,breakdown_2,data_title
-1145611691150,100.43,Perkotaan,2015,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691160,99.62,Perkotaan,2016,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691170,99.46,Perkotaan,2017,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691180,99.39,Perkotaan,2018,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691190,99.96,Perkotaan,2019,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691200,100.14,Perkotaan,2020,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611691210,99.99,Perkotaan,2021,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701150,102.9,Perkotaan,2015,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701160,104.05,Perkotaan,2016,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701170,100.49,Perkotaan,2017,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701180,100.42,Perkotaan,2018,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701190,100.12,Perkotaan,2019,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701200,100.15,Perkotaan,2020,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611701210,99.45,Perkotaan,2021,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711150,102.77,Perkotaan,2015,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711160,104.19,Perkotaan,2016,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711170,101.23,Perkotaan,2017,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711180,101.06,Perkotaan,2018,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711190,103.83,Perkotaan,2019,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711200,100.08,Perkotaan,2020,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611711210,100.22,Perkotaan,2021,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611721200,115.58,Perkotaan,2020,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-1145611721210,117.41,Perkotaan,2021,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691150,100.23,Perdesaan,2015,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691160,99.77,Perdesaan,2016,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691170,99.93,Perdesaan,2017,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691180,99.77,Perdesaan,2018,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691190,100.11,Perdesaan,2019,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691200,99.81,Perdesaan,2020,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611691210,100.0,Perdesaan,2021,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701150,106.05,Perdesaan,2015,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701160,105.68,Perdesaan,2016,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701170,104.34,Perdesaan,2017,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701180,103.33,Perdesaan,2018,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701190,103.23,Perdesaan,2019,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701200,100.86,Perdesaan,2020,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611701210,101.64,Perdesaan,2021,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711150,103.52,Perdesaan,2015,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711160,106.29,Perdesaan,2016,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711170,103.9,Perdesaan,2017,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711180,105.57,Perdesaan,2018,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711190,106.95,Perdesaan,2019,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711200,106.38,Perdesaan,2020,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611711210,105.03,Perdesaan,2021,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611721200,120.06,Perdesaan,2020,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-2145611721210,134.61,Perdesaan,2021,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691150,100.33,Perkotaan+Perdesaan,2015,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691160,99.7,Perkotaan+Perdesaan,2016,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691170,99.69,Perkotaan+Perdesaan,2017,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691180,99.57,Perkotaan+Perdesaan,2018,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691190,100.02,Perkotaan+Perdesaan,2019,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691200,99.98,Perkotaan+Perdesaan,2020,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611691210,99.98,Perkotaan+Perdesaan,2021,SD/MI/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701150,104.45,Perkotaan+Perdesaan,2015,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701160,104.89,Perkotaan+Perdesaan,2016,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701170,102.35,Perkotaan+Perdesaan,2017,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701180,101.76,Perkotaan+Perdesaan,2018,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701190,101.39,Perkotaan+Perdesaan,2019,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701200,100.41,Perkotaan+Perdesaan,2020,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611701210,100.34,Perkotaan+Perdesaan,2021,SMP/MTS/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711150,103.45,Perkotaan+Perdesaan,2015,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711160,105.54,Perkotaan+Perdesaan,2016,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711170,102.64,Perkotaan+Perdesaan,2017,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711180,103.19,Perkotaan+Perdesaan,2018,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711190,105.01,Perkotaan+Perdesaan,2019,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711200,102.58,Perkotaan+Perdesaan,2020,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611711210,102.09,Perkotaan+Perdesaan,2021,SMA/SMK/MA/SEDERAJAT,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611721200,115.47,Perkotaan+Perdesaan,2020,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
-3145611721210,120.47,Perkotaan+Perdesaan,2021,PERGURUAN TINGGI,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+id,values,area,jenjang,tahun,data_title
+1145611691150,100.43,Perkotaan,SD/MI/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691160,99.62,Perkotaan,SD/MI/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691170,99.46,Perkotaan,SD/MI/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691180,99.39,Perkotaan,SD/MI/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691190,99.96,Perkotaan,SD/MI/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691200,100.14,Perkotaan,SD/MI/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691210,99.99,Perkotaan,SD/MI/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611691220,100.16,Perkotaan,SD/MI/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701150,102.9,Perkotaan,SMP/MTS/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701160,104.05,Perkotaan,SMP/MTS/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701170,100.49,Perkotaan,SMP/MTS/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701180,100.42,Perkotaan,SMP/MTS/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701190,100.12,Perkotaan,SMP/MTS/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701200,100.15,Perkotaan,SMP/MTS/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701210,99.45,Perkotaan,SMP/MTS/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611701220,101.2,Perkotaan,SMP/MTS/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711150,102.77,Perkotaan,SMA/SMK/MA/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711160,104.19,Perkotaan,SMA/SMK/MA/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711170,101.23,Perkotaan,SMA/SMK/MA/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711180,101.06,Perkotaan,SMA/SMK/MA/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711190,103.83,Perkotaan,SMA/SMK/MA/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711200,100.08,Perkotaan,SMA/SMK/MA/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711210,100.22,Perkotaan,SMA/SMK/MA/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611711220,104.4,Perkotaan,SMA/SMK/MA/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611721200,115.58,Perkotaan,PERGURUAN TINGGI,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611721210,117.41,Perkotaan,PERGURUAN TINGGI,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+1145611721220,118.36,Perkotaan,PERGURUAN TINGGI,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691150,100.23,Perdesaan,SD/MI/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691160,99.77,Perdesaan,SD/MI/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691170,99.93,Perdesaan,SD/MI/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691180,99.77,Perdesaan,SD/MI/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691190,100.11,Perdesaan,SD/MI/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691200,99.81,Perdesaan,SD/MI/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691210,100.0,Perdesaan,SD/MI/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611691220,99.81,Perdesaan,SD/MI/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701150,106.05,Perdesaan,SMP/MTS/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701160,105.68,Perdesaan,SMP/MTS/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701170,104.34,Perdesaan,SMP/MTS/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701180,103.33,Perdesaan,SMP/MTS/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701190,103.23,Perdesaan,SMP/MTS/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701200,100.86,Perdesaan,SMP/MTS/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701210,101.64,Perdesaan,SMP/MTS/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611701220,102.77,Perdesaan,SMP/MTS/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711150,103.52,Perdesaan,SMA/SMK/MA/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711160,106.29,Perdesaan,SMA/SMK/MA/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711170,103.9,Perdesaan,SMA/SMK/MA/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711180,105.57,Perdesaan,SMA/SMK/MA/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711190,106.95,Perdesaan,SMA/SMK/MA/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711200,106.38,Perdesaan,SMA/SMK/MA/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711210,105.03,Perdesaan,SMA/SMK/MA/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611711220,107.6,Perdesaan,SMA/SMK/MA/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611721200,120.06,Perdesaan,PERGURUAN TINGGI,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611721210,134.61,Perdesaan,PERGURUAN TINGGI,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+2145611721220,126.22,Perdesaan,PERGURUAN TINGGI,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691150,100.33,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691160,99.7,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691170,99.69,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691180,99.57,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691190,100.02,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691200,99.98,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691210,99.98,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611691220,100.01,Perkotaan+Perdesaan,SD/MI/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701150,104.45,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701160,104.89,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701170,102.35,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701180,101.76,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701190,101.39,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701200,100.41,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701210,100.34,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611701220,101.89,Perkotaan+Perdesaan,SMP/MTS/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711150,103.45,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2015,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711160,105.54,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2016,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711170,102.64,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2017,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711180,103.19,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2018,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711190,105.01,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2019,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711200,102.58,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711210,102.09,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611711220,105.7,Perkotaan+Perdesaan,SMA/SMK/MA/SEDERAJAT,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611721200,115.47,Perkotaan+Perdesaan,PERGURUAN TINGGI,2020,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611721210,120.47,Perkotaan+Perdesaan,PERGURUAN TINGGI,2021,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
+3145611721220,121.04,Perkotaan+Perdesaan,PERGURUAN TINGGI,2022,Rasio Angka Partisipasi Murni (APM) Perempuan/Laki-Laki Menurut Daerah Tempat Tinggal
