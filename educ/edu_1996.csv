@@ -1,7 +1,7 @@
-id,values,breakdown,year,data_title
-1199619221180,50.9,Perkotaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
-1199619231180,2.78,Perkotaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
-2199619221180,45.72,Perdesaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
-2199619231180,1.67,Perdesaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
-3199619221180,48.66,Perkotaan + Perdesaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
-3199619231180,2.3,Perkotaan + Perdesaan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+id,values,jenis_kelamin,jenjang,tahun,data_title
+1199619221180,50.9,Perkotaan,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+1199619231180,2.78,Perkotaan,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+2199619221180,45.72,Perdesaan,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+2199619231180,1.67,Perdesaan,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+3199619221180,48.66,Perkotaan + Perdesaan,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"
+3199619231180,2.3,Perkotaan + Perdesaan,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut Daerah Tempat Tinggal"

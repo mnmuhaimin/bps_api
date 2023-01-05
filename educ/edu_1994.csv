@@ -1,22 +1,22 @@
-id,values,breakdown,year,data_title
-1199401150,95.38,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401160,94.49,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401170,94.27,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401180,95.6,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401190,96.15,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401200,92.81,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-1199401210,92.48,Laki-laki,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401150,96.35,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401160,95.28,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401170,95.51,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401180,96.14,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401190,96.59,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401200,92.7,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-2199401210,92.97,Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401150,95.85,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401160,94.88,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401170,94.87,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401180,95.86,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401190,96.37,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401200,92.76,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
-3199401210,92.72,Laki-laki + Perempuan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+id,values,provinsi,tahun,data_title
+1199401150,95.38,Laki-laki,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401160,94.49,Laki-laki,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401170,94.27,Laki-laki,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401180,95.6,Laki-laki,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401190,96.15,Laki-laki,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401200,92.81,Laki-laki,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+1199401210,92.48,Laki-laki,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401150,96.35,Perempuan,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401160,95.28,Perempuan,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401170,95.51,Perempuan,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401180,96.14,Perempuan,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401190,96.59,Perempuan,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401200,92.7,Perempuan,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+2199401210,92.97,Perempuan,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401150,95.85,Laki-laki + Perempuan,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401160,94.88,Laki-laki + Perempuan,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401170,94.87,Laki-laki + Perempuan,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401180,95.86,Laki-laki + Perempuan,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401190,96.37,Laki-laki + Perempuan,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401200,92.76,Laki-laki + Perempuan,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin
+3199401210,92.72,Laki-laki + Perempuan,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Jenis Kelamin

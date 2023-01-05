@@ -1,22 +1,22 @@
-id,values,breakdown,year,data_title
-1199201150,97.14,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201160,96.2,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201170,95.3,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201180,96.43,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201190,97.44,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201200,92.97,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-1199201210,93.2,Perkotaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201150,94.6,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201160,93.55,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201170,94.42,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201180,95.26,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201190,95.13,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201200,92.49,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-2199201210,92.13,Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201150,95.85,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201160,94.88,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201170,94.87,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201180,95.86,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201190,96.37,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201200,92.76,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
-3199201210,92.72,Perkotaan + Perdesaan,,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+id,values,provinsi,tahun,data_title
+1199201150,97.14,Perkotaan,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201160,96.2,Perkotaan,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201170,95.3,Perkotaan,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201180,96.43,Perkotaan,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201190,97.44,Perkotaan,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201200,92.97,Perkotaan,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+1199201210,93.2,Perkotaan,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201150,94.6,Perdesaan,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201160,93.55,Perdesaan,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201170,94.42,Perdesaan,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201180,95.26,Perdesaan,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201190,95.13,Perdesaan,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201200,92.49,Perdesaan,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+2199201210,92.13,Perdesaan,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201150,95.85,Perkotaan + Perdesaan,2015,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201160,94.88,Perkotaan + Perdesaan,2016,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201170,94.87,Perkotaan + Perdesaan,2017,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201180,95.86,Perkotaan + Perdesaan,2018,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201190,96.37,Perkotaan + Perdesaan,2019,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201200,92.76,Perkotaan + Perdesaan,2020,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal
+3199201210,92.72,Perkotaan + Perdesaan,2021,Tingkat partisipasi dalam pembelajaran yang teroganisir (satu tahun sebelum usia sekolah dasar) menurut Daerah Tempat Tinggal

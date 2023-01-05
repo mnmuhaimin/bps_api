@@ -1,7 +1,7 @@
-id,values,breakdown,year,data_title
-1199819221180,48.61,Laki-laki,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
-1199819231180,2.34,Laki-laki,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
-2199819221180,48.71,Perempuan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
-2199819231180,2.25,Perempuan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
-3199819221180,48.66,Laki-laki + Perempuan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
-3199819231180,2.3,Laki-laki + Perempuan,,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+id,values,jenis_kelamin,jenjang,tahun,data_title
+1199819221180,48.61,Laki-laki,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+1199819231180,2.34,Laki-laki,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+2199819221180,48.71,Perempuan,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+2199819231180,2.25,Perempuan,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+3199819221180,48.66,Laki-laki + Perempuan,15-24 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
+3199819231180,2.3,Laki-laki + Perempuan,25-64 tahun,2018,"Tingkat partisipasi remaja dan dewasa dalam pendidikan dan pelatihan formal dan non formal dalam 12 bulan terakhir, menurut jenis kelamin"
