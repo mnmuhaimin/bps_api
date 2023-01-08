@@ -1,0 +1,698 @@
+id,values,kuantil,tahun,data_title
+129701000,26.88,ACEH,2000,Persentase Penyelesaian Tindak Pidana
+129701010,29.3,ACEH,2001,Persentase Penyelesaian Tindak Pidana
+129701020,28.24,ACEH,2002,Persentase Penyelesaian Tindak Pidana
+129701030,13.25,ACEH,2003,Persentase Penyelesaian Tindak Pidana
+129701040,10.04,ACEH,2004,Persentase Penyelesaian Tindak Pidana
+129701050,6.24,ACEH,2005,Persentase Penyelesaian Tindak Pidana
+129701060,32.76,ACEH,2006,Persentase Penyelesaian Tindak Pidana
+129701070,45.56,ACEH,2007,Persentase Penyelesaian Tindak Pidana
+129701080,69.94,ACEH,2008,Persentase Penyelesaian Tindak Pidana
+129701090,46.24,ACEH,2009,Persentase Penyelesaian Tindak Pidana
+129701100,38.85,ACEH,2010,Persentase Penyelesaian Tindak Pidana
+129701110,43.14,ACEH,2011,Persentase Penyelesaian Tindak Pidana
+129701120,42.83,ACEH,2012,Persentase Penyelesaian Tindak Pidana
+129701130,32.14,ACEH,2013,Persentase Penyelesaian Tindak Pidana
+129701140,32.92,ACEH,2014,Persentase Penyelesaian Tindak Pidana
+129701150,31.55,ACEH,2015,Persentase Penyelesaian Tindak Pidana
+129701160,42.86,ACEH,2016,Persentase Penyelesaian Tindak Pidana
+129701170,27.19,ACEH,2017,Persentase Penyelesaian Tindak Pidana
+129701180,38.27,ACEH,2018,Persentase Penyelesaian Tindak Pidana
+129701190,35.39,ACEH,2019,Persentase Penyelesaian Tindak Pidana
+129701200,37.91,ACEH,2020,Persentase Penyelesaian Tindak Pidana
+129701210,56.98,ACEH,2021,Persentase Penyelesaian Tindak Pidana
+229701000,51.99,SUMATERA UTARA,2000,Persentase Penyelesaian Tindak Pidana
+229701010,59.6,SUMATERA UTARA,2001,Persentase Penyelesaian Tindak Pidana
+229701020,61.85,SUMATERA UTARA,2002,Persentase Penyelesaian Tindak Pidana
+229701030,72.81,SUMATERA UTARA,2003,Persentase Penyelesaian Tindak Pidana
+229701040,79.59,SUMATERA UTARA,2004,Persentase Penyelesaian Tindak Pidana
+229701050,69.82,SUMATERA UTARA,2005,Persentase Penyelesaian Tindak Pidana
+229701060,63.86,SUMATERA UTARA,2006,Persentase Penyelesaian Tindak Pidana
+229701070,90.6,SUMATERA UTARA,2007,Persentase Penyelesaian Tindak Pidana
+229701080,87.68,SUMATERA UTARA,2008,Persentase Penyelesaian Tindak Pidana
+229701090,94.74,SUMATERA UTARA,2009,Persentase Penyelesaian Tindak Pidana
+229701100,58.8,SUMATERA UTARA,2010,Persentase Penyelesaian Tindak Pidana
+229701110,45.62,SUMATERA UTARA,2011,Persentase Penyelesaian Tindak Pidana
+229701120,42.99,SUMATERA UTARA,2012,Persentase Penyelesaian Tindak Pidana
+229701130,45.96,SUMATERA UTARA,2013,Persentase Penyelesaian Tindak Pidana
+229701140,51.68,SUMATERA UTARA,2014,Persentase Penyelesaian Tindak Pidana
+229701150,58.94,SUMATERA UTARA,2015,Persentase Penyelesaian Tindak Pidana
+229701160,62.44,SUMATERA UTARA,2016,Persentase Penyelesaian Tindak Pidana
+229701170,67.3,SUMATERA UTARA,2017,Persentase Penyelesaian Tindak Pidana
+229701180,68.17,SUMATERA UTARA,2018,Persentase Penyelesaian Tindak Pidana
+229701190,74.91,SUMATERA UTARA,2019,Persentase Penyelesaian Tindak Pidana
+229701200,68.7,SUMATERA UTARA,2020,Persentase Penyelesaian Tindak Pidana
+229701210,68.37,SUMATERA UTARA,2021,Persentase Penyelesaian Tindak Pidana
+329701000,43.73,SUMATERA BARAT,2000,Persentase Penyelesaian Tindak Pidana
+329701010,49.85,SUMATERA BARAT,2001,Persentase Penyelesaian Tindak Pidana
+329701020,52.34,SUMATERA BARAT,2002,Persentase Penyelesaian Tindak Pidana
+329701030,57.05,SUMATERA BARAT,2003,Persentase Penyelesaian Tindak Pidana
+329701040,57.06,SUMATERA BARAT,2004,Persentase Penyelesaian Tindak Pidana
+329701050,60.11,SUMATERA BARAT,2005,Persentase Penyelesaian Tindak Pidana
+329701060,60.2,SUMATERA BARAT,2006,Persentase Penyelesaian Tindak Pidana
+329701070,63.05,SUMATERA BARAT,2007,Persentase Penyelesaian Tindak Pidana
+329701080,62.6,SUMATERA BARAT,2008,Persentase Penyelesaian Tindak Pidana
+329701090,59.12,SUMATERA BARAT,2009,Persentase Penyelesaian Tindak Pidana
+329701100,47.44,SUMATERA BARAT,2010,Persentase Penyelesaian Tindak Pidana
+329701110,52.47,SUMATERA BARAT,2011,Persentase Penyelesaian Tindak Pidana
+329701120,47.58,SUMATERA BARAT,2012,Persentase Penyelesaian Tindak Pidana
+329701130,46.03,SUMATERA BARAT,2013,Persentase Penyelesaian Tindak Pidana
+329701140,46.13,SUMATERA BARAT,2014,Persentase Penyelesaian Tindak Pidana
+329701150,45.78,SUMATERA BARAT,2015,Persentase Penyelesaian Tindak Pidana
+329701160,43.11,SUMATERA BARAT,2016,Persentase Penyelesaian Tindak Pidana
+329701170,42.88,SUMATERA BARAT,2017,Persentase Penyelesaian Tindak Pidana
+329701180,45.27,SUMATERA BARAT,2018,Persentase Penyelesaian Tindak Pidana
+329701190,54.19,SUMATERA BARAT,2019,Persentase Penyelesaian Tindak Pidana
+329701200,83.93,SUMATERA BARAT,2020,Persentase Penyelesaian Tindak Pidana
+329701210,100.0,SUMATERA BARAT,2021,Persentase Penyelesaian Tindak Pidana
+429701000,53.65,RIAU,2000,Persentase Penyelesaian Tindak Pidana
+429701010,52.54,RIAU,2001,Persentase Penyelesaian Tindak Pidana
+429701020,58.1,RIAU,2002,Persentase Penyelesaian Tindak Pidana
+429701030,53.79,RIAU,2003,Persentase Penyelesaian Tindak Pidana
+429701040,58.73,RIAU,2004,Persentase Penyelesaian Tindak Pidana
+429701050,61.68,RIAU,2005,Persentase Penyelesaian Tindak Pidana
+429701060,56.67,RIAU,2006,Persentase Penyelesaian Tindak Pidana
+429701070,56.78,RIAU,2007,Persentase Penyelesaian Tindak Pidana
+429701080,55.99,RIAU,2008,Persentase Penyelesaian Tindak Pidana
+429701090,44.93,RIAU,2009,Persentase Penyelesaian Tindak Pidana
+429701100,34.51,RIAU,2010,Persentase Penyelesaian Tindak Pidana
+429701110,46.67,RIAU,2011,Persentase Penyelesaian Tindak Pidana
+429701120,36.71,RIAU,2012,Persentase Penyelesaian Tindak Pidana
+429701130,45.56,RIAU,2013,Persentase Penyelesaian Tindak Pidana
+429701140,42.07,RIAU,2014,Persentase Penyelesaian Tindak Pidana
+429701150,56.15,RIAU,2015,Persentase Penyelesaian Tindak Pidana
+429701160,53.58,RIAU,2016,Persentase Penyelesaian Tindak Pidana
+429701170,54.33,RIAU,2017,Persentase Penyelesaian Tindak Pidana
+429701180,51.66,RIAU,2018,Persentase Penyelesaian Tindak Pidana
+429701190,44.72,RIAU,2019,Persentase Penyelesaian Tindak Pidana
+429701200,38.1,RIAU,2020,Persentase Penyelesaian Tindak Pidana
+429701210,77.34,RIAU,2021,Persentase Penyelesaian Tindak Pidana
+529701000,67.85,JAMBI,2000,Persentase Penyelesaian Tindak Pidana
+529701010,67.98,JAMBI,2001,Persentase Penyelesaian Tindak Pidana
+529701020,58.49,JAMBI,2002,Persentase Penyelesaian Tindak Pidana
+529701030,59.9,JAMBI,2003,Persentase Penyelesaian Tindak Pidana
+529701040,61.74,JAMBI,2004,Persentase Penyelesaian Tindak Pidana
+529701050,66.3,JAMBI,2005,Persentase Penyelesaian Tindak Pidana
+529701060,67.45,JAMBI,2006,Persentase Penyelesaian Tindak Pidana
+529701070,69.66,JAMBI,2007,Persentase Penyelesaian Tindak Pidana
+529701080,70.13,JAMBI,2008,Persentase Penyelesaian Tindak Pidana
+529701090,67.65,JAMBI,2009,Persentase Penyelesaian Tindak Pidana
+529701100,46.99,JAMBI,2010,Persentase Penyelesaian Tindak Pidana
+529701110,39.44,JAMBI,2011,Persentase Penyelesaian Tindak Pidana
+529701120,55.21,JAMBI,2012,Persentase Penyelesaian Tindak Pidana
+529701130,41.58,JAMBI,2013,Persentase Penyelesaian Tindak Pidana
+529701140,40.47,JAMBI,2014,Persentase Penyelesaian Tindak Pidana
+529701150,41.54,JAMBI,2015,Persentase Penyelesaian Tindak Pidana
+529701160,53.6,JAMBI,2016,Persentase Penyelesaian Tindak Pidana
+529701170,65.2,JAMBI,2017,Persentase Penyelesaian Tindak Pidana
+529701180,68.86,JAMBI,2018,Persentase Penyelesaian Tindak Pidana
+529701190,68.79,JAMBI,2019,Persentase Penyelesaian Tindak Pidana
+529701200,85.54,JAMBI,2020,Persentase Penyelesaian Tindak Pidana
+529701210,79.19,JAMBI,2021,Persentase Penyelesaian Tindak Pidana
+629701000,58.82,SUMATERA SELATAN,2000,Persentase Penyelesaian Tindak Pidana
+629701010,68.52,SUMATERA SELATAN,2001,Persentase Penyelesaian Tindak Pidana
+629701020,52.83,SUMATERA SELATAN,2002,Persentase Penyelesaian Tindak Pidana
+629701030,52.71,SUMATERA SELATAN,2003,Persentase Penyelesaian Tindak Pidana
+629701040,54.24,SUMATERA SELATAN,2004,Persentase Penyelesaian Tindak Pidana
+629701050,60.15,SUMATERA SELATAN,2005,Persentase Penyelesaian Tindak Pidana
+629701060,45.92,SUMATERA SELATAN,2006,Persentase Penyelesaian Tindak Pidana
+629701070,51.24,SUMATERA SELATAN,2007,Persentase Penyelesaian Tindak Pidana
+629701080,65.18,SUMATERA SELATAN,2008,Persentase Penyelesaian Tindak Pidana
+629701090,49.28,SUMATERA SELATAN,2009,Persentase Penyelesaian Tindak Pidana
+629701100,37.67,SUMATERA SELATAN,2010,Persentase Penyelesaian Tindak Pidana
+629701110,38.63,SUMATERA SELATAN,2011,Persentase Penyelesaian Tindak Pidana
+629701120,31.17,SUMATERA SELATAN,2012,Persentase Penyelesaian Tindak Pidana
+629701130,34.11,SUMATERA SELATAN,2013,Persentase Penyelesaian Tindak Pidana
+629701140,37.06,SUMATERA SELATAN,2014,Persentase Penyelesaian Tindak Pidana
+629701150,45.01,SUMATERA SELATAN,2015,Persentase Penyelesaian Tindak Pidana
+629701160,43.47,SUMATERA SELATAN,2016,Persentase Penyelesaian Tindak Pidana
+629701170,66.85,SUMATERA SELATAN,2017,Persentase Penyelesaian Tindak Pidana
+629701180,74.82,SUMATERA SELATAN,2018,Persentase Penyelesaian Tindak Pidana
+629701190,69.22,SUMATERA SELATAN,2019,Persentase Penyelesaian Tindak Pidana
+629701200,76.76,SUMATERA SELATAN,2020,Persentase Penyelesaian Tindak Pidana
+629701210,74.0,SUMATERA SELATAN,2021,Persentase Penyelesaian Tindak Pidana
+729701000,74.81,BENGKULU,2000,Persentase Penyelesaian Tindak Pidana
+729701010,68.64,BENGKULU,2001,Persentase Penyelesaian Tindak Pidana
+729701020,80.94,BENGKULU,2002,Persentase Penyelesaian Tindak Pidana
+729701030,59.28,BENGKULU,2003,Persentase Penyelesaian Tindak Pidana
+729701040,52.39,BENGKULU,2004,Persentase Penyelesaian Tindak Pidana
+729701050,43.0,BENGKULU,2005,Persentase Penyelesaian Tindak Pidana
+729701060,49.94,BENGKULU,2006,Persentase Penyelesaian Tindak Pidana
+729701070,42.52,BENGKULU,2007,Persentase Penyelesaian Tindak Pidana
+729701080,46.78,BENGKULU,2008,Persentase Penyelesaian Tindak Pidana
+729701090,43.79,BENGKULU,2009,Persentase Penyelesaian Tindak Pidana
+729701100,62.42,BENGKULU,2010,Persentase Penyelesaian Tindak Pidana
+729701110,47.4,BENGKULU,2011,Persentase Penyelesaian Tindak Pidana
+729701120,77.86,BENGKULU,2012,Persentase Penyelesaian Tindak Pidana
+729701130,52.42,BENGKULU,2013,Persentase Penyelesaian Tindak Pidana
+729701140,55.24,BENGKULU,2014,Persentase Penyelesaian Tindak Pidana
+729701150,44.75,BENGKULU,2015,Persentase Penyelesaian Tindak Pidana
+729701160,48.59,BENGKULU,2016,Persentase Penyelesaian Tindak Pidana
+729701170,49.72,BENGKULU,2017,Persentase Penyelesaian Tindak Pidana
+729701180,83.59,BENGKULU,2018,Persentase Penyelesaian Tindak Pidana
+729701190,67.54,BENGKULU,2019,Persentase Penyelesaian Tindak Pidana
+729701200,68.35,BENGKULU,2020,Persentase Penyelesaian Tindak Pidana
+729701210,46.81,BENGKULU,2021,Persentase Penyelesaian Tindak Pidana
+829701000,71.46,LAMPUNG,2000,Persentase Penyelesaian Tindak Pidana
+829701010,88.96,LAMPUNG,2001,Persentase Penyelesaian Tindak Pidana
+829701020,79.64,LAMPUNG,2002,Persentase Penyelesaian Tindak Pidana
+829701030,58.34,LAMPUNG,2003,Persentase Penyelesaian Tindak Pidana
+829701040,67.58,LAMPUNG,2004,Persentase Penyelesaian Tindak Pidana
+829701050,89.28,LAMPUNG,2005,Persentase Penyelesaian Tindak Pidana
+829701060,98.83,LAMPUNG,2006,Persentase Penyelesaian Tindak Pidana
+829701070,101.23,LAMPUNG,2007,Persentase Penyelesaian Tindak Pidana
+829701080,99.93,LAMPUNG,2008,Persentase Penyelesaian Tindak Pidana
+829701090,101.5,LAMPUNG,2009,Persentase Penyelesaian Tindak Pidana
+829701100,64.35,LAMPUNG,2010,Persentase Penyelesaian Tindak Pidana
+829701110,20.34,LAMPUNG,2011,Persentase Penyelesaian Tindak Pidana
+829701120,24.25,LAMPUNG,2012,Persentase Penyelesaian Tindak Pidana
+829701130,11.72,LAMPUNG,2013,Persentase Penyelesaian Tindak Pidana
+829701140,58.9,LAMPUNG,2014,Persentase Penyelesaian Tindak Pidana
+829701150,69.57,LAMPUNG,2015,Persentase Penyelesaian Tindak Pidana
+829701160,69.25,LAMPUNG,2016,Persentase Penyelesaian Tindak Pidana
+829701170,68.88,LAMPUNG,2017,Persentase Penyelesaian Tindak Pidana
+829701180,71.84,LAMPUNG,2018,Persentase Penyelesaian Tindak Pidana
+829701190,75.44,LAMPUNG,2019,Persentase Penyelesaian Tindak Pidana
+829701200,64.17,LAMPUNG,2020,Persentase Penyelesaian Tindak Pidana
+829701210,64.32,LAMPUNG,2021,Persentase Penyelesaian Tindak Pidana
+929701050,68.72,KEP. BANGKA BELITUNG,2005,Persentase Penyelesaian Tindak Pidana
+929701060,63.92,KEP. BANGKA BELITUNG,2006,Persentase Penyelesaian Tindak Pidana
+929701070,60.95,KEP. BANGKA BELITUNG,2007,Persentase Penyelesaian Tindak Pidana
+929701080,63.33,KEP. BANGKA BELITUNG,2008,Persentase Penyelesaian Tindak Pidana
+929701090,56.42,KEP. BANGKA BELITUNG,2009,Persentase Penyelesaian Tindak Pidana
+929701100,51.29,KEP. BANGKA BELITUNG,2010,Persentase Penyelesaian Tindak Pidana
+929701110,50.44,KEP. BANGKA BELITUNG,2011,Persentase Penyelesaian Tindak Pidana
+929701120,29.06,KEP. BANGKA BELITUNG,2012,Persentase Penyelesaian Tindak Pidana
+929701130,17.22,KEP. BANGKA BELITUNG,2013,Persentase Penyelesaian Tindak Pidana
+929701140,15.98,KEP. BANGKA BELITUNG,2014,Persentase Penyelesaian Tindak Pidana
+929701150,44.0,KEP. BANGKA BELITUNG,2015,Persentase Penyelesaian Tindak Pidana
+929701160,42.17,KEP. BANGKA BELITUNG,2016,Persentase Penyelesaian Tindak Pidana
+929701170,64.84,KEP. BANGKA BELITUNG,2017,Persentase Penyelesaian Tindak Pidana
+929701180,55.52,KEP. BANGKA BELITUNG,2018,Persentase Penyelesaian Tindak Pidana
+929701190,54.58,KEP. BANGKA BELITUNG,2019,Persentase Penyelesaian Tindak Pidana
+929701200,67.48,KEP. BANGKA BELITUNG,2020,Persentase Penyelesaian Tindak Pidana
+929701210,69.22,KEP. BANGKA BELITUNG,2021,Persentase Penyelesaian Tindak Pidana
+1029701050,56.75,KEP. RIAU,2005,Persentase Penyelesaian Tindak Pidana
+1029701060,61.56,KEP. RIAU,2006,Persentase Penyelesaian Tindak Pidana
+1029701070,59.14,KEP. RIAU,2007,Persentase Penyelesaian Tindak Pidana
+1029701080,53.5,KEP. RIAU,2008,Persentase Penyelesaian Tindak Pidana
+1029701090,61.56,KEP. RIAU,2009,Persentase Penyelesaian Tindak Pidana
+1029701100,39.97,KEP. RIAU,2010,Persentase Penyelesaian Tindak Pidana
+1029701110,47.93,KEP. RIAU,2011,Persentase Penyelesaian Tindak Pidana
+1029701120,58.16,KEP. RIAU,2012,Persentase Penyelesaian Tindak Pidana
+1029701130,52.15,KEP. RIAU,2013,Persentase Penyelesaian Tindak Pidana
+1029701140,48.78,KEP. RIAU,2014,Persentase Penyelesaian Tindak Pidana
+1029701150,51.33,KEP. RIAU,2015,Persentase Penyelesaian Tindak Pidana
+1029701160,42.17,KEP. RIAU,2016,Persentase Penyelesaian Tindak Pidana
+1029701170,56.3,KEP. RIAU,2017,Persentase Penyelesaian Tindak Pidana
+1029701180,59.75,KEP. RIAU,2018,Persentase Penyelesaian Tindak Pidana
+1029701190,63.31,KEP. RIAU,2019,Persentase Penyelesaian Tindak Pidana
+1029701200,66.83,KEP. RIAU,2020,Persentase Penyelesaian Tindak Pidana
+1029701210,65.7,KEP. RIAU,2021,Persentase Penyelesaian Tindak Pidana
+1129701000,56.63,METRO JAYA,2000,Persentase Penyelesaian Tindak Pidana
+1129701010,36.76,METRO JAYA,2001,Persentase Penyelesaian Tindak Pidana
+1129701020,38.51,METRO JAYA,2002,Persentase Penyelesaian Tindak Pidana
+1129701030,32.48,METRO JAYA,2003,Persentase Penyelesaian Tindak Pidana
+1129701040,30.31,METRO JAYA,2004,Persentase Penyelesaian Tindak Pidana
+1129701050,32.53,METRO JAYA,2005,Persentase Penyelesaian Tindak Pidana
+1129701060,37.72,METRO JAYA,2006,Persentase Penyelesaian Tindak Pidana
+1129701070,46.67,METRO JAYA,2007,Persentase Penyelesaian Tindak Pidana
+1129701080,51.47,METRO JAYA,2008,Persentase Penyelesaian Tindak Pidana
+1129701090,51.43,METRO JAYA,2009,Persentase Penyelesaian Tindak Pidana
+1129701100,59.29,METRO JAYA,2010,Persentase Penyelesaian Tindak Pidana
+1129701110,56.99,METRO JAYA,2011,Persentase Penyelesaian Tindak Pidana
+1129701120,61.63,METRO JAYA,2012,Persentase Penyelesaian Tindak Pidana
+1129701130,71.93,METRO JAYA,2013,Persentase Penyelesaian Tindak Pidana
+1129701140,70.3,METRO JAYA,2014,Persentase Penyelesaian Tindak Pidana
+1129701150,69.33,METRO JAYA,2015,Persentase Penyelesaian Tindak Pidana
+1129701160,63.83,METRO JAYA,2016,Persentase Penyelesaian Tindak Pidana
+1129701170,80.75,METRO JAYA,2017,Persentase Penyelesaian Tindak Pidana
+1129701180,88.23,METRO JAYA,2018,Persentase Penyelesaian Tindak Pidana
+1129701190,99.69,METRO JAYA,2019,Persentase Penyelesaian Tindak Pidana
+1129701200,117.45,METRO JAYA,2020,Persentase Penyelesaian Tindak Pidana
+1129701210,97.99,METRO JAYA,2021,Persentase Penyelesaian Tindak Pidana
+1229701000,53.33,JAWA BARAT,2000,Persentase Penyelesaian Tindak Pidana
+1229701010,54.95,JAWA BARAT,2001,Persentase Penyelesaian Tindak Pidana
+1229701020,51.51,JAWA BARAT,2002,Persentase Penyelesaian Tindak Pidana
+1229701030,50.78,JAWA BARAT,2003,Persentase Penyelesaian Tindak Pidana
+1229701040,55.35,JAWA BARAT,2004,Persentase Penyelesaian Tindak Pidana
+1229701050,58.77,JAWA BARAT,2005,Persentase Penyelesaian Tindak Pidana
+1229701060,60.61,JAWA BARAT,2006,Persentase Penyelesaian Tindak Pidana
+1229701070,61.16,JAWA BARAT,2007,Persentase Penyelesaian Tindak Pidana
+1229701080,62.07,JAWA BARAT,2008,Persentase Penyelesaian Tindak Pidana
+1229701090,73.85,JAWA BARAT,2009,Persentase Penyelesaian Tindak Pidana
+1229701100,53.9,JAWA BARAT,2010,Persentase Penyelesaian Tindak Pidana
+1229701110,47.98,JAWA BARAT,2011,Persentase Penyelesaian Tindak Pidana
+1229701120,48.77,JAWA BARAT,2012,Persentase Penyelesaian Tindak Pidana
+1229701130,42.8,JAWA BARAT,2013,Persentase Penyelesaian Tindak Pidana
+1229701140,51.27,JAWA BARAT,2014,Persentase Penyelesaian Tindak Pidana
+1229701150,43.04,JAWA BARAT,2015,Persentase Penyelesaian Tindak Pidana
+1229701160,46.43,JAWA BARAT,2016,Persentase Penyelesaian Tindak Pidana
+1229701170,57.08,JAWA BARAT,2017,Persentase Penyelesaian Tindak Pidana
+1229701180,74.96,JAWA BARAT,2018,Persentase Penyelesaian Tindak Pidana
+1229701190,83.64,JAWA BARAT,2019,Persentase Penyelesaian Tindak Pidana
+1229701200,88.23,JAWA BARAT,2020,Persentase Penyelesaian Tindak Pidana
+1229701210,73.06,JAWA BARAT,2021,Persentase Penyelesaian Tindak Pidana
+1329701000,59.82,JAWA TENGAH,2000,Persentase Penyelesaian Tindak Pidana
+1329701010,53.83,JAWA TENGAH,2001,Persentase Penyelesaian Tindak Pidana
+1329701020,61.09,JAWA TENGAH,2002,Persentase Penyelesaian Tindak Pidana
+1329701030,70.19,JAWA TENGAH,2003,Persentase Penyelesaian Tindak Pidana
+1329701040,67.79,JAWA TENGAH,2004,Persentase Penyelesaian Tindak Pidana
+1329701050,73.49,JAWA TENGAH,2005,Persentase Penyelesaian Tindak Pidana
+1329701060,75.68,JAWA TENGAH,2006,Persentase Penyelesaian Tindak Pidana
+1329701070,82.7,JAWA TENGAH,2007,Persentase Penyelesaian Tindak Pidana
+1329701080,78.27,JAWA TENGAH,2008,Persentase Penyelesaian Tindak Pidana
+1329701090,78.36,JAWA TENGAH,2009,Persentase Penyelesaian Tindak Pidana
+1329701100,90.24,JAWA TENGAH,2010,Persentase Penyelesaian Tindak Pidana
+1329701110,109.41,JAWA TENGAH,2011,Persentase Penyelesaian Tindak Pidana
+1329701120,82.42,JAWA TENGAH,2012,Persentase Penyelesaian Tindak Pidana
+1329701130,87.07,JAWA TENGAH,2013,Persentase Penyelesaian Tindak Pidana
+1329701140,82.5,JAWA TENGAH,2014,Persentase Penyelesaian Tindak Pidana
+1329701150,78.83,JAWA TENGAH,2015,Persentase Penyelesaian Tindak Pidana
+1329701160,90.53,JAWA TENGAH,2016,Persentase Penyelesaian Tindak Pidana
+1329701170,93.83,JAWA TENGAH,2017,Persentase Penyelesaian Tindak Pidana
+1329701180,76.48,JAWA TENGAH,2018,Persentase Penyelesaian Tindak Pidana
+1329701190,64.63,JAWA TENGAH,2019,Persentase Penyelesaian Tindak Pidana
+1329701200,36.35,JAWA TENGAH,2020,Persentase Penyelesaian Tindak Pidana
+1329701210,70.78,JAWA TENGAH,2021,Persentase Penyelesaian Tindak Pidana
+1429701000,51.21,DI YOGYAKARTA,2000,Persentase Penyelesaian Tindak Pidana
+1429701010,34.58,DI YOGYAKARTA,2001,Persentase Penyelesaian Tindak Pidana
+1429701020,37.69,DI YOGYAKARTA,2002,Persentase Penyelesaian Tindak Pidana
+1429701030,50.9,DI YOGYAKARTA,2003,Persentase Penyelesaian Tindak Pidana
+1429701040,53.34,DI YOGYAKARTA,2004,Persentase Penyelesaian Tindak Pidana
+1429701050,51.82,DI YOGYAKARTA,2005,Persentase Penyelesaian Tindak Pidana
+1429701060,53.28,DI YOGYAKARTA,2006,Persentase Penyelesaian Tindak Pidana
+1429701070,46.04,DI YOGYAKARTA,2007,Persentase Penyelesaian Tindak Pidana
+1429701080,47.71,DI YOGYAKARTA,2008,Persentase Penyelesaian Tindak Pidana
+1429701090,38.67,DI YOGYAKARTA,2009,Persentase Penyelesaian Tindak Pidana
+1429701100,12.83,DI YOGYAKARTA,2010,Persentase Penyelesaian Tindak Pidana
+1429701110,52.96,DI YOGYAKARTA,2011,Persentase Penyelesaian Tindak Pidana
+1429701120,36.89,DI YOGYAKARTA,2012,Persentase Penyelesaian Tindak Pidana
+1429701130,28.27,DI YOGYAKARTA,2013,Persentase Penyelesaian Tindak Pidana
+1429701140,39.96,DI YOGYAKARTA,2014,Persentase Penyelesaian Tindak Pidana
+1429701150,45.53,DI YOGYAKARTA,2015,Persentase Penyelesaian Tindak Pidana
+1429701160,41.05,DI YOGYAKARTA,2016,Persentase Penyelesaian Tindak Pidana
+1429701170,39.62,DI YOGYAKARTA,2017,Persentase Penyelesaian Tindak Pidana
+1429701180,36.93,DI YOGYAKARTA,2018,Persentase Penyelesaian Tindak Pidana
+1429701190,67.76,DI YOGYAKARTA,2019,Persentase Penyelesaian Tindak Pidana
+1429701200,95.62,DI YOGYAKARTA,2020,Persentase Penyelesaian Tindak Pidana
+1429701210,100.0,DI YOGYAKARTA,2021,Persentase Penyelesaian Tindak Pidana
+1529701000,63.18,JAWA TIMUR,2000,Persentase Penyelesaian Tindak Pidana
+1529701010,70.46,JAWA TIMUR,2001,Persentase Penyelesaian Tindak Pidana
+1529701020,75.35,JAWA TIMUR,2002,Persentase Penyelesaian Tindak Pidana
+1529701030,79.43,JAWA TIMUR,2003,Persentase Penyelesaian Tindak Pidana
+1529701040,75.23,JAWA TIMUR,2004,Persentase Penyelesaian Tindak Pidana
+1529701050,77.1,JAWA TIMUR,2005,Persentase Penyelesaian Tindak Pidana
+1529701060,82.83,JAWA TIMUR,2006,Persentase Penyelesaian Tindak Pidana
+1529701070,76.76,JAWA TIMUR,2007,Persentase Penyelesaian Tindak Pidana
+1529701080,64.45,JAWA TIMUR,2008,Persentase Penyelesaian Tindak Pidana
+1529701090,68.67,JAWA TIMUR,2009,Persentase Penyelesaian Tindak Pidana
+1529701100,48.04,JAWA TIMUR,2010,Persentase Penyelesaian Tindak Pidana
+1529701110,28.97,JAWA TIMUR,2011,Persentase Penyelesaian Tindak Pidana
+1529701120,23.5,JAWA TIMUR,2012,Persentase Penyelesaian Tindak Pidana
+1529701130,47.6,JAWA TIMUR,2013,Persentase Penyelesaian Tindak Pidana
+1529701140,34.34,JAWA TIMUR,2014,Persentase Penyelesaian Tindak Pidana
+1529701150,67.56,JAWA TIMUR,2015,Persentase Penyelesaian Tindak Pidana
+1529701160,63.89,JAWA TIMUR,2016,Persentase Penyelesaian Tindak Pidana
+1529701170,54.67,JAWA TIMUR,2017,Persentase Penyelesaian Tindak Pidana
+1529701180,58.74,JAWA TIMUR,2018,Persentase Penyelesaian Tindak Pidana
+1529701190,44.68,JAWA TIMUR,2019,Persentase Penyelesaian Tindak Pidana
+1529701200,52.74,JAWA TIMUR,2020,Persentase Penyelesaian Tindak Pidana
+1529701210,55.35,JAWA TIMUR,2021,Persentase Penyelesaian Tindak Pidana
+1629701040,43.64,BANTEN,2004,Persentase Penyelesaian Tindak Pidana
+1629701050,46.97,BANTEN,2005,Persentase Penyelesaian Tindak Pidana
+1629701060,31.39,BANTEN,2006,Persentase Penyelesaian Tindak Pidana
+1629701070,29.87,BANTEN,2007,Persentase Penyelesaian Tindak Pidana
+1629701080,52.59,BANTEN,2008,Persentase Penyelesaian Tindak Pidana
+1629701090,56.51,BANTEN,2009,Persentase Penyelesaian Tindak Pidana
+1629701100,53.89,BANTEN,2010,Persentase Penyelesaian Tindak Pidana
+1629701110,60.41,BANTEN,2011,Persentase Penyelesaian Tindak Pidana
+1629701120,62.99,BANTEN,2012,Persentase Penyelesaian Tindak Pidana
+1629701130,55.58,BANTEN,2013,Persentase Penyelesaian Tindak Pidana
+1629701140,34.02,BANTEN,2014,Persentase Penyelesaian Tindak Pidana
+1629701150,38.32,BANTEN,2015,Persentase Penyelesaian Tindak Pidana
+1629701160,59.41,BANTEN,2016,Persentase Penyelesaian Tindak Pidana
+1629701170,61.32,BANTEN,2017,Persentase Penyelesaian Tindak Pidana
+1629701180,61.36,BANTEN,2018,Persentase Penyelesaian Tindak Pidana
+1629701190,63.01,BANTEN,2019,Persentase Penyelesaian Tindak Pidana
+1629701200,73.08,BANTEN,2020,Persentase Penyelesaian Tindak Pidana
+1629701210,76.09,BANTEN,2021,Persentase Penyelesaian Tindak Pidana
+1729701000,48.6,BALI,2000,Persentase Penyelesaian Tindak Pidana
+1729701010,59.77,BALI,2001,Persentase Penyelesaian Tindak Pidana
+1729701020,58.65,BALI,2002,Persentase Penyelesaian Tindak Pidana
+1729701030,57.88,BALI,2003,Persentase Penyelesaian Tindak Pidana
+1729701040,61.57,BALI,2004,Persentase Penyelesaian Tindak Pidana
+1729701050,63.88,BALI,2005,Persentase Penyelesaian Tindak Pidana
+1729701060,70.89,BALI,2006,Persentase Penyelesaian Tindak Pidana
+1729701070,70.88,BALI,2007,Persentase Penyelesaian Tindak Pidana
+1729701080,71.13,BALI,2008,Persentase Penyelesaian Tindak Pidana
+1729701090,68.6,BALI,2009,Persentase Penyelesaian Tindak Pidana
+1729701100,54.64,BALI,2010,Persentase Penyelesaian Tindak Pidana
+1729701110,65.28,BALI,2011,Persentase Penyelesaian Tindak Pidana
+1729701120,82.58,BALI,2012,Persentase Penyelesaian Tindak Pidana
+1729701130,67.14,BALI,2013,Persentase Penyelesaian Tindak Pidana
+1729701140,75.91,BALI,2014,Persentase Penyelesaian Tindak Pidana
+1729701150,76.85,BALI,2015,Persentase Penyelesaian Tindak Pidana
+1729701160,63.73,BALI,2016,Persentase Penyelesaian Tindak Pidana
+1729701170,79.41,BALI,2017,Persentase Penyelesaian Tindak Pidana
+1729701180,74.93,BALI,2018,Persentase Penyelesaian Tindak Pidana
+1729701190,83.26,BALI,2019,Persentase Penyelesaian Tindak Pidana
+1729701200,90.26,BALI,2020,Persentase Penyelesaian Tindak Pidana
+1729701210,84.69,BALI,2021,Persentase Penyelesaian Tindak Pidana
+1829701000,58.2,NUSA TENGGARA BARAT,2000,Persentase Penyelesaian Tindak Pidana
+1829701010,60.08,NUSA TENGGARA BARAT,2001,Persentase Penyelesaian Tindak Pidana
+1829701020,46.83,NUSA TENGGARA BARAT,2002,Persentase Penyelesaian Tindak Pidana
+1829701030,53.74,NUSA TENGGARA BARAT,2003,Persentase Penyelesaian Tindak Pidana
+1829701040,43.28,NUSA TENGGARA BARAT,2004,Persentase Penyelesaian Tindak Pidana
+1829701050,61.03,NUSA TENGGARA BARAT,2005,Persentase Penyelesaian Tindak Pidana
+1829701060,55.75,NUSA TENGGARA BARAT,2006,Persentase Penyelesaian Tindak Pidana
+1829701070,56.63,NUSA TENGGARA BARAT,2007,Persentase Penyelesaian Tindak Pidana
+1829701080,58.13,NUSA TENGGARA BARAT,2008,Persentase Penyelesaian Tindak Pidana
+1829701090,60.35,NUSA TENGGARA BARAT,2009,Persentase Penyelesaian Tindak Pidana
+1829701100,45.55,NUSA TENGGARA BARAT,2010,Persentase Penyelesaian Tindak Pidana
+1829701110,46.38,NUSA TENGGARA BARAT,2011,Persentase Penyelesaian Tindak Pidana
+1829701120,54.55,NUSA TENGGARA BARAT,2012,Persentase Penyelesaian Tindak Pidana
+1829701130,54.84,NUSA TENGGARA BARAT,2013,Persentase Penyelesaian Tindak Pidana
+1829701140,53.89,NUSA TENGGARA BARAT,2014,Persentase Penyelesaian Tindak Pidana
+1829701150,53.7,NUSA TENGGARA BARAT,2015,Persentase Penyelesaian Tindak Pidana
+1829701160,81.42,NUSA TENGGARA BARAT,2016,Persentase Penyelesaian Tindak Pidana
+1829701170,52.35,NUSA TENGGARA BARAT,2017,Persentase Penyelesaian Tindak Pidana
+1829701180,59.08,NUSA TENGGARA BARAT,2018,Persentase Penyelesaian Tindak Pidana
+1829701190,49.0,NUSA TENGGARA BARAT,2019,Persentase Penyelesaian Tindak Pidana
+1829701200,49.27,NUSA TENGGARA BARAT,2020,Persentase Penyelesaian Tindak Pidana
+1829701210,59.66,NUSA TENGGARA BARAT,2021,Persentase Penyelesaian Tindak Pidana
+1929701000,57.56,NUSA TENGGARA TIMUR,2000,Persentase Penyelesaian Tindak Pidana
+1929701010,60.72,NUSA TENGGARA TIMUR,2001,Persentase Penyelesaian Tindak Pidana
+1929701020,56.3,NUSA TENGGARA TIMUR,2002,Persentase Penyelesaian Tindak Pidana
+1929701030,57.78,NUSA TENGGARA TIMUR,2003,Persentase Penyelesaian Tindak Pidana
+1929701040,60.41,NUSA TENGGARA TIMUR,2004,Persentase Penyelesaian Tindak Pidana
+1929701050,60.92,NUSA TENGGARA TIMUR,2005,Persentase Penyelesaian Tindak Pidana
+1929701060,65.86,NUSA TENGGARA TIMUR,2006,Persentase Penyelesaian Tindak Pidana
+1929701070,56.4,NUSA TENGGARA TIMUR,2007,Persentase Penyelesaian Tindak Pidana
+1929701080,63.45,NUSA TENGGARA TIMUR,2008,Persentase Penyelesaian Tindak Pidana
+1929701090,65.94,NUSA TENGGARA TIMUR,2009,Persentase Penyelesaian Tindak Pidana
+1929701100,61.48,NUSA TENGGARA TIMUR,2010,Persentase Penyelesaian Tindak Pidana
+1929701110,100.85,NUSA TENGGARA TIMUR,2011,Persentase Penyelesaian Tindak Pidana
+1929701120,65.8,NUSA TENGGARA TIMUR,2012,Persentase Penyelesaian Tindak Pidana
+1929701130,54.78,NUSA TENGGARA TIMUR,2013,Persentase Penyelesaian Tindak Pidana
+1929701140,60.82,NUSA TENGGARA TIMUR,2014,Persentase Penyelesaian Tindak Pidana
+1929701150,62.66,NUSA TENGGARA TIMUR,2015,Persentase Penyelesaian Tindak Pidana
+1929701160,55.06,NUSA TENGGARA TIMUR,2016,Persentase Penyelesaian Tindak Pidana
+1929701170,70.98,NUSA TENGGARA TIMUR,2017,Persentase Penyelesaian Tindak Pidana
+1929701180,70.32,NUSA TENGGARA TIMUR,2018,Persentase Penyelesaian Tindak Pidana
+1929701190,54.71,NUSA TENGGARA TIMUR,2019,Persentase Penyelesaian Tindak Pidana
+1929701200,49.27,NUSA TENGGARA TIMUR,2020,Persentase Penyelesaian Tindak Pidana
+1929701210,33.06,NUSA TENGGARA TIMUR,2021,Persentase Penyelesaian Tindak Pidana
+2029701000,47.41,KALIMANTAN BARAT,2000,Persentase Penyelesaian Tindak Pidana
+2029701010,35.24,KALIMANTAN BARAT,2001,Persentase Penyelesaian Tindak Pidana
+2029701020,41.39,KALIMANTAN BARAT,2002,Persentase Penyelesaian Tindak Pidana
+2029701030,42.8,KALIMANTAN BARAT,2003,Persentase Penyelesaian Tindak Pidana
+2029701040,54.7,KALIMANTAN BARAT,2004,Persentase Penyelesaian Tindak Pidana
+2029701050,59.18,KALIMANTAN BARAT,2005,Persentase Penyelesaian Tindak Pidana
+2029701060,57.2,KALIMANTAN BARAT,2006,Persentase Penyelesaian Tindak Pidana
+2029701070,57.57,KALIMANTAN BARAT,2007,Persentase Penyelesaian Tindak Pidana
+2029701080,57.56,KALIMANTAN BARAT,2008,Persentase Penyelesaian Tindak Pidana
+2029701090,60.53,KALIMANTAN BARAT,2009,Persentase Penyelesaian Tindak Pidana
+2029701100,29.95,KALIMANTAN BARAT,2010,Persentase Penyelesaian Tindak Pidana
+2029701110,6.28,KALIMANTAN BARAT,2011,Persentase Penyelesaian Tindak Pidana
+2029701120,46.2,KALIMANTAN BARAT,2012,Persentase Penyelesaian Tindak Pidana
+2029701130,52.03,KALIMANTAN BARAT,2013,Persentase Penyelesaian Tindak Pidana
+2029701140,54.78,KALIMANTAN BARAT,2014,Persentase Penyelesaian Tindak Pidana
+2029701150,68.2,KALIMANTAN BARAT,2015,Persentase Penyelesaian Tindak Pidana
+2029701160,60.36,KALIMANTAN BARAT,2016,Persentase Penyelesaian Tindak Pidana
+2029701170,72.18,KALIMANTAN BARAT,2017,Persentase Penyelesaian Tindak Pidana
+2029701180,77.02,KALIMANTAN BARAT,2018,Persentase Penyelesaian Tindak Pidana
+2029701190,89.3,KALIMANTAN BARAT,2019,Persentase Penyelesaian Tindak Pidana
+2029701200,101.94,KALIMANTAN BARAT,2020,Persentase Penyelesaian Tindak Pidana
+2029701210,91.45,KALIMANTAN BARAT,2021,Persentase Penyelesaian Tindak Pidana
+2129701000,43.27,KALIMANTAN TENGAH,2000,Persentase Penyelesaian Tindak Pidana
+2129701010,39.32,KALIMANTAN TENGAH,2001,Persentase Penyelesaian Tindak Pidana
+2129701020,45.09,KALIMANTAN TENGAH,2002,Persentase Penyelesaian Tindak Pidana
+2129701030,46.14,KALIMANTAN TENGAH,2003,Persentase Penyelesaian Tindak Pidana
+2129701040,50.74,KALIMANTAN TENGAH,2004,Persentase Penyelesaian Tindak Pidana
+2129701050,73.93,KALIMANTAN TENGAH,2005,Persentase Penyelesaian Tindak Pidana
+2129701060,57.03,KALIMANTAN TENGAH,2006,Persentase Penyelesaian Tindak Pidana
+2129701070,60.96,KALIMANTAN TENGAH,2007,Persentase Penyelesaian Tindak Pidana
+2129701080,68.36,KALIMANTAN TENGAH,2008,Persentase Penyelesaian Tindak Pidana
+2129701090,68.73,KALIMANTAN TENGAH,2009,Persentase Penyelesaian Tindak Pidana
+2129701100,63.83,KALIMANTAN TENGAH,2010,Persentase Penyelesaian Tindak Pidana
+2129701110,57.04,KALIMANTAN TENGAH,2011,Persentase Penyelesaian Tindak Pidana
+2129701120,70.52,KALIMANTAN TENGAH,2012,Persentase Penyelesaian Tindak Pidana
+2129701130,60.24,KALIMANTAN TENGAH,2013,Persentase Penyelesaian Tindak Pidana
+2129701140,72.43,KALIMANTAN TENGAH,2014,Persentase Penyelesaian Tindak Pidana
+2129701150,63.93,KALIMANTAN TENGAH,2015,Persentase Penyelesaian Tindak Pidana
+2129701160,55.5,KALIMANTAN TENGAH,2016,Persentase Penyelesaian Tindak Pidana
+2129701170,85.44,KALIMANTAN TENGAH,2017,Persentase Penyelesaian Tindak Pidana
+2129701180,72.19,KALIMANTAN TENGAH,2018,Persentase Penyelesaian Tindak Pidana
+2129701190,87.19,KALIMANTAN TENGAH,2019,Persentase Penyelesaian Tindak Pidana
+2129701200,78.89,KALIMANTAN TENGAH,2020,Persentase Penyelesaian Tindak Pidana
+2129701210,81.99,KALIMANTAN TENGAH,2021,Persentase Penyelesaian Tindak Pidana
+2229701000,68.39,KALIMANTAN SELATAN,2000,Persentase Penyelesaian Tindak Pidana
+2229701010,67.36,KALIMANTAN SELATAN,2001,Persentase Penyelesaian Tindak Pidana
+2229701020,72.89,KALIMANTAN SELATAN,2002,Persentase Penyelesaian Tindak Pidana
+2229701030,71.26,KALIMANTAN SELATAN,2003,Persentase Penyelesaian Tindak Pidana
+2229701040,66.13,KALIMANTAN SELATAN,2004,Persentase Penyelesaian Tindak Pidana
+2229701050,81.61,KALIMANTAN SELATAN,2005,Persentase Penyelesaian Tindak Pidana
+2229701060,96.95,KALIMANTAN SELATAN,2006,Persentase Penyelesaian Tindak Pidana
+2229701070,92.14,KALIMANTAN SELATAN,2007,Persentase Penyelesaian Tindak Pidana
+2229701080,89.6,KALIMANTAN SELATAN,2008,Persentase Penyelesaian Tindak Pidana
+2229701090,99.75,KALIMANTAN SELATAN,2009,Persentase Penyelesaian Tindak Pidana
+2229701100,67.02,KALIMANTAN SELATAN,2010,Persentase Penyelesaian Tindak Pidana
+2229701110,56.11,KALIMANTAN SELATAN,2011,Persentase Penyelesaian Tindak Pidana
+2229701120,85.53,KALIMANTAN SELATAN,2012,Persentase Penyelesaian Tindak Pidana
+2229701130,66.5,KALIMANTAN SELATAN,2013,Persentase Penyelesaian Tindak Pidana
+2229701140,70.04,KALIMANTAN SELATAN,2014,Persentase Penyelesaian Tindak Pidana
+2229701150,77.91,KALIMANTAN SELATAN,2015,Persentase Penyelesaian Tindak Pidana
+2229701160,78.57,KALIMANTAN SELATAN,2016,Persentase Penyelesaian Tindak Pidana
+2229701170,76.09,KALIMANTAN SELATAN,2017,Persentase Penyelesaian Tindak Pidana
+2229701180,75.93,KALIMANTAN SELATAN,2018,Persentase Penyelesaian Tindak Pidana
+2229701190,81.32,KALIMANTAN SELATAN,2019,Persentase Penyelesaian Tindak Pidana
+2229701200,82.29,KALIMANTAN SELATAN,2020,Persentase Penyelesaian Tindak Pidana
+2229701210,78.56,KALIMANTAN SELATAN,2021,Persentase Penyelesaian Tindak Pidana
+2329701000,49.5,KALIMANTAN TIMUR,2000,Persentase Penyelesaian Tindak Pidana
+2329701010,61.44,KALIMANTAN TIMUR,2001,Persentase Penyelesaian Tindak Pidana
+2329701020,46.61,KALIMANTAN TIMUR,2002,Persentase Penyelesaian Tindak Pidana
+2329701030,55.83,KALIMANTAN TIMUR,2003,Persentase Penyelesaian Tindak Pidana
+2329701040,51.55,KALIMANTAN TIMUR,2004,Persentase Penyelesaian Tindak Pidana
+2329701050,47.83,KALIMANTAN TIMUR,2005,Persentase Penyelesaian Tindak Pidana
+2329701060,50.9,KALIMANTAN TIMUR,2006,Persentase Penyelesaian Tindak Pidana
+2329701070,63.86,KALIMANTAN TIMUR,2007,Persentase Penyelesaian Tindak Pidana
+2329701080,62.0,KALIMANTAN TIMUR,2008,Persentase Penyelesaian Tindak Pidana
+2329701090,64.0,KALIMANTAN TIMUR,2009,Persentase Penyelesaian Tindak Pidana
+2329701100,38.35,KALIMANTAN TIMUR,2010,Persentase Penyelesaian Tindak Pidana
+2329701110,53.14,KALIMANTAN TIMUR,2011,Persentase Penyelesaian Tindak Pidana
+2329701120,58.17,KALIMANTAN TIMUR,2012,Persentase Penyelesaian Tindak Pidana
+2329701130,56.78,KALIMANTAN TIMUR,2013,Persentase Penyelesaian Tindak Pidana
+2329701140,53.7,KALIMANTAN TIMUR,2014,Persentase Penyelesaian Tindak Pidana
+2329701150,55.48,KALIMANTAN TIMUR,2015,Persentase Penyelesaian Tindak Pidana
+2329701160,62.07,KALIMANTAN TIMUR,2016,Persentase Penyelesaian Tindak Pidana
+2329701170,69.81,KALIMANTAN TIMUR,2017,Persentase Penyelesaian Tindak Pidana
+2329701180,75.76,KALIMANTAN TIMUR,2018,Persentase Penyelesaian Tindak Pidana
+2329701190,84.31,KALIMANTAN TIMUR,2019,Persentase Penyelesaian Tindak Pidana
+2329701200,89.33,KALIMANTAN TIMUR,2020,Persentase Penyelesaian Tindak Pidana
+2329701210,63.39,KALIMANTAN TIMUR,2021,Persentase Penyelesaian Tindak Pidana
+2429701180,69.95,KALIMANTAN UTARA,2018,Persentase Penyelesaian Tindak Pidana
+2429701190,84.36,KALIMANTAN UTARA,2019,Persentase Penyelesaian Tindak Pidana
+2429701200,81.48,KALIMANTAN UTARA,2020,Persentase Penyelesaian Tindak Pidana
+2429701210,86.71,KALIMANTAN UTARA,2021,Persentase Penyelesaian Tindak Pidana
+2529701000,55.54,SULAWESI UTARA,2000,Persentase Penyelesaian Tindak Pidana
+2529701010,51.81,SULAWESI UTARA,2001,Persentase Penyelesaian Tindak Pidana
+2529701020,58.98,SULAWESI UTARA,2002,Persentase Penyelesaian Tindak Pidana
+2529701030,62.11,SULAWESI UTARA,2003,Persentase Penyelesaian Tindak Pidana
+2529701040,60.91,SULAWESI UTARA,2004,Persentase Penyelesaian Tindak Pidana
+2529701050,55.31,SULAWESI UTARA,2005,Persentase Penyelesaian Tindak Pidana
+2529701060,55.81,SULAWESI UTARA,2006,Persentase Penyelesaian Tindak Pidana
+2529701070,56.94,SULAWESI UTARA,2007,Persentase Penyelesaian Tindak Pidana
+2529701080,56.18,SULAWESI UTARA,2008,Persentase Penyelesaian Tindak Pidana
+2529701090,52.43,SULAWESI UTARA,2009,Persentase Penyelesaian Tindak Pidana
+2529701100,52.2,SULAWESI UTARA,2010,Persentase Penyelesaian Tindak Pidana
+2529701110,95.72,SULAWESI UTARA,2011,Persentase Penyelesaian Tindak Pidana
+2529701120,101.72,SULAWESI UTARA,2012,Persentase Penyelesaian Tindak Pidana
+2529701130,67.28,SULAWESI UTARA,2013,Persentase Penyelesaian Tindak Pidana
+2529701140,71.54,SULAWESI UTARA,2014,Persentase Penyelesaian Tindak Pidana
+2529701150,66.07,SULAWESI UTARA,2015,Persentase Penyelesaian Tindak Pidana
+2529701160,73.86,SULAWESI UTARA,2016,Persentase Penyelesaian Tindak Pidana
+2529701170,70.43,SULAWESI UTARA,2017,Persentase Penyelesaian Tindak Pidana
+2529701180,53.74,SULAWESI UTARA,2018,Persentase Penyelesaian Tindak Pidana
+2529701190,63.53,SULAWESI UTARA,2019,Persentase Penyelesaian Tindak Pidana
+2529701200,77.46,SULAWESI UTARA,2020,Persentase Penyelesaian Tindak Pidana
+2529701210,58.04,SULAWESI UTARA,2021,Persentase Penyelesaian Tindak Pidana
+2629701000,47.5,SULAWESI TENGAH,2000,Persentase Penyelesaian Tindak Pidana
+2629701010,39.41,SULAWESI TENGAH,2001,Persentase Penyelesaian Tindak Pidana
+2629701020,42.79,SULAWESI TENGAH,2002,Persentase Penyelesaian Tindak Pidana
+2629701030,47.64,SULAWESI TENGAH,2003,Persentase Penyelesaian Tindak Pidana
+2629701040,34.78,SULAWESI TENGAH,2004,Persentase Penyelesaian Tindak Pidana
+2629701050,37.28,SULAWESI TENGAH,2005,Persentase Penyelesaian Tindak Pidana
+2629701060,39.05,SULAWESI TENGAH,2006,Persentase Penyelesaian Tindak Pidana
+2629701070,42.2,SULAWESI TENGAH,2007,Persentase Penyelesaian Tindak Pidana
+2629701080,43.13,SULAWESI TENGAH,2008,Persentase Penyelesaian Tindak Pidana
+2629701090,43.59,SULAWESI TENGAH,2009,Persentase Penyelesaian Tindak Pidana
+2629701100,21.11,SULAWESI TENGAH,2010,Persentase Penyelesaian Tindak Pidana
+2629701110,47.29,SULAWESI TENGAH,2011,Persentase Penyelesaian Tindak Pidana
+2629701120,48.67,SULAWESI TENGAH,2012,Persentase Penyelesaian Tindak Pidana
+2629701130,46.46,SULAWESI TENGAH,2013,Persentase Penyelesaian Tindak Pidana
+2629701140,43.38,SULAWESI TENGAH,2014,Persentase Penyelesaian Tindak Pidana
+2629701150,49.44,SULAWESI TENGAH,2015,Persentase Penyelesaian Tindak Pidana
+2629701160,40.46,SULAWESI TENGAH,2016,Persentase Penyelesaian Tindak Pidana
+2629701170,46.75,SULAWESI TENGAH,2017,Persentase Penyelesaian Tindak Pidana
+2629701180,56.39,SULAWESI TENGAH,2018,Persentase Penyelesaian Tindak Pidana
+2629701190,65.36,SULAWESI TENGAH,2019,Persentase Penyelesaian Tindak Pidana
+2629701200,68.57,SULAWESI TENGAH,2020,Persentase Penyelesaian Tindak Pidana
+2629701210,53.4,SULAWESI TENGAH,2021,Persentase Penyelesaian Tindak Pidana
+2729701000,59.23,SULAWESI SELATAN,2000,Persentase Penyelesaian Tindak Pidana
+2729701010,68.38,SULAWESI SELATAN,2001,Persentase Penyelesaian Tindak Pidana
+2729701020,69.66,SULAWESI SELATAN,2002,Persentase Penyelesaian Tindak Pidana
+2729701030,63.71,SULAWESI SELATAN,2003,Persentase Penyelesaian Tindak Pidana
+2729701040,59.86,SULAWESI SELATAN,2004,Persentase Penyelesaian Tindak Pidana
+2729701050,58.87,SULAWESI SELATAN,2005,Persentase Penyelesaian Tindak Pidana
+2729701060,65.59,SULAWESI SELATAN,2006,Persentase Penyelesaian Tindak Pidana
+2729701070,65.22,SULAWESI SELATAN,2007,Persentase Penyelesaian Tindak Pidana
+2729701080,66.16,SULAWESI SELATAN,2008,Persentase Penyelesaian Tindak Pidana
+2729701090,72.39,SULAWESI SELATAN,2009,Persentase Penyelesaian Tindak Pidana
+2729701100,59.7,SULAWESI SELATAN,2010,Persentase Penyelesaian Tindak Pidana
+2729701110,64.55,SULAWESI SELATAN,2011,Persentase Penyelesaian Tindak Pidana
+2729701120,66.72,SULAWESI SELATAN,2012,Persentase Penyelesaian Tindak Pidana
+2729701130,64.35,SULAWESI SELATAN,2013,Persentase Penyelesaian Tindak Pidana
+2729701140,74.93,SULAWESI SELATAN,2014,Persentase Penyelesaian Tindak Pidana
+2729701150,76.23,SULAWESI SELATAN,2015,Persentase Penyelesaian Tindak Pidana
+2729701160,79.21,SULAWESI SELATAN,2016,Persentase Penyelesaian Tindak Pidana
+2729701170,62.07,SULAWESI SELATAN,2017,Persentase Penyelesaian Tindak Pidana
+2729701180,53.59,SULAWESI SELATAN,2018,Persentase Penyelesaian Tindak Pidana
+2729701190,71.53,SULAWESI SELATAN,2019,Persentase Penyelesaian Tindak Pidana
+2729701200,82.97,SULAWESI SELATAN,2020,Persentase Penyelesaian Tindak Pidana
+2729701210,64.26,SULAWESI SELATAN,2021,Persentase Penyelesaian Tindak Pidana
+2829701000,63.15,SULAWESI TENGGARA,2000,Persentase Penyelesaian Tindak Pidana
+2829701010,37.83,SULAWESI TENGGARA,2001,Persentase Penyelesaian Tindak Pidana
+2829701020,45.93,SULAWESI TENGGARA,2002,Persentase Penyelesaian Tindak Pidana
+2829701030,44.55,SULAWESI TENGGARA,2003,Persentase Penyelesaian Tindak Pidana
+2829701040,47.19,SULAWESI TENGGARA,2004,Persentase Penyelesaian Tindak Pidana
+2829701050,56.6,SULAWESI TENGGARA,2005,Persentase Penyelesaian Tindak Pidana
+2829701060,7.05,SULAWESI TENGGARA,2006,Persentase Penyelesaian Tindak Pidana
+2829701070,50.12,SULAWESI TENGGARA,2007,Persentase Penyelesaian Tindak Pidana
+2829701080,59.96,SULAWESI TENGGARA,2008,Persentase Penyelesaian Tindak Pidana
+2829701090,65.0,SULAWESI TENGGARA,2009,Persentase Penyelesaian Tindak Pidana
+2829701100,65.15,SULAWESI TENGGARA,2010,Persentase Penyelesaian Tindak Pidana
+2829701110,69.44,SULAWESI TENGGARA,2011,Persentase Penyelesaian Tindak Pidana
+2829701120,69.03,SULAWESI TENGGARA,2012,Persentase Penyelesaian Tindak Pidana
+2829701130,65.31,SULAWESI TENGGARA,2013,Persentase Penyelesaian Tindak Pidana
+2829701140,53.26,SULAWESI TENGGARA,2014,Persentase Penyelesaian Tindak Pidana
+2829701150,58.14,SULAWESI TENGGARA,2015,Persentase Penyelesaian Tindak Pidana
+2829701160,45.87,SULAWESI TENGGARA,2016,Persentase Penyelesaian Tindak Pidana
+2829701170,69.54,SULAWESI TENGGARA,2017,Persentase Penyelesaian Tindak Pidana
+2829701180,69.6,SULAWESI TENGGARA,2018,Persentase Penyelesaian Tindak Pidana
+2829701190,34.46,SULAWESI TENGGARA,2019,Persentase Penyelesaian Tindak Pidana
+2829701200,26.4,SULAWESI TENGGARA,2020,Persentase Penyelesaian Tindak Pidana
+2829701210,61.42,SULAWESI TENGGARA,2021,Persentase Penyelesaian Tindak Pidana
+2929701040,65.38,GORONTALO,2004,Persentase Penyelesaian Tindak Pidana
+2929701050,73.85,GORONTALO,2005,Persentase Penyelesaian Tindak Pidana
+2929701060,78.74,GORONTALO,2006,Persentase Penyelesaian Tindak Pidana
+2929701070,56.46,GORONTALO,2007,Persentase Penyelesaian Tindak Pidana
+2929701080,77.09,GORONTALO,2008,Persentase Penyelesaian Tindak Pidana
+2929701090,65.41,GORONTALO,2009,Persentase Penyelesaian Tindak Pidana
+2929701100,51.72,GORONTALO,2010,Persentase Penyelesaian Tindak Pidana
+2929701110,55.3,GORONTALO,2011,Persentase Penyelesaian Tindak Pidana
+2929701120,65.66,GORONTALO,2012,Persentase Penyelesaian Tindak Pidana
+2929701130,43.59,GORONTALO,2013,Persentase Penyelesaian Tindak Pidana
+2929701140,44.95,GORONTALO,2014,Persentase Penyelesaian Tindak Pidana
+2929701150,42.08,GORONTALO,2015,Persentase Penyelesaian Tindak Pidana
+2929701160,36.97,GORONTALO,2016,Persentase Penyelesaian Tindak Pidana
+2929701170,91.32,GORONTALO,2017,Persentase Penyelesaian Tindak Pidana
+2929701180,64.49,GORONTALO,2018,Persentase Penyelesaian Tindak Pidana
+2929701190,72.58,GORONTALO,2019,Persentase Penyelesaian Tindak Pidana
+2929701200,70.73,GORONTALO,2020,Persentase Penyelesaian Tindak Pidana
+2929701210,54.6,GORONTALO,2021,Persentase Penyelesaian Tindak Pidana
+3029701170,55.89,SULAWESI BARAT,2017,Persentase Penyelesaian Tindak Pidana
+3029701180,56.19,SULAWESI BARAT,2018,Persentase Penyelesaian Tindak Pidana
+3029701190,61.03,SULAWESI BARAT,2019,Persentase Penyelesaian Tindak Pidana
+3029701200,63.5,SULAWESI BARAT,2020,Persentase Penyelesaian Tindak Pidana
+3029701210,75.13,SULAWESI BARAT,2021,Persentase Penyelesaian Tindak Pidana
+3129701000,43.4,MALUKU,2000,Persentase Penyelesaian Tindak Pidana
+3129701010,52.25,MALUKU,2001,Persentase Penyelesaian Tindak Pidana
+3129701020,45.35,MALUKU,2002,Persentase Penyelesaian Tindak Pidana
+3129701030,36.9,MALUKU,2003,Persentase Penyelesaian Tindak Pidana
+3129701040,45.72,MALUKU,2004,Persentase Penyelesaian Tindak Pidana
+3129701050,72.73,MALUKU,2005,Persentase Penyelesaian Tindak Pidana
+3129701060,70.07,MALUKU,2006,Persentase Penyelesaian Tindak Pidana
+3129701070,46.52,MALUKU,2007,Persentase Penyelesaian Tindak Pidana
+3129701080,45.36,MALUKU,2008,Persentase Penyelesaian Tindak Pidana
+3129701090,48.64,MALUKU,2009,Persentase Penyelesaian Tindak Pidana
+3129701100,14.79,MALUKU,2010,Persentase Penyelesaian Tindak Pidana
+3129701110,26.82,MALUKU,2011,Persentase Penyelesaian Tindak Pidana
+3129701120,55.56,MALUKU,2012,Persentase Penyelesaian Tindak Pidana
+3129701130,34.03,MALUKU,2013,Persentase Penyelesaian Tindak Pidana
+3129701140,22.72,MALUKU,2014,Persentase Penyelesaian Tindak Pidana
+3129701150,22.95,MALUKU,2015,Persentase Penyelesaian Tindak Pidana
+3129701160,21.1,MALUKU,2016,Persentase Penyelesaian Tindak Pidana
+3129701170,22.23,MALUKU,2017,Persentase Penyelesaian Tindak Pidana
+3129701180,24.25,MALUKU,2018,Persentase Penyelesaian Tindak Pidana
+3129701190,44.01,MALUKU,2019,Persentase Penyelesaian Tindak Pidana
+3129701200,26.56,MALUKU,2020,Persentase Penyelesaian Tindak Pidana
+3129701210,43.71,MALUKU,2021,Persentase Penyelesaian Tindak Pidana
+3229701050,50.0,MALUKU UTARA,2005,Persentase Penyelesaian Tindak Pidana
+3229701060,42.58,MALUKU UTARA,2006,Persentase Penyelesaian Tindak Pidana
+3229701070,43.56,MALUKU UTARA,2007,Persentase Penyelesaian Tindak Pidana
+3229701080,22.32,MALUKU UTARA,2008,Persentase Penyelesaian Tindak Pidana
+3229701090,18.63,MALUKU UTARA,2009,Persentase Penyelesaian Tindak Pidana
+3229701100,17.48,MALUKU UTARA,2010,Persentase Penyelesaian Tindak Pidana
+3229701110,54.9,MALUKU UTARA,2011,Persentase Penyelesaian Tindak Pidana
+3229701120,70.95,MALUKU UTARA,2012,Persentase Penyelesaian Tindak Pidana
+3229701130,33.22,MALUKU UTARA,2013,Persentase Penyelesaian Tindak Pidana
+3229701140,40.48,MALUKU UTARA,2014,Persentase Penyelesaian Tindak Pidana
+3229701150,39.68,MALUKU UTARA,2015,Persentase Penyelesaian Tindak Pidana
+3229701160,46.17,MALUKU UTARA,2016,Persentase Penyelesaian Tindak Pidana
+3229701170,44.61,MALUKU UTARA,2017,Persentase Penyelesaian Tindak Pidana
+3229701180,56.09,MALUKU UTARA,2018,Persentase Penyelesaian Tindak Pidana
+3229701190,60.86,MALUKU UTARA,2019,Persentase Penyelesaian Tindak Pidana
+3229701200,55.29,MALUKU UTARA,2020,Persentase Penyelesaian Tindak Pidana
+3229701210,58.43,MALUKU UTARA,2021,Persentase Penyelesaian Tindak Pidana
+3329701150,27.43,PAPUA BARAT,2015,Persentase Penyelesaian Tindak Pidana
+3329701160,63.62,PAPUA BARAT,2016,Persentase Penyelesaian Tindak Pidana
+3329701170,68.52,PAPUA BARAT,2017,Persentase Penyelesaian Tindak Pidana
+3329701180,27.48,PAPUA BARAT,2018,Persentase Penyelesaian Tindak Pidana
+3329701190,44.21,PAPUA BARAT,2019,Persentase Penyelesaian Tindak Pidana
+3329701200,31.78,PAPUA BARAT,2020,Persentase Penyelesaian Tindak Pidana
+3329701210,32.83,PAPUA BARAT,2021,Persentase Penyelesaian Tindak Pidana
+3429701000,74.23,PAPUA,2000,Persentase Penyelesaian Tindak Pidana
+3429701010,88.22,PAPUA,2001,Persentase Penyelesaian Tindak Pidana
+3429701020,56.43,PAPUA,2002,Persentase Penyelesaian Tindak Pidana
+3429701030,58.99,PAPUA,2003,Persentase Penyelesaian Tindak Pidana
+3429701040,56.31,PAPUA,2004,Persentase Penyelesaian Tindak Pidana
+3429701050,63.43,PAPUA,2005,Persentase Penyelesaian Tindak Pidana
+3429701060,68.21,PAPUA,2006,Persentase Penyelesaian Tindak Pidana
+3429701070,60.55,PAPUA,2007,Persentase Penyelesaian Tindak Pidana
+3429701080,57.32,PAPUA,2008,Persentase Penyelesaian Tindak Pidana
+3429701090,51.27,PAPUA,2009,Persentase Penyelesaian Tindak Pidana
+3429701100,50.05,PAPUA,2010,Persentase Penyelesaian Tindak Pidana
+3429701110,45.69,PAPUA,2011,Persentase Penyelesaian Tindak Pidana
+3429701120,49.38,PAPUA,2012,Persentase Penyelesaian Tindak Pidana
+3429701130,48.89,PAPUA,2013,Persentase Penyelesaian Tindak Pidana
+3429701140,50.29,PAPUA,2014,Persentase Penyelesaian Tindak Pidana
+3429701150,51.49,PAPUA,2015,Persentase Penyelesaian Tindak Pidana
+3429701160,41.5,PAPUA,2016,Persentase Penyelesaian Tindak Pidana
+3429701170,10.11,PAPUA,2017,Persentase Penyelesaian Tindak Pidana
+3429701180,62.41,PAPUA,2018,Persentase Penyelesaian Tindak Pidana
+3429701190,51.24,PAPUA,2019,Persentase Penyelesaian Tindak Pidana
+3429701200,55.67,PAPUA,2020,Persentase Penyelesaian Tindak Pidana
+3429701210,42.45,PAPUA,2021,Persentase Penyelesaian Tindak Pidana
+3529701000,56.37,INDONESIA,2000,Persentase Penyelesaian Tindak Pidana
+3529701010,55.46,INDONESIA,2001,Persentase Penyelesaian Tindak Pidana
+3529701020,55.89,INDONESIA,2002,Persentase Penyelesaian Tindak Pidana
+3529701030,56.19,INDONESIA,2003,Persentase Penyelesaian Tindak Pidana
+3529701040,54.78,INDONESIA,2004,Persentase Penyelesaian Tindak Pidana
+3529701050,57.01,INDONESIA,2005,Persentase Penyelesaian Tindak Pidana
+3529701060,60.42,INDONESIA,2006,Persentase Penyelesaian Tindak Pidana
+3529701070,63.73,INDONESIA,2007,Persentase Penyelesaian Tindak Pidana
+3529701080,63.91,INDONESIA,2008,Persentase Penyelesaian Tindak Pidana
+3529701090,64.7,INDONESIA,2009,Persentase Penyelesaian Tindak Pidana
+3529701100,49.72,INDONESIA,2010,Persentase Penyelesaian Tindak Pidana
+3529701110,52.37,INDONESIA,2011,Persentase Penyelesaian Tindak Pidana
+3529701120,52.05,INDONESIA,2012,Persentase Penyelesaian Tindak Pidana
+3529701130,52.92,INDONESIA,2013,Persentase Penyelesaian Tindak Pidana
+3529701140,54.26,INDONESIA,2014,Persentase Penyelesaian Tindak Pidana
+3529701150,58.13,INDONESIA,2015,Persentase Penyelesaian Tindak Pidana
+3529701160,58.74,INDONESIA,2016,Persentase Penyelesaian Tindak Pidana
+3529701170,62.99,INDONESIA,2017,Persentase Penyelesaian Tindak Pidana
+3529701180,64.94,INDONESIA,2018,Persentase Penyelesaian Tindak Pidana
+3529701190,68.17,INDONESIA,2019,Persentase Penyelesaian Tindak Pidana
+3529701200,71.49,INDONESIA,2020,Persentase Penyelesaian Tindak Pidana
+3529701210,71.85,INDONESIA,2021,Persentase Penyelesaian Tindak Pidana

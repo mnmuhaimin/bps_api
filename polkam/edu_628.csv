@@ -1,0 +1,281 @@
+id,values,provinsi,tahun,dimensi,data_title
+99996288071170,75.06,INDONESIA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+99996288071210,77.64,INDONESIA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+99996288081170,64.33,INDONESIA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+99996288081210,57.91,INDONESIA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+99996288091170,68.31,INDONESIA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+99996288091210,64.87,INDONESIA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+99996288101170,68.59,INDONESIA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+99996288101210,65.61,INDONESIA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+11006288071170,74.8,ACEH,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+11006288071210,77.45,ACEH,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+11006288081170,64.33,ACEH,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+11006288081210,55.26,ACEH,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+11006288091170,68.41,ACEH,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+11006288091210,62.64,ACEH,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+11006288101170,68.56,ACEH,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+11006288101210,63.75,ACEH,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+12006288071170,73.57,SUMATERA UTARA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+12006288071210,77.13,SUMATERA UTARA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+12006288081170,59.16,SUMATERA UTARA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+12006288081210,55.14,SUMATERA UTARA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+12006288091170,64.16,SUMATERA UTARA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+12006288091210,64.01,SUMATERA UTARA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+12006288101170,64.75,SUMATERA UTARA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+12006288101210,64.14,SUMATERA UTARA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+13006288071170,76.78,SUMATERA BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+13006288071210,77.6,SUMATERA BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+13006288081170,65.11,SUMATERA BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+13006288081210,57.7,SUMATERA BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+13006288091170,70.67,SUMATERA BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+13006288091210,65.47,SUMATERA BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+13006288101170,70.21,SUMATERA BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+13006288101210,65.75,SUMATERA BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+14006288071170,76.6,RIAU,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+14006288071210,78.78,RIAU,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+14006288081170,65.75,RIAU,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+14006288081210,55.89,RIAU,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+14006288091170,70.26,RIAU,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+14006288091210,65.42,RIAU,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+14006288101170,70.24,RIAU,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+14006288101210,65.36,RIAU,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+15006288071170,74.16,JAMBI,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+15006288071210,79.89,JAMBI,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+15006288081170,64.66,JAMBI,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+15006288081210,68.78,JAMBI,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+15006288091170,68.52,JAMBI,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+15006288091210,72.78,JAMBI,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+15006288101170,68.56,JAMBI,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+15006288101210,73.15,JAMBI,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+16006288071170,76.37,SUMATERA SELATAN,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+16006288071210,79.11,SUMATERA SELATAN,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+16006288081170,66.61,SUMATERA SELATAN,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+16006288081210,58.77,SUMATERA SELATAN,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+16006288091170,70.57,SUMATERA SELATAN,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+16006288091210,67.16,SUMATERA SELATAN,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+16006288101170,70.61,SUMATERA SELATAN,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+16006288101210,67.16,SUMATERA SELATAN,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+17006288071170,75.62,BENGKULU,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+17006288071210,75.92,BENGKULU,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+17006288081170,63.85,BENGKULU,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+17006288081210,59.37,BENGKULU,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+17006288091170,68.22,BENGKULU,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+17006288091210,65.06,BENGKULU,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+17006288101170,68.52,BENGKULU,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+17006288101210,65.77,BENGKULU,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+18006288071170,74.01,LAMPUNG,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+18006288071210,78.4,LAMPUNG,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+18006288081170,63.39,LAMPUNG,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+18006288081210,57.83,LAMPUNG,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+18006288091170,66.86,LAMPUNG,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+18006288091210,64.22,LAMPUNG,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+18006288101170,67.43,LAMPUNG,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+18006288101210,65.53,LAMPUNG,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+19006288071170,77.88,KEP. BANGKA BELITUNG,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+19006288071210,80.0,KEP. BANGKA BELITUNG,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+19006288081170,64.02,KEP. BANGKA BELITUNG,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+19006288081210,63.6,KEP. BANGKA BELITUNG,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+19006288091170,68.65,KEP. BANGKA BELITUNG,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+19006288091210,69.73,KEP. BANGKA BELITUNG,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+19006288101170,69.33,KEP. BANGKA BELITUNG,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+19006288101210,70.13,KEP. BANGKA BELITUNG,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+21006288071170,78.51,KEP. RIAU,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+21006288071210,81.55,KEP. RIAU,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+21006288081170,63.89,KEP. RIAU,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+21006288081210,60.53,KEP. RIAU,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+21006288091170,67.75,KEP. RIAU,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+21006288091210,69.79,KEP. RIAU,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+21006288101170,69.11,KEP. RIAU,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+21006288101210,69.42,KEP. RIAU,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+31006288071170,77.02,DKI JAKARTA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+31006288071210,77.78,DKI JAKARTA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+31006288081170,62.94,DKI JAKARTA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+31006288081210,53.81,DKI JAKARTA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+31006288091170,66.9,DKI JAKARTA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+31006288091210,60.13,DKI JAKARTA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+31006288101170,68.06,DKI JAKARTA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+31006288101210,62.37,DKI JAKARTA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+32006288071170,73.68,JAWA BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+32006288071210,76.06,JAWA BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+32006288081170,62.5,JAWA BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+32006288081210,54.68,JAWA BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+32006288091170,66.35,JAWA BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+32006288091210,62.71,JAWA BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+32006288101170,66.83,JAWA BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+32006288101210,63.21,JAWA BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+33006288071170,74.52,JAWA TENGAH,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+33006288071210,77.48,JAWA TENGAH,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+33006288081170,67.13,JAWA TENGAH,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+33006288081210,61.85,JAWA TENGAH,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+33006288091170,70.9,JAWA TENGAH,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+33006288091210,67.59,JAWA TENGAH,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+33006288101170,70.45,JAWA TENGAH,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+33006288101210,68.03,JAWA TENGAH,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+34006288071170,76.79,DI YOGYAKARTA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+34006288071210,78.05,DI YOGYAKARTA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+34006288081170,70.54,DI YOGYAKARTA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+34006288081210,61.24,DI YOGYAKARTA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+34006288091170,73.83,DI YOGYAKARTA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+34006288091210,65.79,DI YOGYAKARTA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+34006288101170,73.38,DI YOGYAKARTA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+34006288101210,67.29,DI YOGYAKARTA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+35006288071170,74.77,JAWA TIMUR,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+35006288071210,77.81,JAWA TIMUR,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+35006288081170,64.85,JAWA TIMUR,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+35006288081210,59.27,JAWA TIMUR,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+35006288091170,68.53,JAWA TIMUR,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+35006288091210,65.6,JAWA TIMUR,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+35006288101170,68.79,JAWA TIMUR,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+35006288101210,66.43,JAWA TIMUR,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+36006288071170,74.82,BANTEN,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+36006288071210,73.55,BANTEN,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+36006288081170,62.65,BANTEN,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+36006288081210,52.31,BANTEN,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+36006288091170,68.01,BANTEN,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+36006288091210,59.83,BANTEN,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+36006288101170,67.8,BANTEN,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+36006288101210,60.61,BANTEN,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+51006288071170,75.28,BALI,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+51006288071210,76.14,BALI,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+51006288081170,68.37,BALI,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+51006288081210,58.13,BALI,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+51006288091170,72.53,BALI,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+51006288091210,66.69,BALI,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+51006288101170,71.71,BALI,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+51006288101210,65.98,BALI,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+52006288071170,75.27,NUSA TENGGARA BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+52006288071210,76.65,NUSA TENGGARA BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+52006288081170,62.89,NUSA TENGGARA BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+52006288081210,57.2,NUSA TENGGARA BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+52006288091170,66.65,NUSA TENGGARA BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+52006288091210,62.61,NUSA TENGGARA BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+52006288101170,67.5,NUSA TENGGARA BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+52006288101210,64.25,NUSA TENGGARA BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+53006288071170,72.66,NUSA TENGGARA TIMUR,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+53006288071210,77.47,NUSA TENGGARA TIMUR,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+53006288081170,61.22,NUSA TENGGARA TIMUR,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+53006288081210,55.67,NUSA TENGGARA TIMUR,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+53006288091170,64.02,NUSA TENGGARA TIMUR,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+53006288091210,60.59,NUSA TENGGARA TIMUR,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+53006288101170,65.23,NUSA TENGGARA TIMUR,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+53006288101210,63.14,NUSA TENGGARA TIMUR,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+61006288071170,76.36,KALIMANTAN BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+61006288071210,80.17,KALIMANTAN BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+61006288081170,62.7,KALIMANTAN BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+61006288081210,59.87,KALIMANTAN BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+61006288091170,66.24,KALIMANTAN BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+61006288091210,65.82,KALIMANTAN BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+61006288101170,67.55,KALIMANTAN BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+61006288101210,67.34,KALIMANTAN BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+62006288071170,74.92,KALIMANTAN TENGAH,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+62006288071210,79.35,KALIMANTAN TENGAH,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+62006288081170,66.2,KALIMANTAN TENGAH,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+62006288081210,61.36,KALIMANTAN TENGAH,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+62006288091170,69.04,KALIMANTAN TENGAH,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+62006288091210,68.39,KALIMANTAN TENGAH,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+62006288101170,69.52,KALIMANTAN TENGAH,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+62006288101210,68.63,KALIMANTAN TENGAH,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+63006288071170,77.79,KALIMANTAN SELATAN,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+63006288071210,79.66,KALIMANTAN SELATAN,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+63006288081170,68.0,KALIMANTAN SELATAN,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+63006288081210,62.83,KALIMANTAN SELATAN,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+63006288091170,72.76,KALIMANTAN SELATAN,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+63006288091210,68.22,KALIMANTAN SELATAN,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+63006288101170,72.31,KALIMANTAN SELATAN,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+63006288101210,69.2,KALIMANTAN SELATAN,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+64006288071170,78.64,KALIMANTAN TIMUR,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+64006288071210,80.71,KALIMANTAN TIMUR,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+64006288081170,66.99,KALIMANTAN TIMUR,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+64006288081210,58.52,KALIMANTAN TIMUR,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+64006288091170,71.36,KALIMANTAN TIMUR,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+64006288091210,65.16,KALIMANTAN TIMUR,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+64006288101170,71.63,KALIMANTAN TIMUR,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+64006288101210,66.74,KALIMANTAN TIMUR,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+65006288071170,79.46,KALIMANTAN UTARA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+65006288071210,82.52,KALIMANTAN UTARA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+65006288081170,69.47,KALIMANTAN UTARA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+65006288081210,63.8,KALIMANTAN UTARA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+65006288091170,73.12,KALIMANTAN UTARA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+65006288091210,71.92,KALIMANTAN UTARA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+65006288101170,73.42,KALIMANTAN UTARA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+65006288101210,71.68,KALIMANTAN UTARA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+71006288071170,80.38,SULAWESI UTARA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+71006288071210,82.49,SULAWESI UTARA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+71006288081170,63.92,SULAWESI UTARA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+71006288081210,58.44,SULAWESI UTARA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+71006288091170,66.9,SULAWESI UTARA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+71006288091210,63.94,SULAWESI UTARA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+71006288101170,69.29,SULAWESI UTARA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+71006288101210,66.72,SULAWESI UTARA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+72006288071170,77.05,SULAWESI TENGAH,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+72006288071210,81.91,SULAWESI TENGAH,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+72006288081170,64.67,SULAWESI TENGAH,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+72006288081210,56.82,SULAWESI TENGAH,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+72006288091170,70.57,SULAWESI TENGAH,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+72006288091210,66.1,SULAWESI TENGAH,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+72006288101170,70.08,SULAWESI TENGAH,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+72006288101210,66.77,SULAWESI TENGAH,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+73006288071170,76.64,SULAWESI SELATAN,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+73006288071210,79.03,SULAWESI SELATAN,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+73006288081170,65.96,SULAWESI SELATAN,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+73006288081210,60.95,SULAWESI SELATAN,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+73006288091170,71.08,SULAWESI SELATAN,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+73006288091210,68.25,SULAWESI SELATAN,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+73006288101170,70.63,SULAWESI SELATAN,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+73006288101210,68.35,SULAWESI SELATAN,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+74006288071170,76.07,SULAWESI TENGGARA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+74006288071210,80.5,SULAWESI TENGGARA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+74006288081170,63.22,SULAWESI TENGGARA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+74006288081210,60.68,SULAWESI TENGGARA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+74006288091170,69.17,SULAWESI TENGGARA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+74006288091210,67.57,SULAWESI TENGGARA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+74006288101170,68.77,SULAWESI TENGGARA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+74006288101210,68.38,SULAWESI TENGGARA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+75006288071170,78.48,GORONTALO,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+75006288071210,82.36,GORONTALO,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+75006288081170,63.79,GORONTALO,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+75006288081210,59.81,GORONTALO,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+75006288091170,68.14,GORONTALO,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+75006288091210,70.06,GORONTALO,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+75006288101170,69.21,GORONTALO,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+75006288101210,69.47,GORONTALO,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+76006288071170,75.09,SULAWESI BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+76006288071210,81.98,SULAWESI BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+76006288081170,62.93,SULAWESI BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+76006288081210,57.48,SULAWESI BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+76006288091170,67.78,SULAWESI BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+76006288091210,65.21,SULAWESI BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+76006288101170,67.89,SULAWESI BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+76006288101210,66.7,SULAWESI BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+81006288071170,80.47,MALUKU,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+81006288071210,83.75,MALUKU,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+81006288081170,64.61,MALUKU,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+81006288081210,58.88,MALUKU,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+81006288091170,65.38,MALUKU,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+81006288091210,67.53,MALUKU,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+81006288101170,69.0,MALUKU,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+81006288101210,68.54,MALUKU,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+82006288071170,81.05,MALUKU UTARA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+82006288071210,84.23,MALUKU UTARA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+82006288081170,65.74,MALUKU UTARA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+82006288081210,58.83,MALUKU UTARA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+82006288091170,67.84,MALUKU UTARA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+82006288091210,65.59,MALUKU UTARA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+82006288101170,70.48,MALUKU UTARA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+82006288101210,67.92,MALUKU UTARA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+91006288071170,77.04,PAPUA BARAT,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+91006288071210,82.26,PAPUA BARAT,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+91006288081170,63.48,PAPUA BARAT,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+91006288081210,60.5,PAPUA BARAT,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+91006288091170,66.07,PAPUA BARAT,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+91006288091210,66.32,PAPUA BARAT,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+91006288101170,67.95,PAPUA BARAT,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+91006288101210,68.3,PAPUA BARAT,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+94006288071170,71.75,PAPUA,2017,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+94006288071210,75.96,PAPUA,2021,Perasaan Senang/Riang/Gembira,Dimensi Afeksi Indeks Kebahagiaan
+94006288081170,60.69,PAPUA,2017,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+94006288081210,57.18,PAPUA,2021,Perasaan Tidak Khawatir/Cemas,Dimensi Afeksi Indeks Kebahagiaan
+94006288091170,61.41,PAPUA,2017,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+94006288091210,61.7,PAPUA,2021,Perasaan Tidak Tertekan,Dimensi Afeksi Indeks Kebahagiaan
+94006288101170,63.82,PAPUA,2017,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan
+94006288101210,63.72,PAPUA,2021,Dimensi Afeksi (Total),Dimensi Afeksi Indeks Kebahagiaan

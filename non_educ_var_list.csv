@@ -1,0 +1,1338 @@
+var_id,title,sub_name
+70,Persentase Penduduk Usia 5 tahun ke atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kelamin,Komunikasi
+111,Persentase Rumah Tangga yang Memiliki/Menguasai  Telepon Tetap Kabel Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+391,Persentase Rumah Tangga yang Memiliki/Menguasai  Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+392,Rata-Rata Banyaknya Nomor Telepon Seluler Aktif Dari Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+393,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Bergerak Selular Menurut Provinsi dan Banyaknya Nomor Telepon Seluler Aktif,Komunikasi
+395,Persentase Penduduk yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+396,Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+398,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+402,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Media Akses,Komunikasi
+403,Rata-Rata Banyaknya Anggota Rumah Tangga yang Pernah Mengakses Internet Dari Rumah Tangga yang Pernah Mengkases Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+406,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+407,Persentase Penduduk Usia 5 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Media,Komunikasi
+420,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Umur,Komunikasi
+423,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenjang Pendidikan Tertinggi yang Ditamatkan,Komunikasi
+424,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 5-12 tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+425,Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kegiatan Utama,Komunikasi
+426,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 13-15 tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+427,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 16-18 tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+428,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 19-24 tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+429,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 25+ tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+430,Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur => 5 Tahun Menurut Provinsi dan Jenis Kelamin,Komunikasi
+431,"Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi, Jenjang Pendidikan Tertinggi yang Ditamatkan (Laki-laki)",Komunikasi
+432,Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Lapangan Usaha,Komunikasi
+433,"Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi, Jenjang Pendidikan Tertinggi yang Ditamatkan (Perempuan)",Komunikasi
+434,"Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi, Jenjang Pendidikan Tertinggi yang Ditamatkan (Laki-laki+Perempuan)",Komunikasi
+558,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lokasi,Komunikasi
+560,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi,Komunikasi
+840,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Kelompok Umur,Komunikasi
+858,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Media,Komunikasi
+860,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Jenjang Pendidikan Tertinggi yang Ditamatkan,Komunikasi
+871,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi,Komunikasi
+968,Persentase Judul Film yang Ditayangkan oleh Perusahaan Bioskop Menurut Genre,Komunikasi
+983,Jumlah Pelanggan Telepon Indonesia menurut Jenis Penyelenggaraan Jaringan,Komunikasi
+984,Persentase Oplah Penerbitan Berkala oleh Perusahaan Penerbit Menurut Jenis/Kategori,Komunikasi
+1670,Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Sumber Penerangan Rumah Tangga,Komunikasi
+1671,Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1674,Banyaknya Desa/Kelurahan yang Memiliki Keluarga Pelanggan Telepon Tetap Kabel Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1675,Banyaknya Desa/Kelurahan yang Menerima Sinyal Telepon Selular Menurut Provinsi (Sinyal Lemah),Komunikasi
+1676,Banyaknya Desa/Kelurahan yang Menerima Sinyal Telepon Selular Menurut Provinsi (Sinyal Kuat),Komunikasi
+1677,Banyaknya Desa/Kelurahan yang Memiliki Menara Base Transceiver Station (BTS) menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1679,Banyaknya Desa/Kelurahan yang Tidak Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perkotaan),Komunikasi
+1681,Banyaknya Desa/Kelurahan yang Tidak Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perdesaan),Komunikasi
+1682,Banyaknya Desa/Kelurahan yang Tidak Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perkotaan+Perdesaan),Komunikasi
+1684,Banyaknya Desa/Kelurahan yang Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perkotaan),Komunikasi
+1685,Banyaknya Desa/Kelurahan yang Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perdesaan),Komunikasi
+1686,Banyaknya Desa/Kelurahan yang Memiliki Menara BTS Menurut Provinsi dan Penerimaan Sinyal Telepon Selular (Perkotaan+Perdesaan),Komunikasi
+1687,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan),Komunikasi
+1688,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan),Komunikasi
+1689,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Pedesaan),Komunikasi
+1691,Rata-Rata Banyaknya Anggota Rumah Tangga yang Memiliki/Menguasai Telepon Selular dari Rumah Tangga yang Memiliki/Menguasai Telepon Selular Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1692,Banyaknya Desa/Kelurahan yang Memiliki Fasilitas Internet di Kantor Desa/Lurah menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1693,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan),Komunikasi
+1694,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan),Komunikasi
+1695,Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Perdesaan),Komunikasi
+1696,Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Partisipasi Sekolah,Komunikasi
+1698,Persentase Penduduk Usia 5 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Jenjang Pendidikan yang Sedang Diduduki,Komunikasi
+1699,Persentase Penduduk Usia 5 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Kemampuan Membaca,Komunikasi
+1700,Persentase Penduduk Usia 10 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Status Pekerjaan,Komunikasi
+1704,Jumlah Keluarga yang Berlangganan Telepon Tetap Kabel menurut Provinsi,Komunikasi
+1705,Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Jenis Kelamin,Komunikasi
+1707,Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lapangan Usaha Utama,Komunikasi
+1852,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan),Komunikasi
+1853,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perdesaan),Komunikasi
+1854,Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan+Perdesaan),Komunikasi
+1855,Persentase Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi dan Klasifikasi Daerah,Komunikasi
+1856,Rata-Rata Konsumsi Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi,Komunikasi
+1857,Rata-Rata Konsumsi Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi,Komunikasi
+1858,Rata-Rata Konsumsi Non Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi,Komunikasi
+1859,Rata-Rata Konsumsi Rumah Tangga untuk Telekomunikasi Menurut Provinsi,Komunikasi
+1860,Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Non Makanan Menurut Provinsi,Komunikasi
+1861,Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Total Menurut Provinsi,Komunikasi
+2015,"Persentase pelanggan terlayani jaringan internet akses tetap pitalebar (fixed broadband) terhadap total rumah tangga, menurut provinsi",Komunikasi
+1,Inflasi (Umum),Inflasi
+2,Indeks Harga Konsumen (Umum),Inflasi
+1708,Inflasi 90 Kota (Umum),Inflasi
+1709,Indeks Harga Konsumen 90 Kota (Umum),Inflasi
+1890,"Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau",Inflasi
+1894,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki,Inflasi
+1895,"Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",Inflasi
+1897,"Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",Inflasi
+1898,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan,Inflasi
+1899,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi,Inflasi
+1900,"Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",Inflasi
+1901,"Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",Inflasi
+1902,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan,Inflasi
+1903,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran,Inflasi
+1904,Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya,Inflasi
+1905,"Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau",Inflasi
+1906,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki,Inflasi
+1907,"Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",Inflasi
+1908,"Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",Inflasi
+1909,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan,Inflasi
+1910,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi,Inflasi
+1911,"Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",Inflasi
+1912,"Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",Inflasi
+1913,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan,Inflasi
+1915,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran,Inflasi
+1916,Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya,Inflasi
+1917,"Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok  01 Makanan, Minuman dan Tembakau",Inflasi
+1918,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki,Inflasi
+1919,"Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",Inflasi
+1920,"Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",Inflasi
+1921,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan,Inflasi
+1922,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi,Inflasi
+1923,"Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",Inflasi
+1924,"Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",Inflasi
+1925,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan,Inflasi
+1926,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran,Inflasi
+1927,Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya,Inflasi
+1928,Inflasi (2012=100) Menurut Kelompok 01 Bahan Makanan,Inflasi
+1929,"Inflasi (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau",Inflasi
+1930,"Inflasi (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar",Inflasi
+1931,Inflasi (2012=100) Menurut Kelompok 04 Sandang,Inflasi
+1932,Inflasi (2012=100) Menurut Kelompok 05 Kesehatan,Inflasi
+1933,"Inflasi (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga",Inflasi
+1934,"Inflasi (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan",Inflasi
+1935,Indeks Harga Konsumen (2012=100) Menurut Kelompok 01 Bahan Makanan,Inflasi
+1936,"Indeks Harga Konsumen (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau",Inflasi
+1937,"Indeks Harga Konsumen (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar",Inflasi
+1938,Indeks Harga Konsumen (2012=100) Menurut Kelompok 04 Sandang,Inflasi
+1939,Indeks Harga Konsumen (2012=100) Menurut Kelompok 05 Kesehatan,Inflasi
+1940,"Indeks Harga Konsumen (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga",Inflasi
+1941,"Indeks Harga Konsumen (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan",Inflasi
+1942,Inflasi Tahun Kalender (2012=100) Menurut Kelompok 01 Bahan Makanan,Inflasi
+1943,"Inflasi Tahun Kalender (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau",Inflasi
+1944,"Inflasi Tahun Kalender (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar",Inflasi
+1945,Inflasi Tahun Kalender (2012=100) Menurut Kelompok 04 Sandang,Inflasi
+1946,Inflasi Tahun Kalender (2012=100) Menurut Kelompok 05 Kesehatan,Inflasi
+1947,"Inflasi Tahun Kalender (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga",Inflasi
+1948,"Inflasi Tahun Kalender (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan",Inflasi
+100,Hari Orang Pekerja Harian Perusahaan Konstruksi,Konstruksi
+128,Indeks Kemahalan Konstruksi,Konstruksi
+213,Ringkasan Statistik Konstruksi,Konstruksi
+216,Banyaknya Perusahaan Konstruksi,Konstruksi
+223,Banyaknya Pekerja Tetap Perusahaan Konstruksi,Konstruksi
+225,Balas Jasa Pekerja Tetap dan Upah Pekerja Harian Perusahaan Konstruksi,Konstruksi
+229,Nilai Konstruksi yang Diselesaikan Perusahaan Konstruksi,Konstruksi
+239,Banyaknya Sampel Usaha Konstruksi Perorangan,Konstruksi
+240,Rata-Rata Pekerja Tetap Usaha Konstruksi Perorangan,Konstruksi
+241,Median Hari Orang Pekerja Harian Usaha Konstruksi Perorangan,Konstruksi
+242,Median Balas Jasa dan Upah Pekerja per Tahun Usaha Konstruksi Perorangan,Konstruksi
+243,Median Nilai Konstruksi Usaha Konstruksi Perorangan,Konstruksi
+245,Banyaknya Tenaga Kerja Ahli Konstruksi menurut Provinsi dan Kualifikasi,Konstruksi
+247,Banyaknya Tenaga Terampil Konstruksi menurut Provinsi dan Kualifikasi,Konstruksi
+253,Volume Pembangunan Rumah oleh Perum Perumnas,Konstruksi
+255,Nilai Pembangunan Rumah oleh Perum Perumnas,Konstruksi
+256,Rata-Rata Harga/Unit Pembangunan Rumah oleh Perum Perumnas,Konstruksi
+260,Banyaknya Stok Akhir Rumah yang Dibangun oleh Perum Perumnas,Konstruksi
+263,Rencana Pembangunan Rumah Siap Huni (RSH) oleh Perum Perumnas,Konstruksi
+265,Realisasi Pembangunan Rumah Siap Huni (RSH) oleh Perum Perumnas ,Konstruksi
+548,Indeks Triwulanan Pekerja Tetap Konstruksi Menurut Provinsi (2016=100),Konstruksi
+549,Indeks Triwulanan Hari Orang Pekerja Harian Perusahaan Konstruksi Menurut Provinsi (2016=100),Konstruksi
+550,Indeks Triwulanan Balas Jasa Pekerja Tetap dan Upah Pekerja Harian Konstruksi Menurut Provinsi (2016=100),Konstruksi
+553,Indeks Triwulanan Nilai Konstruksi yang Diselesaikan Perusahaan Konstruksi Menurut Provinsi (2016=100),Konstruksi
+985,Ringkasan Pendapatan Bruto dan Pengeluaran Perusahaan Konstruksi,Konstruksi
+1031,Ringkasan Statistik Konstruksi Perorangan,Konstruksi
+44,Persentase Rata-Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Barang,Konsumsi dan Pengeluaran
+54,Rata-rata Konsumsi Protein per Kapita Menurut Kelompok Makanan,Konsumsi dan Pengeluaran
+55,Rata-rata Konsumsi Kalori per Kapita Sehari Menurut Kelompok Makanan,Konsumsi dan Pengeluaran
+56,Indikator Konsumsi Terpilih,Konsumsi dan Pengeluaran
+59,Ketersediaan Kalori per Kapita Menurut Kelompok Bahan Makanan,Konsumsi dan Pengeluaran
+60,Ketersediaan Protein per Kapita Menurut Kelompok Bahan Makanan,Konsumsi dan Pengeluaran
+544,Kebutuhan Hidup Minimum/Layak (Khm/Khl) Selama Sebulan (Rupiah) Menurut Provinsi,Konsumsi dan Pengeluaran
+669,Ketersediaan Lemak per Kapita Menurut Kelompok Bahan Makanan,Konsumsi dan Pengeluaran
+718,Rata-rata Pengeluaran Konsumsi Perkapita menurut Golongan Rumah Tangga,Konsumsi dan Pengeluaran
+724,Rata - Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Barang,Konsumsi dan Pengeluaran
+779,Persentase Perkembangan Distribusi Pengeluaran		,Konsumsi dan Pengeluaran
+898,Persentase Rata - Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan Menurut Provinsi dan Kelompok Barang,Konsumsi dan Pengeluaran
+915,Rata-rata Jumlah Pendapatan perkapita Menurut Golongan Rumah Tangga,Konsumsi dan Pengeluaran
+916,Persentase Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan Menurut Provinsi dan Kelompok Barang,Konsumsi dan Pengeluaran
+986,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2000 - 2003 (Perkotaan),Konsumsi dan Pengeluaran
+991,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2004 - 2007 (Perkotaan),Konsumsi dan Pengeluaran
+999,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2008 - 2012 (Perkotaan),Konsumsi dan Pengeluaran
+1003,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2013 - 2014 (Perkotaan),Konsumsi dan Pengeluaran
+1004,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2015 - 2016 (Perkotaan),Konsumsi dan Pengeluaran
+1009,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan  Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2000-2003 (Pedesaan),Konsumsi dan Pengeluaran
+1010,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan  Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2004-2006 (Pedesaan),Konsumsi dan Pengeluaran
+1011,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan  Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahunan 2007-2012 (Pedesaan),Konsumsi dan Pengeluaran
+1061,Rata‑Rata Konsumsi Kalori dan Protein per Kapita per Hari Menurut Provinsi,Konsumsi dan Pengeluaran
+1066,Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan Menurut Provinsi dan Kelompok Barang,Konsumsi dan Pengeluaran
+1071,Jumlah Pendapatan Menurut Golongan Rumah Tangga,Konsumsi dan Pengeluaran
+1072,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan Tahun 2000-2003,Konsumsi dan Pengeluaran
+1073,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan 2004-2006,Konsumsi dan Pengeluaran
+1074,Pengeluaran Rata‑Rata per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan 2007-2012,Konsumsi dan Pengeluaran
+1076,"Persentase Pengeluaran Rata-rata per Kapita Sebulan Menurut Kelompok Barang, Indonesia",Konsumsi dan Pengeluaran
+1102,Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Provinsi dan Kelompok Barang,Konsumsi dan Pengeluaran
+1116,Rata-Rata Konsumsi per Kapita Seminggu Beberapa Macam Bahan Makanan Penting,Konsumsi dan Pengeluaran
+1319,Proporsi Penduduk Dengan Asupan Kalori Minimum Di Bawah 1400 Kkal/Kapita/Hari Menurut Provinsi,Konsumsi dan Pengeluaran
+1320,Proporsi Penduduk Dengan Asupan Kalori Minimum Di Bawah 1400 Kkal/Kapita/Hari Menurut Kelompok Pengeluaran,Konsumsi dan Pengeluaran
+1324,Proporsi Penduduk Dengan Asupan Kalori Minimum Di Bawah 1400 Kkal/Kapita/Hari Menurut Daerah Tempat Tinggal,Konsumsi dan Pengeluaran
+2087,Rata-rata Konsumsi Perkapita Seminggu di Daerah Perkotaan Menurut Komoditi Makanan  dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2089,Rata-rata Konsumsi Perkapita Seminggu di Daerah Pedesaan Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2090,Rata-rata Konsumsi Perkapita Seminggu di Daerah Perkotaan dan Pedesaan Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2091,Rata-rata Pengeluaran Perkapita Seminggu di Daerah Perkotaan Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2092,Rata-rata Pengeluaran Perkapita Seminggu di Daerah Pedesaan Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2093,Rata-rata Pengeluaran Perkapita Seminggu di Daerah Perkotaan dan Pedesaan Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu,Konsumsi dan Pengeluaran
+2094,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2095,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2096,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2097,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2099,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2100,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2101,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2102,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2103,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2104,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2105,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bumbu-Bumbuan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2106,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2107,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2108,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Rokok dan Tembakau Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2109,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2110,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2111,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2113,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2115,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2116,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2117,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2118,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2119,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2120,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2121,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2122,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2123,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten/kota,Konsumsi dan Pengeluaran
+2124,Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Rokok dan Tembakau Per Kabupaten/kota,Konsumsi dan Pengeluaran
+529,Penduduk Berumur 15 tahun ke atas menurut jenis kegiatan,Tenaga Kerja
+543,Tingkat Pengangguran Terbuka Menurut Provinsi,Tenaga Kerja
+674,Pengangguran Terbuka Menurut Pendidikan Tertinggi yang Ditamatkan,Tenaga Kerja
+698,Angkatan Kerja (AK) Menurut Golongan Umur,Tenaga Kerja
+704,Bukan Angkatan Kerja (BAK) Menurut Golongan Umur,Tenaga Kerja
+714,Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) Menurut Golongan Umur,Tenaga Kerja
+715,Jumlah Penduduk Usia 15 tahun ke Atas Menurut Golongan Umur,Tenaga Kerja
+1006,Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Golongan Umur dan Jumlah Jam Kerja Seluruhnya,Tenaga Kerja
+1022,Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan,Tenaga Kerja
+1126,Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan,Tenaga Kerja
+1161,Laju Pertumbuhan PDB Per Tenaga Kerja/Tingkat Pertumbuhan PDB Riil Per Orang Bekerja Per Tahun,Tenaga Kerja
+1162,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Provinsi,Tenaga Kerja
+1163,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Daerah Tempat Tinggal,Tenaga Kerja
+1165,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Kelompok Umur,Tenaga Kerja
+1166,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Tingkat Pendidikan,Tenaga Kerja
+1168,Persentase Tenaga Kerja Formal Menurut Provinsi,Tenaga Kerja
+1169,Persentase Tenaga Kerja Formal Menurut Daerah Tempat Tinggal,Tenaga Kerja
+1170,Persentase Tenaga Kerja Formal Menurut Jenis Kelamin,Tenaga Kerja
+1171,Persentase Tenaga Kerja Informal Sektor Pertanian,Tenaga Kerja
+1177,Tingkat Pengangguran Terbuka Berdasarkan Jenis Kelamin,Tenaga Kerja
+1178,Tingkat Pengangguran Terbuka Berdasarkan Daerah Tempat Tinggal,Tenaga Kerja
+1179,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,Tenaga Kerja
+1180,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,Tenaga Kerja
+1181,Tingkat Setengah Pengangguran Menurut Provinsi,Tenaga Kerja
+1182,Tingkat Setengah Pengangguran Menurut Daerah Tempat Tinggal,Tenaga Kerja
+1183,Tingkat Setengah Pengangguran Menurut Jenis Kelamin,Tenaga Kerja
+1184,Tingkat Setengah Pengangguran Menurut Tingkat Pendidikan,Tenaga Kerja
+1185,Tingkat Setengah Pengangguran Menurut Kelompok Umur,Tenaga Kerja
+1186,"Persentase Usia Muda (15-24 Tahun) Yang Sedang Tidak Sekolah, Bekerja Atau Mengikuti Pelatihan",Tenaga Kerja
+1190,Jumlah Pekerja Pada Industri Pariwisata Dalam Proporsi Terhadap Total Pekerja,Tenaga Kerja
+1344,Nilai Tambah Pertanian Dibagi Jumlah Tenaga Kerja Di Sektor Pertanian,Tenaga Kerja
+1814,Proporsi Komuter (Pekerja Ulang Alik) Terhadap Jumlah Penduduk menurut Wilayah,Tenaga Kerja
+1953,Jumlah dan Persentase Penduduk Bekerja dan Pengangguran,Tenaga Kerja
+1971,Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Pekerjaan Utama (17 Sektor) dan Pendidikan Tertinggi yang Ditamatkan,Tenaga Kerja
+2008,Persentase anak usia 10-17 tahun yang bekerja menurut provinsi,Tenaga Kerja
+2009,Persentase anak usia 10-17 tahun yang bekerja menurut jenis kelamin,Tenaga Kerja
+2153,Proporsi Lapangan Kerja Informal Menurut Provinsi,Tenaga Kerja
+2154,Proporsi Lapangan Kerja Informal Menurut Daerah Tempat Tinggal,Tenaga Kerja
+2155,Proporsi Lapangan Kerja Informal Menurut Jenis Kelamin,Tenaga Kerja
+2156,Proporsi Lapangan Kerja Informal Menurut Kelompok Umur,Tenaga Kerja
+2157,Proporsi Lapangan Kerja Informal Menurut Tingkat Pendidikan,Tenaga Kerja
+76,Jumlah Pelanggan Perusahaan Air Bersih,Energi
+115,Jumlah Air Bersih yang Disalurkan Perusahaan Air Bersih,Energi
+314,Listrik Yang Didistribusikan Kepada Pelanggan,Energi
+317,Pelanggan Perusahaan Listrik Negara,Energi
+321,Kapasitas Terpasang PLN menurut Jenis Pembangkit Listrik,Energi
+322,Pekerja Teknik dan Administrasi PLN,Energi
+323,Perkembangan Beberapa Indikator Hasil Gas Kota Disalurkan oleh PT. PGN (Persero),Energi
+324,Nilai Air Bersih yang Disalurkan,Energi
+325,Jumlah Pegawai Perusahaan Air Bersih,Energi
+640,Indikator Penting Perusahaan Listrik,Energi
+859,Listrik yang Didistribusikan Menurut Provinsi (GWh),Energi
+861,Volume Penjualan Gas Alam Melalui Saluran Pipa Menurut Jenis Pelanggan,Energi
+864,Tenaga Listrik yang Dibangkitkan Menurut Provinsi,Energi
+867,Kapasitas Produksi Potensial Perusahaan Air Bersih Menurut Provinsi ,Energi
+869,Kapasitas Terpasang Pembangkit Listrik Menurut Provinsi,Energi
+873,Indikator Penting Perusahaan Air Bersih,Energi
+876,Indikator Penting Perusahaan Gas,Energi
+1155,Rasio Elektrifikasi,Energi
+1156,Konsumsi Listrik per Kapita,Energi
+1157,Rasio Penggunaan Gas Rumah Tangga,Energi
+1158,Proporsi Pasokan Energi Primer,Energi
+1786,Jumlah sambungan jaringan gas untuk rumah tangga,Energi
+1808,Intensitas Energi Primer,Energi
+1824,Bauran Energi Terbarukan,Energi
+196,Nilai Ekspor,Ekspor-Impor
+203,Nilai (Migas-NonMigas),Ekspor-Impor
+204,Volume (Migas-NonMigas),Ekspor-Impor
+336,Neraca Perdagangan beberapa Negara,Ekspor-Impor
+497,Nilai Impor,Ekspor-Impor
+498,Nilai Neraca Perdagangan,Ekspor-Impor
+719,Indeks Unit Value Ekspor Bulanan menurut Kode SITC 3 Digit (2013=100),Ekspor-Impor
+1261,Pertumbuhan Ekspor Produk Non Migas,Ekspor-Impor
+1492,Volume Ekspor Menurut Golongan SITC,Ekspor-Impor
+1493,Volume Impor Menurut Golongan SITC,Ekspor-Impor
+1494,Nilai Ekspor Menurut Golongan SITC,Ekspor-Impor
+1495,Nilai Impor Menurut Golongan SITC,Ekspor-Impor
+1753,Nilai Ekspor Migas-NonMigas,Ekspor-Impor
+1754,Nilai Impor Migas-NonMigas,Ekspor-Impor
+1837,Volume Impor (Berat Bersih) Menurut Golongan Penggunaan Barang,Ekspor-Impor
+1838,Nilai Impor (Nilai CIF) Menurut Golongan Penggunaan Barang,Ekspor-Impor
+1979,Indeks Unit Value Ekspor Bulanan menurut Kode SITC 3 Digit (2018=100),Ekspor-Impor
+2172,Volume Ekspor Migas-NonMigas,Ekspor-Impor
+2173,Volume Impor Migas-NonMigas,Ekspor-Impor
+88,IBS Bulanan (2010=100),Industri Besar dan Sedang
+89,IBS Triwulanan (2010=100),Industri Besar dan Sedang
+90,IBS Bulanan (2000=100),Industri Besar dan Sedang
+91,IBS Triwulanan (2000=100),Industri Besar dan Sedang
+200,Jumlah Perusahaan IBS (KBLI 2020),Industri Besar dan Sedang
+201,Jumlah Perusahaan IBS (KBLI 2000),Industri Besar dan Sedang
+673,Produksi Kendaraan Bermotor dalam Negeri,Industri Besar dan Sedang
+720,Produktivitas Tenaga Kerja Menurut Sub Sektor,Industri Besar dan Sedang
+721,Produktivitas Tenaga Kerja,Industri Besar dan Sedang
+723,Perubahan Modal tetap IBS menurut KBLI 2 digit [KBLI 2009],Industri Besar dan Sedang
+727,Perubahan Modal tetap Industri Besar Dan Sedang Menurut Subsektor [KBLI 2000],Industri Besar dan Sedang
+730,Jumlah Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2020],Industri Besar dan Sedang
+731,Jumlah Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2000],Industri Besar dan Sedang
+732,"Jumlah Industri Pengolahan Besar dan Sedang, Jawa dan Luar Jawa",Industri Besar dan Sedang
+733,Pajak Tidak Langsung IBS menurut KBLI 2 digit [KBLI 2020],Industri Besar dan Sedang
+734,Pajak Tidak Langsung IBS menurut KBLI 2 Digit [KBLI 2000],Industri Besar dan Sedang
+735,Pengeluaran untuk Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2009],Industri Besar dan Sedang
+736,Pengeluaran untuk Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2000],Industri Besar dan Sedang
+737,Nilai Output IBS menurut KBLI 2 Digit [KBLI 2009],Industri Besar dan Sedang
+738,Nilai Output IBS menurut KBLI 2 Digit [KBLI 2000],Industri Besar dan Sedang
+739,Nilai Tambah (Biaya Faktor Produksi) Industri Besar sedang Menurut Subsektor [KBLI 2020],Industri Besar dan Sedang
+740,Nilai Tambah (Biaya Faktor Produksi) Industri Besar sedang Menurut Subsektor [KBLI 2000],Industri Besar dan Sedang
+741,Biaya Input IBS menurut KBLI 2 Digit [KBLI 2020],Industri Besar dan Sedang
+742,Biaya Input IBS menurut KBLI 2 Digit [KBLI 2000],Industri Besar dan Sedang
+743,Nilai Tambah (Harga Pasar) Industri Besar sedang Menurut Subsektor [KBLI 2020],Industri Besar dan Sedang
+744,Nilai Tambah (Harga Pasar) Industri Besar Sedang Menurut Subsektor [KBLI 2000],Industri Besar dan Sedang
+745,Komposisi Biaya Input Industri Besar Dan Sedang,Industri Besar dan Sedang
+746,Komposisi Nilai Output Industri Besar Dan Sedang,Industri Besar dan Sedang
+1214,Proporsi Nilai Tambah Sektor Industri Manufaktur Terhadap PDB,Industri Besar dan Sedang
+1215,Nilai Tambah Sektor Industri Manufaktur per Kapita,Industri Besar dan Sedang
+1216,Laju Pertumbuhan PDB Industri Manufaktur,Industri Besar dan Sedang
+1217,Proporsi Tenaga Kerja pada Sektor Industri Manufaktur,Industri Besar dan Sedang
+1219,Proporsi Nilai Tambah Industri Kecil Terhadap Total Nilai Tambah Industri,Industri Besar dan Sedang
+1220,Proporsi Industri Kecil Dengan Pinjaman Atau Kredit,Industri Besar dan Sedang
+2077,Indeks Produksi Bulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2009] (2010=100),Industri Besar dan Sedang
+2084,Indeks Produksi Triwulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2009] (2010=100),Industri Besar dan Sedang
+2086,Indeks Produksi Triwulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2000] (2000=100),Industri Besar dan Sedang
+92,Produksi Bahan Bakar Minyak,Pertambangan
+353,Produksi Minyak Mentah,Pertambangan
+508,Produksi Barang Tambang Mineral,Pertambangan
+510,Volume Produksi Pertambangan Bahan Galian,Pertambangan
+8,PDB Menurut Lapangan Usaha,Produk Domestik Bruto (Lapangan Usaha)
+9,Laju Pertumbuhan PDB Menurut Lapangan Usaha,Produk Domestik Bruto (Lapangan Usaha)
+65,[Seri 2010] PDB Seri 2010,Produk Domestik Bruto (Lapangan Usaha)
+104,[Seri 2010] Laju Pertumbuhan PDB Seri 2010,Produk Domestik Bruto (Lapangan Usaha)
+105,[Seri 2010] Laju Implisit PDB Seri 2010,Produk Domestik Bruto (Lapangan Usaha)
+106,[Seri 2010] Distribusi PDB Triwulanan Seri 2010 Atas Dasar Harga Berlaku,Produk Domestik Bruto (Lapangan Usaha)
+129,[Seri 2010] Indeks Implisit PDB Seri 2010,Produk Domestik Bruto (Lapangan Usaha)
+554,[Seri 2010] Sumber Pertumbuhan PDB Seri 2010,Produk Domestik Bruto (Lapangan Usaha)
+1123,Laju Pertumbuhan Produk Domestik Bruto Beberapa Negara di Beberapa Negara Menurut Harga Konstan,Produk Domestik Bruto (Lapangan Usaha)
+1124,Laju Pertumbuhan PDB per Kapita Beberapa Negara Menurut Harga Konstan,Produk Domestik Bruto (Lapangan Usaha)
+1132,[Seri 2000] Distribusi Persentase Produk Domestik Bruto Triwulanan  Atas Dasar Harga Berlaku Menurut Lapangan Usaha,Produk Domestik Bruto (Lapangan Usaha)
+1136,Perkembangan Beberapa Agregat Pendapatan dan Pendapatan per Kapita Atas Dasar Harga Berlaku,Produk Domestik Bruto (Lapangan Usaha)
+120,Dependency Ratio Hasil Proyeksi Penduduk,Kependudukan
+136,Distribusi Persentase Penduduk,Kependudukan
+141,Kepadatan Penduduk menurut Provinsi,Kependudukan
+143,Rasio Jenis Kelamin,Kependudukan
+148,Rata-rata Banyaknya Anggota Rumah Tangga,Kependudukan
+153,Banyaknya Rumah Tangga,Kependudukan
+156,Migrasi Seumur Hidup,Kependudukan
+290,Perkiraan Penduduk Beberapa Negara,Kependudukan
+292,Kepadatan Penduduk Beberapa Negara (penduduk per km2),Kependudukan
+929,Migrasi Risen (Migrasi Masuk),Kependudukan
+930,Migrasi Risen (Migrasi Keluar),Kependudukan
+1353,Angka Kelahiran Pada Perempuan Usia 15-19 Tahun Menurut Provinsi ,Kependudukan
+1410,Proporsi anak umur di bawah 5 tahun yang kelahirannya dicatat oleh lembaga pencatatan sipil Menurut Provinsi,Kependudukan
+1411,Proporsi anak umur di bawah 5 tahun yang kelahirannya dicatat oleh lembaga pencatatan sipil Menurut Jenis Kelamin,Kependudukan
+1412,Persentase anak yang memiliki akta kelahiran Menurut Provinsi,Kependudukan
+1413,Persentase anak yang memiliki akta kelahiran Menurut Daerah Tempat Tinggal,Kependudukan
+1612,Angka Kelahiran Pada Perempuan Usia 15-19 Tahun Menurut Daerah Tempat Tinggal ,Kependudukan
+1811,Proporsi Penduduk 50 Tahun ke Atas,Kependudukan
+1819,Persentase Penduduk yang Berpergian dengan Jarak ≥ 100 Km PP menurut Wilayah,Kependudukan
+1827,Persentase Anak Berumur 0-4 Tahun yang Memiliki Akta Kelahiran Menurut Provinsi,Kependudukan
+1828,Persentase Anak Berumur 0-4 Tahun yang Memiliki Akta Kelahiran Menurut Daerah Tempat Tinggal,Kependudukan
+1829,Persentase Anak Berumur 0-4 Tahun yang Memiliki Akta Kelahiran Menurut Jenis Kelamin,Kependudukan
+1830,Persentase Anak Berumur 0-4 Tahun yang Memiliki Akta Kelahiran Menurut Kelompok Pengeluaran,Kependudukan
+1831,Persentase Anak Berumur 0-17 Tahun yang Memiliki Akta Kelahiran Menurut Provinsi,Kependudukan
+1832,Persentase Anak Berumur 0-17 Tahun yang Memiliki Akta Kelahiran Menurut Daerah Tempat Tinggal,Kependudukan
+1833,Persentase Anak Berumur 0-17 Tahun yang Memiliki Akta Kelahiran Menurut Jenis Kelamin,Kependudukan
+1834,Persentase Anak Berumur 0-17 Tahun yang Memiliki Akta Kelahiran Menurut Kelompok Pengeluaran,Kependudukan
+1886,Jumlah Penduduk Hasil Proyeksi Menurut Provinsi dan Jenis Kelamin,Kependudukan
+1975,Jumlah Penduduk Pertengahan Tahun,Kependudukan
+1976,Laju Pertumbuhan Penduduk,Kependudukan
+2014,Persentase cakupan kepemilikan akta kelahiran pada penduduk 0-17 tahun menurut provinsi,Kependudukan
+2016,Proporsi rumah tangga dengan akses terhadap pelayanan dasar menurut provinsi,Kependudukan
+2017,Proporsi rumah tangga dengan akses terhadap pelayanan dasar menurut Daerah Tempat Tinggal,Kependudukan
+2131,Jumlah Penduduk Hasil SP2020 menurut Wilayah dan Jenis Kelamin,Kependudukan
+2133,"Jumlah Penduduk Hasil SP2020 Laki-laki menurut Wilayah, Klasifikasi Generasi",Kependudukan
+2134,"Jumlah Penduduk Hasil SP2020 Perempuan menurut Wilayah, Klasifikasi Generasi",Kependudukan
+2135,"Jumlah Penduduk Hasil SP2020 Laki-laki Menurut Wilayah, Kelompok Umur",Kependudukan
+2137,"Jumlah Penduduk Hasil SP2020 Perempuan Menurut Wilayah, Kelompok Umur",Kependudukan
+2138,Jumlah Penduduk Hasil SP2020 yang Pindah Menurut Wilayah dan Jenis Kelamin,Kependudukan
+2139,"Jumlah Penduduk Hasil SP2020 Laki-laki Menurut Wilayah, Kesesuaian Alamat KK dengan Domisili",Kependudukan
+2140,"Jumlah Penduduk Hasil SP2020 Perempuan Menurut Wilayah, Kesesuaian Alamat KK dengan Domisili",Kependudukan
+99,Dana Pihak Ketiga Perbankan Syariah Menurut Jenis Dana,Keuangan
+123,Uang Beredar,Keuangan
+124,Volume Usaha Koperasi Menurut Provinsi,Keuangan
+125,Transaksi dan Indeks Saham di Bursa Efek,Keuangan
+126,Realisasi Pengeluaran Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Pengeluaran,Keuangan
+127,Realisasi Pengeluaran Pemerintah Kabupaten/Kota Seluruh Indonesia,Keuangan
+284,Kurs Tengah Beberapa Mata Uang Asing Terhadap Rupiah di Bank Indonesia dan Harga Emas di Jakarta,Keuangan
+379,BI Rate,Keuangan
+383,Suku Bunga Kredit Rupiah Menurut Kelompok Bank,Keuangan
+386,Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi,Keuangan
+387,Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi (dibawah tahun 2010),Keuangan
+390,Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi,Keuangan
+394,Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi (dibawah tahun 2010),Keuangan
+507,Realisasi Penerimaan Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Penerimaan,Keuangan
+633,Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi [Format Baru],Keuangan
+634,Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi [Format Baru],Keuangan
+653,Realisasi Penerimaan Pemerintah Desa di Perkotaan menurut Provinsi,Keuangan
+654,Realisasi Pengeluaran Pemerintah Desa di Perkotaan menurut Provinsi,Keuangan
+691,Posisi Simpanan Masyarakat (Rupiah dan Valuta Asing) pada Bank Umum  Menurut Kelompok Bank,Keuangan
+726,Sisa Hasil Usaha (SHU) Koperasi Menurut Provinsi,Keuangan
+760,Jumlah Koperasi Aktif Menurut Provinsi,Keuangan
+787,Realisasi Penerimaan Pemerintah Kabupaten/Kota Seluruh Indonesia,Keuangan
+791,Tabungan Bruto Menurut Sektor Keuangan,Keuangan
+793,Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Provinsi (Investasi),Keuangan
+794,Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Provinsi (Proyek),Keuangan
+917,Uang Beredar dan Faktor-Faktor yang Mempengaruhinya,Keuangan
+920,Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik,Keuangan
+924,Posisi Utang Luar Negeri Indonesia Menurut Kelompok Peminjam,Keuangan
+926,Perkembangan Dana Perbankan Menurut Jenisnya,Keuangan
+937,Jumlah Bank dan Kantor Bank,Keuangan
+939,Pembayaran Utang Luar Negeri Pemerintah dan Bank Sentral,Keuangan
+942,Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Jenis Utang,Keuangan
+1039,Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (USD),Keuangan
+1040,Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (AUD),Keuangan
+1041,Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (HKD),Keuangan
+1042,Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (GBP),Keuangan
+1070,Realisasi Pendapatan Negara,Keuangan
+1077,Realisasi Penerimaan dan Pengeluaran Pemerintah Desa Seluruh Indonesia,Keuangan
+1079,Penerimaan/Pengeluaran Pemerintah Desa,Keuangan
+1080,Jumlah Perusahaan Asuransi dan Perusahaan Penunjang Asuransi,Keuangan
+1082,Tabel Anggaran Belanja Pemerintah Pusat Berdasarkan Fungsi,Keuangan
+1083,Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi,Keuangan
+1085,Realisasi Pengeluaran Negara (Keuangan),Keuangan
+1087,"Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM) pada Bank Umum",Keuangan
+1089,Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi,Keuangan
+1091,Posisi Cadangan Devisa,Keuangan
+1093,Posisi Pinjaman Investasi Bank-Bank Umum dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi,Keuangan
+1094,Pinjaman Neto Menurut Sektor (Keuangan),Keuangan
+1097,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulan Sektor Bank Sentral",Keuangan
+1099,Tabel Perkembangan UMKM,Keuangan
+1101,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulan Sektor Pemerintahan Umum",Keuangan
+1111,"Tabungan bruto, Investasi Nonfinansial, dan pinjaman Neto Triwulan Sektor Domestik Lain",Keuangan
+1115,"Tabungan Bruto Domestik, Investasi Non Finansial Domestik, dan Tabungan Luar Negeri Sektor Bank Triwulanan",Keuangan
+1235,Proporsi pengeluaran utama pemerintah terhadap anggaran yang disetujui,Keuangan
+1254,Total pendapatan pemerintah sebagai proporsi terhadap PDB menurut sumbernya,Keuangan
+1256,Proporsi Anggaran Domestik yang Didanai Oleh Pajak Domestik,Keuangan
+1258,Proporsi Volume Remitansi (Dalam US Dollars) Terhadap Total PDB,Keuangan
+1260,Proporsi Pembayaran Utang Dan Bunga (Debt Service) Terhadap Ekspor Barang Dan Jasa,Keuangan
+1529,Rasio Penerimaan Pajak Terhadap PDB,Keuangan
+1587,Persentase Total Pajak Dalam Negeri terhadap Belanja Negara,Keuangan
+1588,Proporsi Realisasi Pendapatan Pemerintah Terhadap Produk Domestik Bruto,Keuangan
+1759,"Pengeluaran untuk layanan pokok (pendidikan, kesehatan dan perlindungan sosial) sebagai persentase dari total belanja pemerintah",Keuangan
+1825,Proporsi Anggaran Riset Pemerintah Terhadap PDB,Keuangan
+1839,Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi (23 Sektor),Keuangan
+1840,Realisasi Investasi Penanaman Modal Luar Negeri Menurut Provinsi,Keuangan
+1841,Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Sektor Ekonomi,Keuangan
+1842,Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Sektor Ekonomi (23 Sektor),Keuangan
+1843,Realisasi Investasi Penanaman Modal Luar Negeri Menurut Negara,Keuangan
+1958,Perkembangan Dana Pihak Ketiga Perbankan Menurut Jenisnya		,Keuangan
+1959,Posisi Dana Pihak Ketiga Perbankan (Rupiah dan Valuta Asing) Menurut Kelompok Bank,Keuangan
+1960,Posisi Kredit Perbankan<sup>1</sup> dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi,Keuangan
+1962,"Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM)<sup>1</sup> pada Bank Umum		",Keuangan
+1965,Posisi Pinjaman Investasi Bank Umum<sup>1</sup> dalam Rupiah Menurut Sektor Ekonomi,Keuangan
+1970,Posisi Simpanan Berjangka Rupiah pada Bank Umum<sup>1</sup> Menurut Golongan Pemilik,Keuangan
+1977,Realisasi Penerimaan dan Pengeluaran Pemerintah Desa Seluruh Indonesia [Format Baru],Keuangan
+2147,Dana Pihak Ketiga Perbankan Syariah Menurut Jenis Dana [Format Baru],Keuangan
+2149,Posisi Kredit/Pembiayaan (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank dan BPR/BPR Syariah (Rupiah) kepada Pihak Bukan Bank,Keuangan
+2151,Posisi Pinjaman Investasi Bank Umum<sup>1</sup> dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi,Keuangan
+2180,Realisasi Penerimaan Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Penerimaan [Rincian 2022],Keuangan
+2184,Realisasi Pengeluaran Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Pengeluaran [Rincian 2022],Keuangan
+74,"Jumlah Kunjungan Wisatawan Mancanegara per bulan ke Indonesia Menurut Pintu Masuk, 2008 - 2017",Pariwisata
+122,Tingkat Penghunian Kamar pada Hotel Bintang,Pariwisata
+272,Rata-Rata Pengeluaran Wisatawan Mancanegara per Kunjungan Menurut Negara Tempat Tinggal ,Pariwisata
+282,Tingkat Penghunian Kamar Hotel,Pariwisata
+307,"Jumlah Akomodasi, Kamar, dan Tempat Tidur yang Tersedia pada Hotel Bintang",Pariwisata
+309,"Jumlah Akomodasi, Kamar, dan Tempat Tidur yang Tersedia pada Hotel Nonbintang",Pariwisata
+310,Jumlah Tamu Asing pada Hotel Bintang,Pariwisata
+326,Jumlah Tamu Asing pada Hotel Non Bintang ,Pariwisata
+327,Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Negara Tempat Tinggal,Pariwisata
+328,Jumlah Tamu Indonesia pada Hotel Bintang,Pariwisata
+329,Jumlah Tamu Indonesia pada Hotel Non Bintang,Pariwisata
+331,Penerimaan dari Wisatawan Mancanegara,Pariwisata
+332,Rata-rata Lama Menginap Tamu Asing pada Hotel Bintang,Pariwisata
+333,Rata-rata Lama Menginap Tamu Asing pada Hotel Non Bintang,Pariwisata
+338,Rata-rata Lama Menginap Tamu Indonesia pada Hotel Bintang,Pariwisata
+339,Rata-rata Lama Menginap Tamu Indonesia pada Hotel Non Bintang ,Pariwisata
+351,"Jumlah Kunjungan Wisatawan Mancanegara ke Indonesia Menurut Kebangsaan, 2000-2014",Pariwisata
+356,Rata-Rata Lama Tinggal Wisatawan Mancanegara Menurut Negara Tempat Tinggal,Pariwisata
+362,Rata-Rata Lama Menginap Tamu Pada Hotel Bintang Menurut Provinsi,Pariwisata
+363,Rata-Rata Lama Menginap Tamu Pada Hotel Nonbintang dan Akomodasi Lainnya Menurut Provinsi,Pariwisata
+365,Kompilasi Variabel Pariwisata,Pariwisata
+643,Tingkat Penghunian Kamar pada Hotel Bintang Menurut Provinsi,Pariwisata
+777,Tingkat Penghunian Kamar pada Hotel Non Bintang,Pariwisata
+798,"Jumlah Kunjungan Wisatawan Mancanegara ke Indonesia Menurut Tempat Tinggal, 2002-2014",Pariwisata
+823,Rata-rata Pekerja Hotel Bintang,Pariwisata
+826,Jumlah Tamu per Hari Hotel Bintang,Pariwisata
+1017,Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk,Pariwisata
+1095,Rata-rata Pekerja Hotel Non Bintang,Pariwisata
+1096,Jumlah Tamu per Hari Hotel Non Bintang,Pariwisata
+1150,"Jumlah Kunjungan Wisatawan Mancanegara per bulan ke Indonesia Menurut Pintu Masuk, 2017 - sekarang",Pariwisata
+1160,Jumlah Devisa Sektor Pariwisata,Pariwisata
+1188,Proporsi Kontribusi Pariwisata Terhadap PDB,Pariwisata
+1189,Jumlah Perjalanan Wisatawan Nusantara,Pariwisata
+1470,Kunjungan Wisatawan Mancanegara per bulan Menurut Kebangsaan,Pariwisata
+1821,Jumlah Kunjungan Wisatawan Mancanegara ke Indonesia Menurut Kebangsaan,Pariwisata
+50,Panjang Jalan Menurut Tingkat Kewenangan,Transportasi
+51,Panjang Jalan Menurut Jenis Permukaan,Transportasi
+57,Perkembangan Jumlah Kendaraan Bermotor Menurut Jenis,Transportasi
+66,Jumlah Penumpang Pesawat di Bandara Utama,Transportasi
+67,Jumlah Barang yang dimuat di Bandara Utama,Transportasi
+68,Total Barang Dalam Negeri di Pelabuhan Utama,Transportasi
+69,Total Penumpang Pelayaran dalam Negeri di Pelabuhan Utama,Transportasi
+72,Jumlah Penumpang Kereta Api,Transportasi
+73,Jumlah Barang Melalui Transportasi Kereta Api Menurut Pulau,Transportasi
+235,Jumlah Desa/Kelurahan yang Memiliki Kantor Pos Menurut Provinsi,Transportasi
+513,"Jumlah Kecelakaan, Korban Mati, Luka Berat, Luka Ringan, dan Kerugian Materi",Transportasi
+514,Produksi Perusahaan Penerbangan Berjadwal untuk Penerbangan Dalam Negeri Indonesia,Transportasi
+516,Produksi Perusahaan Penerbangan Berjadwal untuk Penerbangan Luar Negeri Indonesia,Transportasi
+655,Jumlah Penumpang Pada Keberangkatan di Bandara Indonesia,Transportasi
+662,Jumlah Barang Pada Keberangkatan di Bandara Indonesia,Transportasi
+771,Jumlah Penumpang Melalui Transportasi Kereta Api,Transportasi
+923,Jumlah Penumpang Kapal di Pelabuhan Yang Diusahakan dan Tidak Diusahakan,Transportasi
+932,Bongkar Muat Barang Antar Pulau dan Luar Negeri di Pelabuhan Indonesia ,Transportasi
+1195,Panjang Jaringan Jalan Rel Kereta Api Di Indonesia ,Transportasi
+1197,Kondisi Mantap Jalan Nasional,Transportasi
+1198,Persentase Panjang Jalan Nasional dan Kondisi Mantap,Transportasi
+1199,Progres Pembangunan Panjang Jalan Tol Di Indonesia ,Transportasi
+1200,Persentase Panjang Jalan Tol yang Beroperasi Menurut Operatornya,Transportasi
+1202,Jumlah Bandara Di Indonesia Menurut Penggunaan Bandar Udara ,Transportasi
+1208,Jumlah Pelabuhan Penyeberangan Di Indonesia,Transportasi
+1210,Jumlah Pelabuhan Penyeberangan Di Indonesia Menurut Jenis Pengoperasian,Transportasi
+1211,Jumlah Pelabuhan Strategis,Transportasi
+1213,Jumlah Pelabuhan Strategis Menurut Pengelolaannya,Transportasi
+2012,Persentase rumah tangga yang memiliki akses nyaman (jarak 0.5 km) ke transportasi umum menurut provinsi,Transportasi
+2013,Persentase penduduk berumur 10 tahun ke atas yang menggunakan kendaraan bermotor umum dengan rute tertentu menurut provinsi,Transportasi
+2022,Jumlah Penumpang Domestik berdasarkan Moda Transportasi Kapal menurut provinsi,Transportasi
+2024,Jumlah Penumpang Domestik berdasarkan Moda Transportasi Pesawat Terbang menurut provinsi,Transportasi
+2027,Jumlah Penumpang Internasional berdasarkan Moda Transportasi Pesawat Terbang menurut provinsi,Transportasi
+2051,Jumlah Penumpang berdasarkan Moda Transportasi Kereta Api,Transportasi
+95,"Rata-Rata Upah Buruh per Bulan di bawah Mandor/Supervisor, (1996=100)",Upah Buruh
+96,"Rata-Rata Upah Buruh per Bulan di bawah Mandor/Supervisor, (2007=100)",Upah Buruh
+97,"Rata-Rata Upah Buruh per Bulan di bawah Mandor/Supervisor, (2012=100)",Upah Buruh
+220,Upah Minimum Regional/Propinsi,Upah Buruh
+564,Rata-Rata Pendapatan Bersih Sebulan Pekerja Berusaha Sendiri menurut Kelompok Umur,Upah Buruh
+566,Rata-rata Pendapatan Bersih Sebulan Pekerja Berusaha Sendiri menurut Lapangan Pekerjaan Utama,Upah Buruh
+569,Rata-rata Pendapatan Bersih Sebulan Pekerja Berusaha Sendiri menurut Pendidikan yang Ditamatkan,Upah Buruh
+570,Rata-rata Pendapatan Bersih Sebulan Pekerja Bebas menurut Kelompok Umur,Upah Buruh
+571,Rata-rata Pendapatan Bersih Sebulan Pekerja Bebas menurut Lapangan Usaha Utama,Upah Buruh
+572,Rata-rata Pendapatan Bersih Sebulan Pekerja Bebas menurut Pendidikan Tertinggi yang ditamatkan,Upah Buruh
+575,Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan  dan Jenis Pekerjaan Utama,Upah Buruh
+582,Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan,Upah Buruh
+583,Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama,Upah Buruh
+585,Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Lapangan Pekerjaan Utama di 9 Sektor,Upah Buruh
+586,Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan  dan Jumlah Jam Kerja Seminggu dari Pekerjaan Utama,Upah Buruh
+590,Rata-Rata Upah Buruh Industri Kecil,Upah Buruh
+802,"IHK, Upah Nominal, Indeks Upah Nominal dan Indeks Upah Riil Buruh Industri Berstatus di bawah Mandor Menurut Wilayah (2007=100)",Upah Buruh
+812,Rata-rata Upah Riil per Bulan Buruh Industri Pengolahan di Bawah Mandor ( IHK 2012=100),Upah Buruh
+814,Rata-rata Upah Riil per Bulan Buruh Industri Pengolahan di Bawah Mandor ( IHK 2007=100),Upah Buruh
+815,Rata-rata Upah Riil per Bulan Buruh Industri Pengolahan di Bawah Mandor ( IHK 1996=100),Upah Buruh
+842,"IHK, Upah Nominal, Indeks Upah Nominal dan Riil Buruh Industri Berstatus di bawah Mandor Menurut Wilayah, (2002=100)",Upah Buruh
+863,Rata-Rata Upah Nominal Per Bulan Buruh Produksi di Bawah Mandor di Sektor Industri Pengolahan Menurut Subsektor dan Wilayah,Upah Buruh
+899,"Upah Nominal dan Riil Buruh Tani di Indonesia (Rupiah) ,(2007=100)",Upah Buruh
+901,Rata-rata Upah Nominal per Bulan Buruh Industri Pengolahan di Bawah Mandor ( IHK 2012=100),Upah Buruh
+902,IHK Nasional (2012=100),Upah Buruh
+903,IHK Nasional (2007=100),Upah Buruh
+904,IHK Nasional (1996=100),Upah Buruh
+907,Indeks Upah Nominal Subsektor Industri Pengolahan (IHK 2007=100),Upah Buruh
+908,Indeks Upah Nominal Subsektor Industri Pengolahan (IHK 2012=100),Upah Buruh
+909,Indeks Upah Nominal Subsektor Industri Pengolahan (IHK 1996=100),Upah Buruh
+910,Indeks Upah Riil Subsektor Industri Pengolahan (IHK 2007=100),Upah Buruh
+911,Indeks Upah Riil Subsektor Industri Pengolahan (IHK 2012=100),Upah Buruh
+912,Indeks Upah Riil Subsektor Industri Pengolahan (IHK 1996=100),Upah Buruh
+913,Rata-rata Upah Nominal per Bulan Buruh Industri Pengolahan di Bawah Mandor (IHK 2007=100),Upah Buruh
+914,Rata-rata Upah Nominal per Bulan Buruh Industri Pengolahan di Bawah Mandor (IHK 1996=100),Upah Buruh
+921,Upah Nominal dan Riil Buruh Tani di Indonesia (Rupiah) (2012=100),Upah Buruh
+981,Rata-Rata Upah Nominal Per Bulan Buruh Produksi di Bawah Mandor di Perusahaan Industri Besar dan Sedang Menurut Subsektor ,Upah Buruh
+1000,Rata-Rata Upah Nominal Per Bulan Buruh Produksi/Pelaksana di Bawah Mandor/Supervisor Menurut Lapangan Usaha,Upah Buruh
+1001,Rata-Rata Upah Nominal Per Bulan Buruh Produksi/Pelaksana di Bawah Mandor/Supervisor Menurut Wilayah,Upah Buruh
+1172,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Upah Buruh
+1173,Upah Rata - Rata Per Jam Pekerja Menurut Daerah Tempat Tinggal,Upah Buruh
+1174,Upah Rata - Rata Per Jam Pekerja Menurut Jenis Kelamin,Upah Buruh
+1175,Upah Rata - Rata Per Jam Pekerja Menurut Tingkat Pendidikan,Upah Buruh
+1176,Upah Rata - Rata Per Jam Pekerja Menurut Kelompok Umur,Upah Buruh
+1521,Rata-Rata Upah/Gaji,Upah Buruh
+24,Indeks harga Perdagangan Besar Indonesia,Harga Perdagangan Besar
+295,Rata-rata Harga Beras di Tingkat Perdagangan Besar (Grosir) Indonesia,Harga Perdagangan Besar
+885,Indeks Harga Perdagangan Besar Bahan Bangunan/Konstruksi Menurut Kelompok Barang,Harga Perdagangan Besar
+1015,Persentase dan Andil Perubahan Indeks Harga Perdagangan Besar (IHPB),Harga Perdagangan Besar
+1018,Indeks Harga Perdagangan Besar Bahan Bangunan / Konstruksi,Harga Perdagangan Besar
+1112,Indeks Harga Perdagangan Besar Menurut Kelompok Barang dalam Proses Produksi dan Sektor,Harga Perdagangan Besar
+1721,Indeks harga Perdagangan Besar Indonesia (2018=100),Harga Perdagangan Besar
+1722,Indeks Harga Perdagangan Internasional (IHPI) 2010=100,Harga Perdagangan Besar
+10,NTP menurut Provinsi,Nilai Tukar Petani
+11,IT (Indeks Harga Yang Diterima Petani) menurut Provinsi,Nilai Tukar Petani
+12,IB (Indeks Harga Yang Dibayar Petani) menurut Provinsi,Nilai Tukar Petani
+13,NTP (Nilai Tukar Petani) Menurut Subsektor,Nilai Tukar Petani
+14,NTPP (Nilai Tukar Petani Tanaman Pangan) Menurut Subsektor,Nilai Tukar Petani
+15,NTPH (Nilai Tukar Petani Hortikultura) Menurut Subsektor,Nilai Tukar Petani
+16,NTPR (Nilai Tukar Petani Tanaman Perkebunan) Menurut Subsektor,Nilai Tukar Petani
+17,NTPT (Nilai Tukar Petani Peternakan) Menurut Subsektor,Nilai Tukar Petani
+18,NTNP (Nilai Tukar Nelayan dan Pembudidaya Ikan) Menurut Subsektor,Nilai Tukar Petani
+19,NTPI (Nilai Tukar Pembudidaya Ikan) Menurut Subsektor,Nilai Tukar Petani
+20,NTN (Nilai Tukar Nelayan) Menurut Subsektor,Nilai Tukar Petani
+257,It (Indeks Harga yang Diterima Petani) Subsektor Tanaman Pangan,Nilai Tukar Petani
+261,Ib (Indeks Harga yang Dibayar Petani) Subsektor Tanaman Pangan,Nilai Tukar Petani
+266,NTPP (Nilai Tukar Petani Tanaman Pangan) Menurut Provinsi ,Nilai Tukar Petani
+267,It (Indeks Harga yang Diterima Petani) Subsektor Tanaman Hortikultura,Nilai Tukar Petani
+268,It (Indeks Harga yang Diterima Petani) Subsektor Tanaman Perkebunan Rakyat,Nilai Tukar Petani
+269,It (Indeks Harga yang Diterima Petani) Subsektor Peternakan,Nilai Tukar Petani
+270,It (Indeks Harga yang Diterima Petani) Subsektor Perikanan/Budidaya,Nilai Tukar Petani
+273,Ib (Indeks Harga yang Dibayar Petani) Subsektor Tanaman Hortikultura,Nilai Tukar Petani
+274,Ib (Indeks Harga yang Dibayar Petani) Subsektor Tanaman Perkebunan Rakyat,Nilai Tukar Petani
+275,Ib (Indeks Harga yang Dibayar Petani) Subsektor Peternakan,Nilai Tukar Petani
+276,Ib (Indeks Harga yang Dibayar Petani) Subsektor Perikanan/Budidaya,Nilai Tukar Petani
+277,NTPH (Nilai Tukar Petani Subsektor Tanaman Hortikultura) Menurut Provinsi ,Nilai Tukar Petani
+278,NTPR (Nilai Tukar Petani Subsektor Tanaman Perkebunan Rakyat) Menurut Provinsi,Nilai Tukar Petani
+279,NTPT (Nilai Tukar Petani Subsektor Peternakan) menurut Provinsi,Nilai Tukar Petani
+280,NTNP (Nilai Tukar Petani Subsektor Perikanan/Budidaya) Menurut Provinsi,Nilai Tukar Petani
+751,Indeks Harga yang Diterima Petani (It),Nilai Tukar Petani
+753,Indeks Harga yang Dibayar Petani (Ib),Nilai Tukar Petani
+754,NTP,Nilai Tukar Petani
+775,Nilai Tukar Petani Subsektor Perikanan (NTN),Nilai Tukar Petani
+1713,NTN (Nilai Tukar Nelayan) Menurut Subsektor (2018=100),Nilai Tukar Petani
+1714,NTNP (Nilai Tukar Nelayan dan Pembudidaya Ikan) Menurut Subsektor (2018=100),Nilai Tukar Petani
+1715,NTPH (Nilai Tukar Petani Hortikultura) Menurut Sektor (2018=100),Nilai Tukar Petani
+1716,NTPI (Nilai Tukar Pembudidaya Ikan) Menurut Sektor (2018=100),Nilai Tukar Petani
+1717,NTP (Nilai Tukar Petani) Menurut Sektor (2018=100),Nilai Tukar Petani
+1718,NTPP (Nilai Tukar Petani Tanaman Pangan) Menurut Sektor (2018=100),Nilai Tukar Petani
+1719,NTPR (Nilai Tukar Petani Tanaman Perkebunan) Menurut Sektor (2018=100),Nilai Tukar Petani
+1720,NTPT (Nilai Tukar Petani Peternakan) Menurut Sektor (2018=100),Nilai Tukar Petani
+1741,NTP (Nilai Tukar Petani) menurut Provinsi (2018=100),Nilai Tukar Petani
+1742,IB (Indeks Harga Yang Dibayar Petani) menurut Provinsi (2018=100),Nilai Tukar Petani
+1743,IT (Indeks Harga Yang Diterima Petani) menurut Provinsi (2018=100),Nilai Tukar Petani
+2125,NTP (Nilai Tukar Petani) Tanpa Perikanan Menurut Provinsi (2018=100),Nilai Tukar Petani
+2126,IB (Indeks Harga Yang Dibayar Petani) Tanpa Perikanan Menurut Provinsi (2018=100),Nilai Tukar Petani
+2127,IT (Indeks Harga Yang Diterima Petani) Tanpa Perikanan Menurut Provinsi (2018=100),Nilai Tukar Petani
+98,Gini Ratio Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+182,Garis Kemiskinan (Rupiah/Kapita/Bulan) Menurut Daerah,Kemiskinan dan Ketimpangan
+183,Jumlah Penduduk Miskin Menurut Wilayah,Kemiskinan dan Ketimpangan
+184,Persentase Penduduk Miskin (P0) Menurut Daerah,Kemiskinan dan Ketimpangan
+185,Jumlah Penduduk Miskin (Ribu Jiwa) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+192,Persentase Penduduk Miskin (P0) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+195,Garis Kemiskinan (Rupiah/Kapita/Bulan) Menurut Provinsi dan Daerah ,Kemiskinan dan Ketimpangan
+198,Indeks Kedalaman Kemiskinan (P1) Menurut Daerah,Kemiskinan dan Ketimpangan
+199,Indeks Keparahan Kemiskinan (P2) Menurut Daerah,Kemiskinan dan Ketimpangan
+207,Karakteristik Rumah Tangga Menurut Status Kemisikinan,Kemiskinan dan Ketimpangan
+503,Indeks Kedalaman Kemiskinan (P1) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+504,Indeks Keparahan Kemiskinan (P2) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+505,Garis Kemiskinan Makanan (Rupiah/Kapita/Bulan) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+506,Garis Kemiskinan Non-Makanan (Rupiah/Kapita/Bulan) Menurut Provinsi dan Daerah,Kemiskinan dan Ketimpangan
+619,Jumlah Penduduk Miskin (Ribu Jiwa) Menurut Kabupaten/Kota ,Kemiskinan dan Ketimpangan
+621,Persentase Penduduk Miskin (P0) Menurut Kabupaten/Kota,Kemiskinan dan Ketimpangan
+622,Indeks Kedalaman Kemiskinan (P1) Menurut Kabupaten/Kota,Kemiskinan dan Ketimpangan
+623,Indeks Keparahan Kemiskinan (P2) Menurut Kabupaten/Kota,Kemiskinan dan Ketimpangan
+624,Garis Kemiskinan Menurut Kabupaten/Kota,Kemiskinan dan Ketimpangan
+1471,"Proporsi Penduduk Yang Hidup Di Bawah Garis Kemiskinan Internasional (1,90 USD Per Hari)",Kemiskinan dan Ketimpangan
+1473,Prevalensi Ketidakcukupan Konsumsi Pangan,Kemiskinan dan Ketimpangan
+1474,"Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan",Kemiskinan dan Ketimpangan
+1486,Angka Partisipasi Murni (APM) Penduduk kelompok pengeluaran 40% terbawah Menurut Provinsi,Kemiskinan dan Ketimpangan
+1487,"Persentase Penduduk Usia 0-17 Tahun Dengan Kepemilikan Akta Lahir (40% Terbawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1538,"Persentase Penduduk Yang Hidup di Bawah Garis Kemiskinan Nasional, Menurut Jenis Kelamin",Kemiskinan dan Ketimpangan
+1539,"Persentase Penduduk Yang Hidup Di Bawah Garis Kemiskinan Nasional, Menurut Kelompok Umur",Kemiskinan dan Ketimpangan
+1541,Persentase Perempuan Pernah Kawin Umur 15-49 Tahun Yang Proses Kelahiran Terakhirnya Di Fasilitas Kesehatan (40% Bawah) Menurut Provinsi,Kemiskinan dan Ketimpangan
+1543,"Persentase Perempuan Pernah Kawin Umur 15-49 Tahun Yang Proses Kelahiran Terakhirnya Di Fasilitas Kesehatan (40% Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1545,"Persentase Anak Umur 12-23 Bulan Yang Menerima Imunisasi Dasar Lengkap Dengan Tingkat Kesejahteraan 40% Terendah, Menurut Provinsi",Kemiskinan dan Ketimpangan
+1547,"Persentase Anak Umur 12-23 Bulan Yang Menerima Imunisasi Dasar Lengkap Dengan Tingkat Kesejahteraan 40% Terendah, Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1548,"Persentase Anak Umur 12-23 Bulan Yang Menerima Imunisasi Dasar Lengkap Dengan Tingkat Kesejahteraan 40% Terendah, Menurut Jenis Kelamin",Kemiskinan dan Ketimpangan
+1550,"Angka Pemakaian Kontrasepsi (CPR) Semua Cara Pada Pasangan Usia Subur Usia 15-49 Tahun Yang Pernah Kawin (40% Bawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1553,"Angka Pemakaian Kontrasepsi (CPR) Semua Cara Pada Pasangan Usia Subur Usia 15-49 Tahun Yang Pernah Kawin (40% Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1554,"Persentase Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sumber Air Minum Layak Dan Berkelanjutan (40% Bawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1556,"Persentase Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sumber Air Minum Layak Dan Berkelanjutan (40% Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1558,"Persentase Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sanitasi Layak Dan Berkelanjutan (40% Bawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1559,"Persentase Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sanitasi Layak Dan Berkelanjutan (40% Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1561,"Persentase Rumah Tangga Kumuh Perkotaan (40% Ke Bawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1570,"Persentase Penduduk Usia 0-17 Tahun Dengan Kepemilikan Akta Lahir (40% Terbawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1573,"Persentase Penduduk Usia 0-17 Tahun Dengan Kepemilikan Akta Lahir (40% Terbawah), Menurut Jenis Kelamin",Kemiskinan dan Ketimpangan
+1575,"Persentase Rumah Tangga Yang Menggunakan Penerangan Dengan Sumber Listrik (40% Ke Bawah), Menurut Provinsi",Kemiskinan dan Ketimpangan
+1577,"Persentase Rumah Tangga Yang Menggunakan Penerangan Dengan Sumber Listrik (40% Ke Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1579,"Angka Partisipasi Murni (APM) (40% Ke Bawah), Menurut Daerah Tempat Tinggal",Kemiskinan dan Ketimpangan
+1583,"Angka Partisipasi Murni (APM) (40% Ke Bawah), Menurut Jenis Kelamin",Kemiskinan dan Ketimpangan
+2011,"Proporsi penduduk yang hidup di bawah 50 persen dari median pendapatan, menurut provinsi",Kemiskinan dan Ketimpangan
+214,Jumlah Ternak yang dipotong di rumah potong hewan (RPH) menurut Provinsi dan Jenis Ternak,Peternakan
+340,Jumlah Perusahaan Sapi Perah Menurut Badan Hukum/Usaha,Peternakan
+341,Jumlah Perusahaan Sapi Perah Menurut Kegiatan Utama,Peternakan
+344,Jumlah Perusahaan Peternakan Ternak Besar dan Kecil Menurut Status Permodalan,Peternakan
+348,Jumlah Perusahaan Sapi Perah Menurut Status Pemodalan,Peternakan
+349,Jumlah Perusahaan Peternakan Ternak Besar dan Kecil Menurut Badan Hukum/ Usaha,Peternakan
+354,Jumlah Ternak yang Dipotong di RPH dan Di Luar RPH yang Dilaporkan,Peternakan
+357,Jumlah Perusahaan Peternakan Unggas Menurut Badan Hukum/ Usaha,Peternakan
+358,Jumlah Perusahaan Peternakan Unggas Menurut Status Permodalan,Peternakan
+364,Jumlah Perusahaan Ternak Besar dan Kecil Menurut Kegiatan,Peternakan
+367,Jumlah Perusahaan Ayam Petelur Menurut Kegiatan Utama,Peternakan
+368,Jumlah Perusahaan Ayam Pedaging Menurut Kegiatan Utama,Peternakan
+376,Produksi Susu Perusahaan Sapi Perah,Peternakan
+469,Populasi Sapi Potong menurut Provinsi,Peternakan
+470,Populasi Sapi Perah menurut Provinsi,Peternakan
+471,Populasi Kerbau menurut Provinsi,Peternakan
+472,Populasi Kambing menurut Provinsi,Peternakan
+473,Populasi Domba menurut Provinsi,Peternakan
+474,Populasi Babi menurut Provinsi,Peternakan
+475,Populasi Kuda menurut Provinsi,Peternakan
+476,Populasi Ayam Buras menurut Provinsi ,Peternakan
+477,Populasi Ayam Ras Petelur menurut Provinsi,Peternakan
+478,Populasi Ayam Ras Pedaging menurut Provinsi,Peternakan
+479,Populasi Itik/Itik Manila menurut Provinsi,Peternakan
+480,Produksi Daging Sapi menurut Provinsi,Peternakan
+481,Produksi Daging Kerbau menurut Provinsi,Peternakan
+482,Produksi Daging Kambing menurut Provinsi,Peternakan
+483,Produksi Daging Domba menurut Provinsi,Peternakan
+484,Produksi Daging Babi menurut Provinsi,Peternakan
+485,Produksi Daging Kuda menurut Provinsi,Peternakan
+486,Produksi Daging Ayam Buras menurut Provinsi,Peternakan
+487,Produksi Daging Ayam Ras Petelur menurut Provinsi,Peternakan
+488,Produksi Daging Ayam Ras Pedaging menurut Provinsi,Peternakan
+489,Produksi Daging Itik/Itik Manila menurut Provinsi,Peternakan
+490,Produksi Telur Ayam Buras menurut Provinsi,Peternakan
+491,Produksi Telur Ayam Petelur menurut Provinsi,Peternakan
+492,Produksi Telur Itik/Itik Manila menurut Provinsi,Peternakan
+493,Produksi Susu Segar menurut Provinsi,Peternakan
+43,Indeks Tendensi Bisnis (ITB) dan Indeks Tendensi Konsumen (ITK),ITB-ITK
+3,Angka Harapan Hidup,Indeks Pembangunan Manusia
+4,Angka Melek Huruf,Indeks Pembangunan Manusia
+5,Rata-Rata Lama Sekolah,Indeks Pembangunan Manusia
+6,Pengeluaran Perkapita Disesuaikan,Indeks Pembangunan Manusia
+7,Indeks Pembangunan Manusia Menurut Kabupaten/Kota,Indeks Pembangunan Manusia
+202,Indeks Pembangunan Manusia menurut Provinsi,Indeks Pembangunan Manusia
+293,Indeks Pembangunan Manusia Beberapa Negara,Indeks Pembangunan Manusia
+413,[Metode Baru] Indeks Pembangunan Manusia,Indeks Pembangunan Manusia
+414,[Metode Baru] Umur Harapan Hidup Saat Lahir (UHH),Indeks Pembangunan Manusia
+415,[Metode Baru] Rata-rata Lama Sekolah,Indeks Pembangunan Manusia
+416,[Metode Baru] Pengeluaran per Kapita Disesuaikan,Indeks Pembangunan Manusia
+417,[Metode Baru] Harapan Lama Sekolah,Indeks Pembangunan Manusia
+418,[Metode Baru] Peringkat Indeks Pembangunan Manusia,Indeks Pembangunan Manusia
+494,[Metode Baru] Indeks Pembangunan Manusia menurut Provinsi,Indeks Pembangunan Manusia
+1505,[Metode Baru] Selisih IPM,Indeks Pembangunan Manusia
+103,Indikator Sosial Budaya,Sosial Budaya
+171,Jumlah Desa(1)/Kelurahan Yang Mengalami Bencana Alam Menurut Provinsi,Sosial Budaya
+173,Jumlah Kerusakan Rumah yang Diakibatkan Bencana Alam Menurut Provinsi,Sosial Budaya
+175,Jumlah Korban Manusia yang Diakibatkan Bencana Alam Menurut Provinsi,Sosial Budaya
+176,"Jumlah Nikah, Talak dan Cerai, serta Rujuk",Sosial Budaya
+178,Jumlah Jemaah Haji yang Diberangkatkan ke Tanah Suci Mekah Menurut Provinsi,Sosial Budaya
+645,Majalah/Tabloid,Sosial Budaya
+646,Surat Kabar,Sosial Budaya
+647,Buku Cerita,Sosial Budaya
+649,Pelajaran Sekolah,Sosial Budaya
+650,Pengetahuan,Sosial Budaya
+651,Lainnya,Sosial Budaya
+656,Persentase Penduduk Berumur 5 Tahun ke Atas yang Mengakses Internet Selama Tiga Bulan Terakhir  menurut Provinsi dan Tipe Daerah ,Sosial Budaya
+657,Proporsi Penduduk Berumur 5 Tahun ke Atas yang Mengakses Internet Selama Tiga Bulan Terakhir menurut Provinsi dan Jenis Kelamin,Sosial Budaya
+659,Proporsi Penduduk Berumur 10 Tahun ke Atas yang Membaca Surat Kabar/Majalah Selama Seminggu Terakhir menurut Provinsi dan Tipe Daerah,Sosial Budaya
+660,Proporsi Penduduk Berumur 10 Tahun ke Atas yang Membaca Surat Kabar/Majalah Selama Seminggu Terakhir menurut Provinsi dan Jenis Kelamin,Sosial Budaya
+1221,Proporsi Individu yang Menguasai/Memiliki Telepon Genggam Menurut Provinsi,Sosial Budaya
+1222,Proporsi Individu yang Menguasai/Memiliki Telepon Genggam Menurut Kelompok Umur,Sosial Budaya
+1224,Proporsi Individu yang Menguasai/Memiliki Telepon Genggam Menurut Jenis Kelamin,Sosial Budaya
+1225,Proporsi Individu Yang Menggunakan Internet Menurut Provinsi,Sosial Budaya
+1226,Proporsi Individu Yang Menggunakan Internet Menurut Daerah Tempat Tinggal,Sosial Budaya
+1227,Proporsi Individu Yang Menggunakan Internet Menurut Jenis Kelamin,Sosial Budaya
+1228,Proporsi Individu Yang Menggunakan Internet Menurut Kelompok Umur,Sosial Budaya
+1229,Proporsi Individu Yang Menggunakan Internet Menurut Media untuk Mengakses Internet,Sosial Budaya
+1246,"Jumlah Korban Meninggal, Hilang, dan Terluka Terkena Dampak Bencana Per 100.000 Orang",Sosial Budaya
+1249,Jumlah Provinsi Menurut Tingkat Risiko Bencana,Sosial Budaya
+1251,Jumlah Kabupaten/Kota Menurut Tingkat Risiko Bencana,Sosial Budaya
+1284,Persentase Rumah Tangga Yang Mengetahui Tanda-Tanda Dan Peringatan Untuk Mengatasi Bencana Alam Dilingkungan Tempat Tinggal,Sosial Budaya
+1286,Persentase Rumah Tangga Yang Mengikuti Pelatihan Simulasi Dan Penyelamatan Bencana Alam,Sosial Budaya
+1317,Proporsi perempuan muda umur 18-24 tahun yang mengalami kekerasan seksual sebelum umur 18 tahun,Sosial Budaya
+1364,Prevalensi Kekerasan Terhadap Anak Perempuan,Sosial Budaya
+1369,Prevalensi Kekerasan Terhadap Anak Laki-Laki,Sosial Budaya
+1371,Proporsi laki-laki muda umur 18-24 tahun yang mengalami kekerasan seksual sebelum umur 18 tahun,Sosial Budaya
+1375,"Proporsi Perempuan Dewasa Dan Anak Perempuan (Umur 15-64 Tahun) Mengalami Kekerasan (Fisik, Seksual, Atau Emosional) Oleh Pasangan Atau Mantan Pasangan Dalam 12 Bulan Terakhir",Sosial Budaya
+1378,"Proporsi Perempuan Dewasa Dan Anak Perempuan (Umur 15-64 Tahun) Mengalami Kekerasan (Fisik, Seksual, Atau Emosional) Oleh Pasangan Atau Mantan Pasangan Dalam 12 Bulan Terakhir Menurut Jenis Kekerasan ",Sosial Budaya
+1391,Poporsi Rumah Tangga Yang Memiliki Anak Umur 1-17 Tahun Yang Mengalami Hukuman Fisik Dan/Atau Agresi Psikologis Dari Pengasuh Dalam Setahun Terakhir,Sosial Budaya
+1392,Poporsi Rumah Tangga Yang Memiliki Anak Umur 1-17 Tahun Yang Mengalami Hukuman Fisik Dan/Atau Agresi Psikologis Dari Pengasuh Dalam Setahun Terakhir Menurut Wilayah Tempat Tinggal,Sosial Budaya
+1590,Persentase konsumen Badan Pusat Statistik (BPS) yang merasa puas dengan kualitas data statistik.,Sosial Budaya
+1591,Persentase Konsumen Yang Menjadikan Data Dan Informasi Statistik BPS Sebagai Rujukan Utama,Sosial Budaya
+1592,"Jumlah Metadata Kegiatan Statistik Dasar, Sektoral, Dan Khusus Yang Terdapat Dalam Sistem",Sosial Budaya
+1598,Jumlah Pejabat Fungsional Statistisi Dan Pranata Komputer Pada Kementerian/Lembaga,Sosial Budaya
+1599,Persentase Kementerian/Lembaga Yang Sudah Memiliki Pejabat Fungsional Statistisi Dan/Atau Pranata Komputer,Sosial Budaya
+1601,Persentase Terpenuhinya Kebutuhan Pejabat Fungsional Statistisi Dan Pranata Komputer Kementerian Lembaga,Sosial Budaya
+1603,Jumlah Pengunjung Eksternal Website BPS,Sosial Budaya
+1605,Persentase Konsumen Yang Puas Terhadap Akses Data Badan Pusat Statistik,Sosial Budaya
+1606,"Persentase Pengguna Data yang Menggunakan Data BPS Sebagai Dasar Perencanaan, Monitoring dan Evaluasi Pembangunan Nasional",Sosial Budaya
+1611,Persentase Rencana Anggaran Untuk Belanja Fungsi Perlindungan Sosial Pemerintah Pusat,Sosial Budaya
+1756,Pendampingan psikososial korban bencana sosial,Sosial Budaya
+1789,"Jumlah Penyalahgunaan Narkotika dan Pengguna Alkohol Yang Merugikan, Yang Mengakses Layanan Rehabilitasi Medis",Sosial Budaya
+1790,Jumlah yang Mengakses Layanan Pasca Rehabilitasi,Sosial Budaya
+1804,"Jumlah Korban Meninggal, Hilang, dan Terluka Terkena Dampak Bencana",Sosial Budaya
+1822,Prevalensi Kekerasan Terhadap Anak Perempuan Menurut Jenis Kekerasan,Sosial Budaya
+1835,Persentase Indikator SDGs terpilah yang relevan dengan target,Sosial Budaya
+87,Persentase Rumah tangga dengan Sumber Penerangan Listrik PLN,Perumahan
+142,Persentase Rumah Tangga Menurut Provinsi dan Sumber Air Minum,Perumahan
+663,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Status Kepemilikan Rumah Kontrak/Sewa",Perumahan
+772,Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan dari Listrik,Perumahan
+782,Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan dari Listrik (Backcasting),Perumahan
+833,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Dinding Terluas bukan Bambu/lainnya",Perumahan
+834,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Sanitasi Layak",Perumahan
+835,"Persentase Rumah Tangga menurut Provinsi dan Luas Hunian per kapita &le; 7,2 m2",Perumahan
+836,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Status Kepemilikan Rumah Milik Sendiri",Perumahan
+844,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Luas Hunian per kapita <= 7,2 m2",Perumahan
+845,Persentase Rumah Tangga menurut Provinsi dan Sumber Air Minum Layak,Perumahan
+846,Persentase Rumah Tangga menurut Provinsi dan Atap Terluas Bukan Ijuk/Lainnya,Perumahan
+847,Persentase Rumah Tangga menurut Provinsi dan Memiliki Akses terhadap Sanitasi Layak,Perumahan
+848,Persentase Rumah Tangga menurut Provinsi dan Lantai Terluas bukan Tanah,Perumahan
+849,Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Milik Sendiri,Perumahan
+850,Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Kontrak/Sewa,Perumahan
+851,Persentase Rumah Tangga menurut Provinsi dan Dinding Terluas bukan Bambu/lainnya,Perumahan
+852,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Lantai Terluas bukan Tanah",Perumahan
+853,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Sumber Penerangan dari Listrik",Perumahan
+854,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Sumber Air Minum Layak",Perumahan
+855,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Atap Terluas Bukan Ijuk/Lainnya",Perumahan
+856,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Sumber Penerangan Listrik PLN",Perumahan
+1241,Persentase Rumah Tangga yang Memiliki Akses Terhadap Hunian Yang Layak Dan Terjangkau Menurut Provinsi,Perumahan
+1242,Persentase Rumah Tangga yang Memiliki Akses Terhadap Hunian Yang Layak Dan Terjangkau Menurut Daerah Tempat Tinggal,Perumahan
+1267,Proporsi Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sanitasi Layak,Perumahan
+1270,Proporsi Rumah Tangga Yang Memiliki Akses Terhadap Layanan Sanitasi Layak Menurut Daerah Tempat Tinggal,Perumahan
+1272,Persentase Rumah Tangga yang Memiliki Akses Terhadap Layanan Sanitasi Layak Menurut Kelompok Pengeluaran,Perumahan
+1820,Persentase Rumah Tangga dengan Luas Lantai < 8 Meter Persegi per Kapita menurut Wilayah,Perumahan
+2018,Proporsi rumah tangga dengan status kepemilikan rumah milik dan sewa/kontrak menurut provinsi,Perumahan
+2019,Proporsi rumah tangga dengan status kepemilikan rumah milik dan sewa/kontrak menurut Daerah Tempat Tinggal,Perumahan
+2020,Proporsi rumah tangga dengan status kepemilikan rumah milik dan sewa/kontrak menurut jenis kelamin,Perumahan
+2141,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Jenis Lantai Terluas yang Layak",Perumahan
+2142,Persentase Rumah Tangga menurut Provinsi dan Jenis Atap Terluas yang Layak,Perumahan
+2143,Persentase Rumah Tangga menurut Provinsi dan Jenis Dinding Terluas yang Layak,Perumahan
+2144,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Jenis Dinding Terluas yang Layak",Perumahan
+2146,"Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Jenis Atap Terluas yang Layak",Perumahan
+2166,Persentase Rumah Tangga Menurut Provinsi dan Bahan Bangunan Utama Atap Rumah Terluas,Perumahan
+2168,Persentase Rumah Tangga Menurut Provinsi dan Bahan Bangunan Utama Dinding Rumah Terluas,Perumahan
+2171,Persentase Rumah Tangga Menurut Provinsi dan Bahan Bangunan Utama Lantai Rumah Terluas,Perumahan
+2176,Persentase Rumah Tangga  yang Masih Mempraktikkan Buang Air Besar Sembarangan (BABS) di Tempat Terbuka menurut Provinsi dan Tipe Daerah,Perumahan
+2177,"Persentase Rumah Tangga yang Menempati Rumah dengan Ketahanan Bangunan (Atap, Lantai, Dinding) Memenuhi Syarat menurut Provinsi dan Tipe Daerah",Perumahan
+2178,Persentase Rumah Tangga  Menggunakan Layanan Air Minum yang Dikelola Secara Aman  Menurut Provinsi dan Tipe Daerah,Perumahan
+2179,Persentase Rumah Tangga Menggunakan Layanan Sanitasi yang Dikelola Secara Aman Menurut Provinsi dan Tipe Daerah,Perumahan
+42,Jumlah Kasus Penyakit,Kesehatan
+53,Persentase Balita menurut Provinsi dan Penolong Kelahiran Terakhir,Kesehatan
+58,Jumlah Sarana Kesehatan,Kesehatan
+211,Persentase Balita yang Pernah Mendapat Imunisasi Campak,Kesehatan
+218,Persentase Wanita Berumur 15-49 Tahun dan Berstatus Kawin yang Sedang Menggunakan/Memakai Alat KB,Kesehatan
+222,Persentase Penduduk yang Mempunyai Keluhan Kesehatan Selama Sebulan Terakhir,Kesehatan
+224,Persentase Penduduk yang Mengobati Sendiri Selama Sebulan Terakhir [Format Lama],Kesehatan
+230,Jumlah Kasus Baru AIDS dan Kasus Kumulatif AIDS,Kesehatan
+231,Persentase Rumah Tangga Yang Salah Satu Anggota Rumah  Tangganya Memiliki Jaminan Pembiayaan/Asuransi Kesehatan dalam Setahun Terakhir,Kesehatan
+232,"Jumlah Rumah Sakit Umum, Rumah Sakit Khusus, dan Puskesmas",Kesehatan
+233,Jumlah Desa/Kelurahan Yang Memiliki Sarana Kesehatan Menurut Provinsi,Kesehatan
+708,Indikator Kesehatan,Kesehatan
+837,Kumulatif Kasus AIDS Menurut Provinsi di Indonesia,Kesehatan
+838,Kasus Meninggal karena AIDS Menurut Provinsi di Indonesia,Kesehatan
+839,Angka Kumulatif AIDS Menurut Provinsi di Indonesia,Kesehatan
+841,Jumlah Kasus Baru AIDS Menurut Provinsi di Indonesia,Kesehatan
+1024,Balita (0-59 Bulan) Menurut Status Gizi,Kesehatan
+1321,Persentase Pengetahuan Dan Pemahaman Pasangan Usia Subur (PUS) Tentang Metode Kontrasepsi Modern Menurut Provinsi,Kesehatan
+1322,Persentase Pengetahuan Dan Pemahaman Pasangan Usia Subur (PUS) Tentang Metode Kontrasepsi Modern Menurut Daerah Tempat Tinggal,Kesehatan
+1323,Persentase Pengetahuan Dan Pemahaman Pasangan Usia Subur (PUS) Tentang Metode Kontrasepsi Modern Menurut Tingkat Pendidikan,Kesehatan
+1325,Persentase Balita Pendek Dan Sangat Pendek,Kesehatan
+1326,Persentase Unmet Need KB (Kebutuhan Keluarga Berencana/KB Yang Tidak Terpenuhi) Menurut Provinsi,Kesehatan
+1328,Persentase Baduta (Anak Bawah Dua Tahun) Pendek Dan Sangat Pendek,Kesehatan
+1330,Persentase Unmet Need KB (Kebutuhan Keluarga Berencana/KB Yang Tidak Terpenuhi) Menurut Tingkat Pendidikan,Kesehatan
+1332,Persentase Unmet Need KB (Kebutuhan Keluarga Berencana/KB Yang Tidak Terpenuhi) Menurut Daerah Tempat Tinggal,Kesehatan
+1333,Prevalensi Anemia Pada Ibu Hamil,Kesehatan
+1335,Persentase Balita Obesitas,Kesehatan
+1336,Persentase Baduta (Anak Bawah Dua Tahun) Obesitas,Kesehatan
+1340,Persentase Bayi Usia Kurang Dari 6 Bulan Yang Mendapatkan Asi Eksklusif Menurut Provinsi,Kesehatan
+1341,Persentase Bayi Usia Kurang Dari 6 Bulan Yang Mendapatkan Asi Eksklusif Menurut Jenis Kelamin,Kesehatan
+1345,Persentase Perempuan Pernah Kawin Berusia 15-49 Tahun Yang Proses Kelahiran Terakhirnya Ditolong Oleh Tenaga Kesehatan Terlatih Menurut Provinsi,Kesehatan
+1346,Persentase Perempuan Pernah Kawin Berusia 15-49 Tahun Yang Proses Kelahiran Terakhirnya Ditolong Oleh Tenaga Kesehatan Terlatih Menurut Daerah Tempat Tinggal,Kesehatan
+1347,Persentase Perempuan Pernah Kawin Berusia 15-49 Tahun Yang Proses Kelahiran Terakhirnya Ditolong Oleh Tenaga Kesehatan Terlatih Menurut Kelompok Pengeluaran,Kesehatan
+1349,Angka Kematian Ibu Menurut Pulau,Kesehatan
+1350,Persentase Perempuan Pernah Kawin Berusia15-49 Tahun Yang Proses Melahirkan Terakhirnya Di Fasilitas Kesehatan Menurut Provinsi,Kesehatan
+1351,Persentase Perempuan Pernah Kawin Berusia 15-49 Tahun Yang Proses Melahirkan Terakhirnya Di Fasilitas Kesehatan Menurut Kelompok Pengeluaran,Kesehatan
+1352,Persentase Perempuan Pernah Kawin Berusia 15-49 Tahun Yang Proses Melahirkan Terakhirnya Di Fasilitas Kesehatan Menurut Daerah Tempat Tinggal,Kesehatan
+1373,Angka Kematian Balita Per 1000 Kelahiran Hidup Menurut Provinsi,Kesehatan
+1374,Angka Kematian Balita Per 1000 Kelahiran Hidup Menurut Pendidikan Ibu,Kesehatan
+1379,Angka Kematian Balita Per 1000 Kelahiran Hidup Menurut Daerah Tempat Tinggal,Kesehatan
+1381,Angka Kematian Balita Per 1000 Kelahiran Hidup Menurut Umur Ibu saat Melahirkan,Kesehatan
+1382,Angka Kematian Balita Per 1000 Kelahiran Hidup Menurut Kuantil Kekayaan ,Kesehatan
+1383,Angka Kematian Neonatal (AKN) Dan Angka Kematian Bayi Per 1000 Kelahiran Menurut Provinsi,Kesehatan
+1384,Angka Kematian Neonatal (AKN) Dan Angka Kematian Bayi Per 1000 Kelahiran Menurut Daerah tempat tinggal,Kesehatan
+1385,Angka Kematian Neonatal (AKN) Dan Angka Kematian Bayi Per 1000 Kelahiran Menurut Pendidikan Ibu,Kesehatan
+1387,Angka Kematian Neonatal (AKN) Dan Angka Kematian Bayi Per 1000 Kelahiran Menurut Kuantil Kekayaan,Kesehatan
+1388,Angka Kematian Neonatal (AKN) Dan Angka Kematian Bayi Per 1000 Kelahiran Menurut Umur Ibu saat Melahirkan,Kesehatan
+1389,Prevalensi HIV Pada Populasi Dewasa (15-49 Tahun),Kesehatan
+1390,Insiden Tuberkulosis (ITB) Per 100.000 Penduduk,Kesehatan
+1393,Kejadian Malaria Per 1000 Orang,Kesehatan
+1394,Proporsi Perempuan Usia Reproduksi (15-49 tahun) atau Pasangannya yang Memiliki Kebutuhan Keluarga Berencana dan Menggunakan Alat Kontrasepsi Metode Modern,Kesehatan
+1395,Angka Prevalensi Penggunaan Metode Kontrasepsi (CPR) Semua Cara Pada Pasangan Usia Subur (PUS) Usia 15-49 Tahun Yang Berstatus Kawin,Kesehatan
+1396,Angka Penggunaan Metode Kontrasepsi Jangka Panjang (MKJP) Cara Modern,Kesehatan
+1397,Angka Kelahiran Pada Perempuan Usia 15-19 Tahun Menurut Provinsi,Kesehatan
+1398,Angka Kelahiran Pada Perempuan Usia 15-19 Tahun Menurut Daerah Tempat Tinggal,Kesehatan
+1399,Angka Kelahiran Total Menurut Provinsi,Kesehatan
+1400,Angka Kelahiran Total Menurut Kelompok Pengeluaran,Kesehatan
+1401,Angka Kelahiran Total Menurut Daerah Tempat Tinggal,Kesehatan
+1402,Unmet Need Pelayanan Kesehatan Menurut Provinsi,Kesehatan
+1403,Unmet Need Pelayanan Kesehatan Menurut Daerah Tempat Tinggal,Kesehatan
+1404,Unmet Need Pelayanan Kesehatan Menurut Jenis Kelamin,Kesehatan
+1405,Unmet Need Pelayanan Kesehatan Menurut Kelompok Pengeluaran,Kesehatan
+1406,Unmet Need Pelayanan Kesehatan Menurut Kelompok Umur,Kesehatan
+1433,Jumlah Penduduk Yang Dicakup Asuransi Kesehatan Atau Sistem Kesehatan Masyarakat,Kesehatan
+1434,Jumlah Penduduk Yang Dicakup Asuransi Kesehatan Atau Sistem Kesehatan Masyarakat per 1000 Penduduk,Kesehatan
+1435,Persentase Merokok Pada Penduduk Umur ≥ 15 Tahun Menurut Provinsi,Kesehatan
+1436,Persentase Merokok Pada Penduduk Umur ≥ 15 Tahun Menurut Daerah Tempat Tinggal,Kesehatan
+1437,Persentase Merokok Pada Penduduk Umur ≥ 15 Tahun Menurut Kelompok Pengeluaran,Kesehatan
+1438,Persentase Merokok Pada Penduduk Umur ≥ 15 Tahun Menurut Kelompok Umur,Kesehatan
+1475,Konsumsi Alkohol Oleh Penduduk Umur ≥ 15 Tahun Dalam Satu Tahun Terakhir,Kesehatan
+1477,Kepadatan Dan Distribusi Tenaga Kesehatan,Kesehatan
+1478,Persentase Ketersediaan Obat Dan Vaksin Di Puskesmas,Kesehatan
+1479,Jumlah Klien Yang Mengakses Layanan Pascarehabilitasi,Kesehatan
+1480,Prevalensi Tekanan Darah Tinggi Menurut Provinsi,Kesehatan
+1481,Prevalensi Obesitas Pada Penduduk Umur > 18 Tahun,Kesehatan
+1483,Jumlah Lembaga Rehabilitasi Sosial Korban Penyalahgunaan Napza Yang Telah Dikembangkan/Dibantu,Kesehatan
+1531,Prevalensi Balita Sangat Pendek dan Pendek Menurut Kabupaten/Kota Tahun 2018,Kesehatan
+1533,"Persentase Merokok Pada Penduduk Usia ≤ 18 Tahun, Menurut Jenis Kelamin",Kesehatan
+1535,Persentase Merokok Pada Penduduk Usia ≤ 18 Tahun Menurut Kelompok Umur,Kesehatan
+1537,Persentase Merokok Pada Penduduk Usia ≤ 18 Tahun Menurut Daerah Tempat Tinggal,Kesehatan
+1568,Angka Kematian Bayi (AKB) Per 1000 Kelahiran Hidup Menurut Daerah Tempat Tinggal,Kesehatan
+1569,Angka Kematian Bayi (AKB) Per 1000 Kelahiran Hidup Menurut Umur Ibu Saat Melahirkan,Kesehatan
+1572,Angka Kematian Bayi (AKB) Per 1000 Kelahiran Hidup Menurut Kuantil Kekayaan,Kesehatan
+1574,Angka Kematian Bayi (AKB) Per 1000 Kelahiran Hidup Menurut Pendidikan Ibu,Kesehatan
+1584,Angka Kematian Bayi (AKB) Per 1000 Kelahiran Hidup Menurut Provinsi,Kesehatan
+1614,Prevalensi Balita Sangat Pendek dan Pendek pada Kabupaten/Kota SSGBI,Kesehatan
+1761,Persentase Balita Obesitas (BB/TB) Kelompok Umur 0-59 Bulan Menurut Provinsi,Kesehatan
+1762,Persentase Kabupaten Kota yang mencapai 80 % Imunisasi Dasar Lengkap Pada Bayi,Kesehatan
+1763,Insiden Tuberkolosis (ITB) Per 100.000 Penduduk,Kesehatan
+1764,Jumlah Kabupaten/Kota yang mencapai eliminasi Malaria,Kesehatan
+1766,Persentase Kabupaten/Kota yang melakukan deteksi dini untuk infeksi hepatitis B,Kesehatan
+1770,Jumlah Kabupaten/Kota dengan Eliminasi Kusta,Kesehatan
+1773,Prevalensi balita gizi kurang menurut Provinsi di Indonesia (PSG),Kesehatan
+1776,Prevalensi balita gizi buruk menurut Provinsi di Indonesia (PSG),Kesehatan
+1777,Prevalensi balita kekurangan gizi menurut Provinsi di Indonesia (PSG),Kesehatan
+1778,Jumlah Kabupaten/Kota Endemis Filariasis yang Mencapai Eliminasi,Kesehatan
+1779,Prevalensi tekanan darah tinggi menurut daerah tempat tinggal,Kesehatan
+1780,Prevalensi tekanan darah tinggi menurut jenis kelamin,Kesehatan
+1781,Prevalensi Obesitas Pada Penduduk Umur > 18 Tahun Menurut Jenis Kelamin,Kesehatan
+1782,Prevalensi anemia pada ibu hamil menurut kelompok umur,Kesehatan
+1793,Jumlah Korban Penyalahgunaan Napza yang Mendapatkan Rehabilitasi Sosial di Dalam Panti Sesuai Standar Pelayanan,Kesehatan
+1813,Proporsi Populasi yang Mempunyai Kebiasaan Cuci Tangan yang Benar menurut Wilayah,Kesehatan
+1816,Angka Morbiditas menurut Wilayah,Kesehatan
+1949,Indeks Khusus Penanganan Stunting Menurut Provinsi,Kesehatan
+1950,Indeks Khusus Penanganan Stunting Menurut Kabupaten/Kota,Kesehatan
+1974,Persentase Penduduk yang Mengobati Sendiri Selama Sebulan Terakhir,Kesehatan
+101,Jumlah Tindak Pidana Menurut Kepolisian Daerah,Politik dan Keamanan
+297,Persentase Penyelesaian Tindak Pidana,Politik dan Keamanan
+299,Risiko Penduduk Terkena Tindak Pidana (Per 100.000 Penduduk) ,Politik dan Keamanan
+592,Indeks Perilaku Anti Korupsi (IPAK) Menurut Dimensi dan Jenis Kelamin,Politik dan Keamanan
+594,Indeks Perilaku Anti Korupsi (IPAK) Menurut Dimensi dan Kelompok Umur,Politik dan Keamanan
+595,Indeks Perilaku Anti Korupsi (IPAK) Menurut Dimensi dan Daerah Tempat Tinggal,Politik dan Keamanan
+597,Indeks Perilaku Anti Korupsi (IPAK) Menurut Dimensi dan Jenjang Pendidikan,Politik dan Keamanan
+598,Indeks Demokrasi Indonesia (IDI) Menurut Provinsi,Politik dan Keamanan
+599,Indeks Demokrasi Indonesia (IDI) Menurut Aspek dan Provinsi,Politik dan Keamanan
+601,Indeks Kebahagiaan Menurut Provinsi,Politik dan Keamanan
+602,Tingkat Kepuasaan Hidup Terhadap Sepuluh Aspek Kehidupan Menurut Provinsi,Politik dan Keamanan
+604,Indeks Kebahagiaan Menurut Klasifikasi Wilayah,Politik dan Keamanan
+605,Indeks Kebahagiaan Menurut Jenis Kelamin,Politik dan Keamanan
+607,Indeks Kebahagiaan Menurut Status Perkawinan,Politik dan Keamanan
+610,Indeks Kebahagiaan Menurut Kelompok Umur,Politik dan Keamanan
+611,Indeks Kebahagiaan Menurut Kedudukan Dalam Rumah Tangga,Politik dan Keamanan
+613,Indeks Kebahagiaan Menurut Jumlah Anggota Rumah Tangga,Politik dan Keamanan
+615,Indeks Kebahagiaan Menurut Pendidikan Tertinggi yang Ditamatkan,Politik dan Keamanan
+617,Indeks Kebahagiaan Menurut Pendapatan Rumah Tangga,Politik dan Keamanan
+627,Dimensi Kepuasan Hidup Indeks Kebahagiaan,Politik dan Keamanan
+628,Dimensi Afeksi Indeks Kebahagiaan,Politik dan Keamanan
+630,Dimensi Makna Hidup Indeks Kebahagiaan,Politik dan Keamanan
+635,Indeks Perilaku Anti Korupsi (IPAK) Menurut Dimensi,Politik dan Keamanan
+637,Indeks Demokrasi Indonesia (IDI) Menurut Variabel,Politik dan Keamanan
+638,Indeks Demokrasi Indonesia (IDI) Menurut Indikator,Politik dan Keamanan
+1187,Proporsi Korban Kekerasan dalam 12 bulan terakhir yang Melaporkan Kepada Polisi,Politik dan Keamanan
+1191,Proporsi tahanan yang melebihi masa penahanan terhadap seluruh jumlah tahanan,Politik dan Keamanan
+1240,Jumlah Penanganan Pengaduan Pelanggaran Hak Asasi Manusia,Politik dan Keamanan
+1252,Persentase Korban Kekerasan Dalam 12 Bulan Terakhir Yang Melaporkan Kepada Polisi,Politik dan Keamanan
+1253,Persentase Korban Kekerasan Dalam 12 Bulan Terakhir Yang Melaporkan Kepada Polisi Menurut Jenis Kelamin,Politik dan Keamanan
+1306,Jumlah Kasus Kejahatan Pembunuhan Pada Satu Tahun Terakhir,Politik dan Keamanan
+1308,Proporsi Penduduk Yang Menjadi Korban Kejahatan Kekerasan Dalam 12 Bulan Terakhir Menurut Klasifikasi Wilayah,Politik dan Keamanan
+1309,Proporsi Penduduk Yang Menjadi Korban Kejahatan Kekerasan Dalam 12 Bulan Terakhir Menurut Jenis Kelamin,Politik dan Keamanan
+1310,Proporsi Penduduk Yang Menjadi Korban Kejahatan Kekerasan Dalam 12 Bulan Terakhir Menurut Kelompok Umur,Politik dan Keamanan
+1311,Proporsi Penduduk Yang Menjadi Korban Kejahatan Kekerasan Dalam 12 Bulan Terakhir Menurut Provinsi,Politik dan Keamanan
+1312,"Proporsi Penduduk Yang Merasa Aman Berjalan Sendirian Di Area Tempat Tinggalnya
+",Politik dan Keamanan
+1313,Proporsi Rumah Tangga Yang Memiliki Anak Umur 1-17 Tahun Yang Mengalami Hukuman Fisik Dan/Atau Agresi Psikologis Dari Pengasuh Dalam Setahun Terakhir,Politik dan Keamanan
+1314,Proporsi Rumah Tangga Yang Memiliki Anak Umur 1-17 Tahun Yang Mengalami Hukuman Fisik Dan/Atau Agresi Psikologis Dari Pengasuh Dalam Setahun Terakhir Menurut Wilayah Tempat Tinggal,Politik dan Keamanan
+1499,Indeks Perilaku Anti Korupsi (IPAK) Menurut Kelompok Umur,Politik dan Keamanan
+1501,Indeks Perilaku Anti Korupsi (IPAK) Menurut Daerah Tempat Tinggal,Politik dan Keamanan
+1504,Indeks Perilaku Anti Korupsi (IPAK) Menurut Jenjang Pendidikan,Politik dan Keamanan
+1823,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif,Politik dan Keamanan
+2159,[Metode Baru] Indeks Demokrasi Indonesia menurut Provinsi,Politik dan Keamanan
+2160,[Metode Baru] Aspek Indeks Demokrasi Indonesia (IDI) Menurut Provinsi,Politik dan Keamanan
+2161,"[Metode Baru] Indeks Demokrasi Indonesia (IDI) tingkat Nasional, Pusat, dan Provinsi",Politik dan Keamanan
+2162,"[Metode Baru] Aspek Indeks Demokrasi Indonesia (IDI) tingkat Nasional, Pusat, dan Provinsi",Politik dan Keamanan
+2163,[Metode Baru] Indikator Indeks Demokrasi Indonesia (IDI) tingkat Provinsi,Politik dan Keamanan
+2164,[Metode Baru] Indikator Indeks Demokrasi Indonesia (IDI) tingkat Pusat,Politik dan Keamanan
+48,Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha,Usaha Mikro Kecil
+49,Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha,Usaha Mikro Kecil
+749,Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi,Usaha Mikro Kecil
+792,Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi,Usaha Mikro Kecil
+1192,Proporsi Kredit UMKM Terhadap Total Kredit,Usaha Mikro Kecil
+369,Indeks Harga Produsen,Harga Produsen
+378,Inflasi Harga Produsen,Harga Produsen
+380,Inflasi Harga produsen y on y,Harga Produsen
+384,Indeks Kedalaman Harga Gabah,Harga Produsen
+435,Indeks Keparahan Harga Gabah,Harga Produsen
+500,Rata-Rata Harga Beras Bulanan di Tingkat Penggilingan Menurut Kualitas,Harga Produsen
+1034,"Rata-rata Harga Gabah Bulanan Menurut Kualitas, Komponen Mutu dan HPP di Tingkat Petani",Harga Produsen
+1047,"Rata-rata Harga Gabah Bulanan Menurut Kualitas, Komponen Mutu dan HPP di Tingkat Penggilingan",Harga Produsen
+1052,Kasus Harga Gabah di Bawah Harga Pembelian Pemerintah (HPP) Bulanan,Harga Produsen
+455,Angka Harapan Hidup (AHH) Menurut Kabupaten/Kota dan Jenis Kelamin,Gender
+457,Angka Harapan Lama Sekolah (HLS) menurut Jenis Kelamin,Gender
+459,Rata-rata Lama Sekolah (RLS) menurut Jenis Kelamin,Gender
+461,Pengeluaran per Kapita yang Disesuaikan menurut Jenis Kelamin,Gender
+462,Indeks Pembangunan Manusia (IPM) menurut Jenis Kelamin,Gender
+463,Indeks Pembangunan Gender (IPG),Gender
+464,Keterlibatan Perempuan di Parlemen,Gender
+466,Perempuan sebagai Tenaga Profesional,Gender
+467,Sumbangan Pendapatan Perempuan,Gender
+468,Indeks Pemberdayaan Gender (IDG),Gender
+501,Angka Harapan Hidup (AHH) Menurut Provinsi dan Jenis Kelamin,Gender
+520,Tingkat Pengangguran Terbuka Penduduk Berumur 15 Tahun Ke Atas,Gender
+524,"Penduduk Berumur 10 Tahun ke Atas menurut status perkawinan, Laki-Laki",Gender
+525,"Penduduk Berumur 10 Tahun ke Atas menurut status perkawinan, Perempuan",Gender
+527,"Penduduk Berumur 10 Tahun ke Atas menurut status perkawinan, Laki-Laki+Perempuan",Gender
+535,"Penduduk Berumur 10 Tahun ke Atas menurut Jenis Kelamin dan Ijazah/STTB Tertinggi yang dimiliki, Perkotaan",Gender
+537,"Penduduk Berumur 10 Tahun ke Atas menurut Jenis Kelamin dan Ijazah/STTB Tertinggi yang dimiliki, Perdesaan",Gender
+538,"Penduduk Berumur 10 Tahun ke Atas menurut Jenis Kelamin dan Ijazah/STTB Tertinggi yang dimiliki, Perkotaan+Perdesaan",Gender
+539,Penduduk Berumur 10 Tahun ke Atas yang Buta Huruf,Gender
+894,Persentase Penduduk menurut Provinsi dan Jenis Kelamin,Gender
+1135,APM SD Perkotaan menurut Jenis Kelamin,Gender
+1138,APM SD Perdesaan Menurut Jenis Kelamin,Gender
+1139,APM SD Perkotaan+Perdesaan Menurut jenis Kelamin,Gender
+1140,APM SMP Perkotaan Menurut Jenis Kelamin,Gender
+1141,APM SMP Perdesaan Menurut Jenis Kelamin,Gender
+1142,APM SMP Perkotaan+Perdesaan Menurut Jenis Kelamin,Gender
+1143,APM SMU Perkotaan Menurut Jenis Kelamin,Gender
+1144,APM SMU Perdesaan Menurut Jenis Kelamin,Gender
+1145,APM SMU Perkotaan+Perdesaan Menurut Jenis Kelamin,Gender
+1146,Persentase Penduduk di Perkotaan yang Mempunyai Keluhan Kesehatan dan Mengobati Sendiri menurut Provinsi dan Jenis Kelamin,Gender
+1147,Persentase Penduduk di Perdesaan yang Mempunyai Keluhan Kesehatan dan Mengobati Sendiri menurut Provinsi dan Jenis Kelamin,Gender
+1148,Persentase Penduduk Perkotaan+Perdesaan yang Mempunyai Keluhan Kesehatan dan Mengobati Sendiri menurut Provinsi dan Jenis Kelamin,Gender
+1318,Proporsi perempuan dan laki-laki muda umur 18-24 tahun yang mengalami kekerasan seksual sebelum umur 18 tahun,Gender
+1334,Distribusi Jabatan Manager Menurut Jenis Kelamin,Gender
+1337,Persentase Kursi Yang Diduduki Perempuan Di DPR Dan DPRD,Gender
+1358,Proporsi Perempuan Umur 20-24 Tahun Yang Berstatus Kawin Atau Berstatus Hidup Bersama Sebelum Umur 15 Tahun,Gender
+1359,Proporsi Perempuan Umur 20-24 Tahun Yang Berstatus Kawin Atau Berstatus Hidup Bersama Sebelum Umur 15 Tahun Menurut Daerah Tempat Tinggal,Gender
+1360,Proporsi Perempuan Umur 20-24 Tahun Yang Berstatus Kawin Atau Berstatus Hidup Bersama Sebelum Umur 18 Tahun Menurut Provinsi,Gender
+1361,Proporsi Perempuan Umur 20-24 Tahun Yang Berstatus Kawin Atau Berstatus Hidup Bersama Sebelum Umur 18 Tahun Menurut Daerah Tempat Tinggal,Gender
+1362,Proporsi Perempuan Dewasa Dan Anak Perempuan (Umur 15-64 Tahun) Mengalami Kekerasan Seksual Oleh Orang Lain Selain Pasangan Dalam 12 Bulan Terakhir,Gender
+1414,Jumlah penanganan pengaduan pelanggaran Hak Asasi Manusia (HAM) perempuan terutama kekerasan terhadap perempuan,Gender
+2003,Proporsi perempuan yang berada di posisi managerial menurut provinsi,Gender
+2004,"Proporsi perempuan yang berada di posisi managerial, menurut Daerah Tempat Tinggal",Gender
+2006,"Proporsi perempuan yang berada di posisi managerial, menurut tingkat pendidikan",Gender
+2007,"Proporsi perempuan yang berada di posisi managerial, menurut status perkawinan",Gender
+75,Produk Domestik Regional Bruto,Produk Domestik Regional Bruto (Lapangan Usaha)
+286,[Seri 2010] Produk Domestik Regional Bruto ,Produk Domestik Regional Bruto (Lapangan Usaha)
+288,[Seri 2010] Produk Domestik Regional Bruto Per Kapita,Produk Domestik Regional Bruto (Lapangan Usaha)
+289,[Seri 2010] Distribusi PDRB Terhadap Jumlah PDRB 34 Provinsi Atas Dasar Harga Berlaku Menurut Provinsi,Produk Domestik Regional Bruto (Lapangan Usaha)
+291,[Seri 2010] Laju Pertumbuhan Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010  Menurut Provinsi,Produk Domestik Regional Bruto (Lapangan Usaha)
+296,[Seri 2010] Laju Pertumbuhan Produk Domestik Regional Bruto Per Kapita Atas Dasar Harga Konstan 2010,Produk Domestik Regional Bruto (Lapangan Usaha)
+652,Laju Pertumbuhan Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2000,Produk Domestik Regional Bruto (Lapangan Usaha)
+670,Produk Domestik Regional Bruto Tanpa Migas per Kapita Atas Dasar Harga Konstan 2000 Menurut Provinsi,Produk Domestik Regional Bruto (Lapangan Usaha)
+21,Luas Panen,Tanaman Pangan
+22,Produktivitas,Tanaman Pangan
+23,Produksi,Tanaman Pangan
+179,Luas Lahan Sawah,Tanaman Pangan
+1498,"Luas Panen, Produksi, dan Produktivitas Padi Menurut Provinsi",Tanaman Pangan
+94,Produksi Perkebunan Besar Menurut Jenis Tanaman,Perkebunan
+131,Luas Tanaman Perkebunan Menurut Provinsi,Perkebunan
+132,Produksi Tanaman Perkebunan,Perkebunan
+641,Jumlah Tenaga Kerja Perusahaan Perkebunan,Perkebunan
+642,Jumlah Perusahaan Perkebunan,Perkebunan
+761,Produksi Bulanan Perkebunan Besar,Perkebunan
+768,Produksi Perkebunan Rakyat Menurut Jenis Tanaman,Perkebunan
+770,Luas Areal Tanaman Perkebunan Rakyat Menurut Jenis Tanaman,Perkebunan
+1847,Luas Tanaman Perkebunan Besar Menurut Jenis Tanaman,Perkebunan
+1848,Jumlah Perusahaan Perkebunan Besar Menurut Jenis Tanaman,Perkebunan
+61,Produksi Tanaman Sayuran,Hortikultura
+62,Produksi Tanaman Buah-buahan,Hortikultura
+63,Produksi Tanaman Biofarmaka (Obat),Hortikultura
+64,Produksi Tanaman Florikultura (Hias),Hortikultura
+880,Nilai Produksi dan Biaya Produksi per Hektar Usaha Tanaman Bawang Merah,Hortikultura
+882,Nilai Produksi dan Biaya Produksi per Hektar Usaha Tanaman Cabai Merah,Hortikultura
+1726,[SOUH2018] Struktur Ongkos Usaha Tanaman Bawang Merah per Hektar per Musim Tanam di Indonesia,Hortikultura
+1727,[SOUH2018] Struktur Ongkos Usaha Tanaman Cabai Besar per Hektar per Musim Tanam di Indonesia,Hortikultura
+1728,[SOUH2018] Struktur Ongkos Usaha Tanaman Cabai Rawit per Hektar per Musim Tanam di Indonesia,Hortikultura
+1729,[SOUH2018] Struktur Ongkos Usaha Tanaman Jahe per Hektar per Musim Tanam di Indonesia,Hortikultura
+1730,[SOUH2018] Struktur Ongkos Usaha Tanaman Kentang per Hektar per Musim Tanam di Indonesia,Hortikultura
+1731,[SOUH2018] Struktur Ongkos Usaha Tanaman Kubis per Hektar per Musim Tanam di Indonesia,Hortikultura
+1732,[SOUH2018] Struktur Ongkos Usaha Tanaman Pepaya per 100 Pohon per Tahun di Indonesia,Hortikultura
+1733,[SOUH2018] Struktur Ongkos Usaha Tanaman Pisang per 100 Rumpun per Tahun di Indonesia,Hortikultura
+1734,[SOUH2018] Persentase Petani Usaha Tanaman Hortikultura Menurut Jenis Kelamin dan Jenis Tanaman di Indonesia,Hortikultura
+1735,[SOUH2018] Persentase Petani Usaha Tanaman Hortikultura Menurut Kelompok Umur dan Jenis Tanaman di Indonesia,Hortikultura
+1736,[SOUH2018] Persentase Petani Usaha Tanaman Hortikultura Menurut Pendidikan dan Jenis Tanaman di Indonesia,Hortikultura
+1737,[SOUH2018] Struktur Ongkos Total Usaha Tanaman Manggis per 100 Pohon per Tahun di Indonesia,Hortikultura
+1738,[SOUH2018] Struktur Ongkos Total Usaha Tanaman Mangga per 100 Pohon per Tahun di Indonesia,Hortikultura
+1739,[SOUH2018] Struktur Ongkos Total Usaha Tanaman Jeruk Siam/Keprok per 100 Pohon per Tahun di Indonesia,Hortikultura
+1740,[SOUH2018] Struktur Ongkos Total Usaha Tanaman Durian per 100 Pohon per Tahun di Indonesia,Hortikultura
+86,Jumlah Perusahaan Penangkapan Ikan,Perikanan
+496,Produksi Perikanan Laut Yang Dijual Di TPI,Perikanan
+1050,Nilai Produksi dan Biaya Produksi per Trip Usaha Penangkapan Ikan di Laut Menggunakan Kapal Motor,Perikanan
+1053,Nilai Produksi dan Biaya Produksi per Trip Usaha Penangkapan Ikan di Laut Menggunakan Perahu Motor Tempel,Perikanan
+1054,Produksi perikanan tangkap menurut provinsi subsektor perikanan laut,Perikanan
+1055,Produksi Perikanan Tangkap Menurut Provinsi subsektor perairan umum,Perikanan
+1064,Jumlah Rumah Tangga/Perusahaan  Perikanan Tangkap Menurut Provinsi dan Jenis Penangkapan perikanan laut,Perikanan
+1065,Jumlah Rumah Tangga/Perusahaan  Perikanan Tangkap Menurut Provinsi dan Jenis Penangkapan perairan umum,Perikanan
+1067,Nilai Produksi dan Biaya Produksi per Hektar per Siklus Usaha Budidaya Rumput Laut,Perikanan
+1068,Nilai Produksi dan Biaya Produksi per Hektar per Siklus Usaha Budidaya Bandeng,Perikanan
+1069,Nilai Produksi dan Biaya Produksi per Hektar per Siklus Usaha Budidaya Udang Windu,Perikanan
+1128,Produksi Perikanan Menurut Subsektor,Perikanan
+1129,Jumlah Perusahaan Budidaya Perikanan Menurut Jenis Budidaya,Perikanan
+1291,Proporsi Tangkapan Ikan Yang Berada Dalam Batasan Biologis Yang Aman,Perikanan
+1506,Produksi Perikanan Tangkap menurut Jenis Penangkapan,Perikanan
+1508,Nilai Produksi Perikanan Tangkap menurut Jenis Penangkapan,Perikanan
+1509,Produksi Perikanan Budidaya Menurut Provinsi dan Jenis Budidaya,Perikanan
+1510,Nilai Produksi Perikanan Budidaya Menurut Provinsi dan Jenis Budidaya,Perikanan
+1511,Produksi Perikanan Budidaya Menurut Jenis Kegiatan,Perikanan
+1513,Produksi Perikanan Budidaya Menurut Komoditas Utama,Perikanan
+1514,Nilai Produksi Perikanan Budidaya Menurut Komoditas Utama,Perikanan
+1515,Produksi Perikanan Tangkap di Laut Menurut Komoditas Utama,Perikanan
+1516,Nilai Produksi Perikanan Tangkap di Laut Menurut Komoditas Utama,Perikanan
+1517,Produksi Perikanan Tangkap di Perairan Umum Menurut Komoditas Utama,Perikanan
+1518,Nilai Produksi Perikanan Tangkap di Perairan Umum Menurut Komoditas Utama,Perikanan
+1519,Produksi Perikanan Tangkap di Perairan Umum Menurut Lokasi,Perikanan
+1520,Nilai Produksi Perikanan Tangkap di Perairan Umum Menurut Lokasi,Perikanan
+1750,Jumlah Kelompok Usaha Bersama (KUB) Perikanan Tangkap,Perikanan
+84,Luas Kegiatan Reboisasi,Kehutanan
+114,Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi,Kehutanan
+167,Produksi Kayu Hutan,Kehutanan
+502,Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu,Kehutanan
+588,Luas dan Penyebaran Lahan Kritis Menurut Provinsi,Kehutanan
+827,Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan,Kehutanan
+831,Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan,Kehutanan
+1020,"Jumlah dan Persentase Rumah Tangga di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah, 2004 dan 2014",Kehutanan
+1304,Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi,Kehutanan
+1723,Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau,Kehutanan
+1725,Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku,Kehutanan
+1785,Capaian Luas Perhutanan Sosial per Skema (1.000 Ha),Kehutanan
+1802,Luas Lahan Kritis (1000 Ha),Kehutanan
+1850,Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau,Kehutanan
+1851,Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi,Kehutanan
+1972,Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2 ,Kehutanan
+1973,Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2  ,Kehutanan
+2165,Produksi Kayu Bulat Menurut Provinsi,Kehutanan
+2175,Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu,Kehutanan
+29,NAD Penggunaan,Neraca Arus Dana
+30,NAD Sumber,Neraca Arus Dana
+85,Jumlah Desa,Pemerintahan
+154,Jumlah Kabupaten,Pemerintahan
+155,Jumlah Kota,Pemerintahan
+157,Jumlah Kecamatan,Pemerintahan
+165,Jumlah Pemilih,Pemerintahan
+166,Jumlah Anggota Dewan Perwakilan Daerah (DPD) Menurut Jenis Kelamin,Pemerintahan
+666,Jumlah Pegawai Negeri Sipil Menurut Jabatan dan Jenis Kelamin,Pemerintahan
+1025,Persentase Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden 2009,Pemerintahan
+1026,Persentase Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden 2014,Pemerintahan
+1029,Anggota Dewan Perwakilan Rakyat (DPR) Menurut Jenis Kelamin,Pemerintahan
+1032,Realisasi Pengeluaran Negara,Pemerintahan
+1033,Anggaran Belanja Pemerintah Pusat Berdasarkan Fungsi,Pemerintahan
+1035,Anggaran Pendapatan Negara,Pemerintahan
+1043,Realisasi Pendapatan Pemerintah Desa,Pemerintahan
+1044,Realisasi Belanja Pemerintah Desa,Pemerintahan
+1045,Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden 2009,Pemerintahan
+1046,Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden 2014,Pemerintahan
+1056,Ringkasan Anggaran Negara dan Realisasinya,Pemerintahan
+1058,Anggota Dewan Perwakilan Rakyat Menurut Jenis Kelamin,Pemerintahan
+1059,Realisasi pendapatan negara,Pemerintahan
+1063,Anggaran Pendapatan dan Belanja Negara ,Pemerintahan
+1236,Persentase Kepatuhan pelaksanaan UU Pelayanan Publik untuk KL,Pemerintahan
+1408,Jumlah dan Persentase Anggota Dewan Perwakilan Rakyat Daerah (DPRD) Menurut Jenis Kelamin,Pemerintahan
+79,Rata-rata Harga Eceran Beras di Pasar Tradisional di 33 Kota,Harga Eceran
+254,Rata-rata Harga Eceran Nasional Beberapa Jenis Barang,Harga Eceran
+45,Upah dan Gaji Menurut Klasifikasi Tenaga Kerja,Neraca Sosial Ekonomi
+52,Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja,Neraca Sosial Ekonomi
+676,Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+678,Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+680,Jumlah Pendapatan Menurut Golongan Rumah Tanggaa,Neraca Sosial Ekonomi
+681,Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+683,Nilai Upah dan Gaji Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+684,Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+709,Rata-Rata Pendapatan Disposabel per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+711,Pinjaman Neto Menurut Sektor,Neraca Sosial Ekonomi
+716,Tabungan Bruto Menurut Sektor,Neraca Sosial Ekonomi
+717,Investasi Nonfinansial Menurut Sektor,Neraca Sosial Ekonomi
+722,Nilai Pendapatan Kapital Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+755,Rata-Rata Pendapatan Setelah Pajak per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+756,Nilai Pendapatan Disposabel Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+757,Rata-Rata Pengeluaran Konsumsi per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+776,Rata-Rata Pendapatan Kapital per Kapita Menurut Golongan Rumah Tangga,Neraca Sosial Ekonomi
+807,"Tabungan Bruto Domestik, Investasi Nonfinansial Domestik, dan Tabungan Luar Negeri",Neraca Sosial Ekonomi
+809,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulanan Sektor Perbankan",Neraca Sosial Ekonomi
+813,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Sektor Bank Sentral",Neraca Sosial Ekonomi
+819,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Sektor Pemerintahan Umum",Neraca Sosial Ekonomi
+821,"Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Sektor Domestik Lain",Neraca Sosial Ekonomi
+46,Struktur Output Menurut Sektor Ekonomi,Input output
+47,Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi,Input output
+93,Persentase Rumah Tangga berdasarkan Jenis Lantai terluas,Lingkungan Hidup
+138,Persentase Rumah Tangga Menurut Provinsi dan Luas Lantai (m2),Lingkungan Hidup
+145,Persentase Rumah Tangga Menurut Provinsi dan Sumber Penerangaan,Lingkungan Hidup
+147,Persentase Rumah Tangga Menurut Provinsi dan Fasilitas Tempat Buang Air Besar,Lingkungan Hidup
+150,Persentase Rumah Tangga Menurut Provinsi dan Bahan Bakar Utama untuk Memasak,Lingkungan Hidup
+152,Persentase Rumah Tangga Menurut Provinsi dan Status Penguasaan Bangunan Tempat Tinggal,Lingkungan Hidup
+728,Persentase Rumah Tangga Menurut Provinsi dan Banyaknya Lampu Hemat Energi yang Terpasang di Rumah,Lingkungan Hidup
+747,Persentase Rumah Tangga yang Mempunyai Tanaman Keras/Tahunan yang Langsung Ditanam di Tanah Menurut Provinsi dan Daerah Tempat Tinggal,Lingkungan Hidup
+781,Persentase Rumah Tangga Menurut Provinsi dan Sumber  Penerangan,Lingkungan Hidup
+843,Persentase Rumah Tangga Menurut Provinsi dan Bahan Bakar Utama untuk Memasak (2),Lingkungan Hidup
+886,Persentase Rumah Tangga Menurut Provinsi dan Kebiasaan Memanfaatkan Air Bekas untuk Keperluan Lain,Lingkungan Hidup
+893,Persentase Rumah Tangga Menurut Provinsi dan Keberadaan  Tanaman Keras/Tahunan di Pekarangan Rumah,Lingkungan Hidup
+906,Persentase Rumah Tangga yang Memiliki AC Menurut Provinsi dan Perilaku Menyalakan AC Dibawah 25 C,Lingkungan Hidup
+977,Persentase Rumah Tangga yang Menggunakan Lampu Hemat Energi Menurut Provinsi dan Daerah Tempat Tinggal,Lingkungan Hidup
+980,Persentase Rumah Tangga Menurut Provinsi dan Keberadaan Area Resapan Air,Lingkungan Hidup
+1244,Persentase Rumah Tangga dengan Angkutan Utama yang Biasa Digunakan Menuju ke Tempat Bekerja dan Sekolah,Lingkungan Hidup
+1273,Proporsi Rumah Tangga Yang Memiliki Fasilitas Cuci Tangan Dengan Sabun Dan Air Menurut Provinsi,Lingkungan Hidup
+1274,Proporsi Rumah Tangga Yang Memiliki Fasilitas Cuci Tangan Dengan Sabun Dan Air Menurut Daerah Tempat Tinggal,Lingkungan Hidup
+1279,Persentase Limbah Cair Industri Cair yang Diolah Secara Aman,Lingkungan Hidup
+1281,Proporsi Limbah Bahan Berbahaya dan Beracun (B3) Yang Diolah Sesuai Peraturan,Lingkungan Hidup
+1289,Jumlah Kawasan Konservasi Perairan,Lingkungan Hidup
+1292,Persentase Penyelesaian Tindak Pidana Lingkungan Hidup Sampai Dengan P21 Dari Jumlah Kasus Yang Terjadi Menurut Status Penyelesaian,Lingkungan Hidup
+1294,Persentase Penyelesaian Tindak Pidana Lingkungan Hidup Sampai Dengan P21 Dari Jumlah Kasus Yang Terjadi Menurut Tipologi Tindak Pidana,Lingkungan Hidup
+1297,Jumlah Satwa Terancam Punah,Lingkungan Hidup
+1298,Proporsi Luas Lahan Kritis Yang Direhabilitasi Terhadap Luas Lahan Keseluruhan,Lingkungan Hidup
+1302,Jumlah Kawasan Konservasi Yang Memperoleh Nilai Indeks Mett Minimal 70%,Lingkungan Hidup
+1303,Luas Izin Usaha Pemanfaatan Hasil Hutan Kayu pada Hutan Alam,Lingkungan Hidup
+1586,Proporsi Tangkapan Jenis Ikan yang Berada Dalam Batasan Biologis yang Aman,Lingkungan Hidup
+1744,Jumlah Perusahaan yang Menerapkan Sertifikasi SNI ISO 14001,Lingkungan Hidup
+1746,Jumlah Produk Ramah Lingkungan yang Teregister dan Masuk dalam Pengadaan Barang dan Jasa Pemerintah,Lingkungan Hidup
+1748,Jumlah Fasilitas Publik yang Menerapkan Standar Pelayanan Masyarakat (SPM) dan Teregister,Lingkungan Hidup
+1800,Indeks Kualitas Air,Lingkungan Hidup
+1805,Luas Kawasan Konservasi Perairan (KKP) yang Dikelola Secara Berkelanjutan,Lingkungan Hidup
+135,Jumlah Desa Menurut Provinsi dan Letak Geografi,Geografi
+140,Jumlah Desa Menurut Provinsi dan Topografi Wilayah,Geografi
+890,Frekuensi Gempa Berdasarkan Kekuatan Menurut Pulau di Indonesia,Geografi
+891,Frekuensi Gempa Berdasarkan Kedalaman Menurut Pulau di Indonesia,Geografi
+1110,Luas Daerah dan Jumlah Pulau Menurut Provinsi,Geografi
+1231,Jumlah Desa Tertinggal,Geografi
+1234,Jumlah Desa Mandiri,Geografi
+1237,Rata-Rata Pertumbuhan Ekonomi Di Daerah Tertinggal,Geografi
+1238,Persentase Penduduk Miskin Di Daerah Tertinggal,Geografi
+1263,Jumlah Bangunan DAM Pengendali ,Geografi
+1264,Jumlah Bangunan DAM Penahan,Geografi
+1265,Jumlah Pembangunan DAM Pengendali,Geografi
+1266,Jumlah Pembangunan DAM Penahan,Geografi
+1784,Jumlah Rencana Pengelolaan Daerah Aliran Sungai Terpadu (RPDAST) yang Diinternalisasi ke dalam Rencana Tata Ruang Wilayah (RTRW),Geografi
+1788,Jumlah daerah tertinggal yang terentaskan,Geografi
+1826,Kab/Kota Lokasi Penilaian Ketangguhan Bencana,Geografi
+940,Banyaknya Desa/Kelurahan Menurut Jenis Bahan Bakar untuk Memasak yang Digunakan oleh Sebagian Besar Keluarga,Potensi Desa
+941,Banyaknya Desa/Kelurahan Menurut Keberadaan Agen/Penjual Bahan Bakar,Potensi Desa
+943,Banyaknya Desa/Kelurahan Menurut Keberadaan Sarana Perdagangan,Potensi Desa
+946,Banyaknya Desa/Kelurahan Menurut Keberadaan Sarana Akomodasi,Potensi Desa
+949,Banyaknya Desa/Kelurahan Menurut Keberadaan dan Jenis Industri Kecil dan Mikro,Potensi Desa
+950,Banyaknya Desa/Kelurahan Menurut Keberadaan Keluarga Pengguna Listrik,Potensi Desa
+954,Banyaknya Desa/Kelurahan Menurut Jenis Bencana Alam dalam Tiga Tahun Terakhir,Potensi Desa
+959,Banyaknya Desa/Kelurahan Menurut Jenis Pencemaran Lingkungan Hidup,Potensi Desa
+971,Banyaknya Desa/Kelurahan Menurut Upaya Antisipasi/Mitigasi Bencana Alam,Potensi Desa
+974,Banyaknya Desa/Kelurahan Menurut Ketersediaan Lapangan Olahraga,Potensi Desa
+976,"Banyaknya Desa/Kelurahan Menurut Ketersediaan Ruang Publik Terbuka, Gedung Bioskop, Pub/Diskotek/Karaoke, dan Pusat Kebugaran",Potensi Desa
+1104,Banyaknya Desa/Kelurahan Menurut Penggunaan Fasilitas Tempat Buang Air Besar Sebagian Besar Keluarga,Potensi Desa
+1105,Banyaknya Desa/Kelurahan Menurut Keberadaan Permukiman di Bantaran Sungai,Potensi Desa
+1108,Banyaknya Desa/Kelurahan Menurut Keberadaan Permukiman di Bawah Saluran Udara Tegangan Ekstra Tinggi (SUTET),Potensi Desa
+1109,Banyaknya Desa/Kelurahan Menurut Keberadaan Permukiman Kumuh,Potensi Desa
+108,[Seri 2010] 4. Laju Pertumbuhan PDB menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+109,[Seri 2010] 5. Laju Implisit PDB Atas Dasar Harga Konstan 2010 menurut Pengeluaran ,Produk Domestik Bruto (Pengeluaran)
+110,[Seri 2010] 3. Distribusi PDB Triwulanan Atas Dasar Harga Berlaku menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1027,[Seri 2000] Laju Pertumbuhan Indeks Implisit PDB,Produk Domestik Bruto (Pengeluaran)
+1617,[Seri 1960] 1. PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1620,[Seri 1973] 1. PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1621,[Seri 1983] 1. PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1623,[Seri 1993] 1. PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1624,[Seri 2000] 1. PDB Triwulanan Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1625,[Seri 1960] 2. PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1628,[Seri 1973] 2. PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1630,[Seri 1983] 2. PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1632,[Seri 1993] 2. PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1634,[Seri 2000] 2. PDB Triwulanan Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1635,[Seri 1960] 3. Distribusi PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1637,[Seri 1973] 3. Distribusi PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1639,[Seri 1983] 3. Distribusi PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1641,[Seri 1993] 3. Distribusi PDB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1643,[Seri 2000] 3. Distribusi PDB Triwulanan Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1645,[Seri 1960] 4. Laju Pertumbuhan Y on Y PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1647,[Seri 1973] 4. Laju Pertumbuhan Y on Y PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1649,[Seri 1983] 4. Laju Pertumbuhan Y on Y PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1651,[Seri 1993] 4. Laju Pertumbuhan Y on Y PDB Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1654,[Seri 2000] 4. Laju Pertumbuhan Q to Q PDB Triwulanan Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1655,[Seri 2000] 5. Laju Pertumbuhan Y on Y PDB Triwulanan Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1657,[Seri 2000] 6. Laju Pertumbuhan C to C PDB Triwulanan Atas Dasar Harga Konstan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1659,[Seri 1960] 5. Laju Implisit PDB Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1660,[Seri 1973] 5. Laju Implisit PDB Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1662,[Seri 1983] 5. Laju Implisit PDB Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1665,[Seri 1993] 5. Laju Implisit PDB Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1666,[Seri 2000] 7. Laju Implisit Q to Q PDB Triwulanan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1667,[Seri 2000] 8. Laju Implisit Y on Y PDB Triwulanan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1955,[Seri 2010] 1. PDB Triwulanan Atas Dasar Harga Berlaku menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+1956,[Seri 2010] 2. PDB Triwulanan Atas Dasar Harga Konstan menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+2128,[Seri 2010] 6. Sumber Pertumbuhan Q to Q PDB Triwulanan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+2129,[Seri 2010] 7. Sumber Pertumbuhan Y on Y PDB Triwulanan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+2130,[Seri 2010] 8. Sumber Pertumbuhan C to C PDB Triwulanan Menurut Pengeluaran,Produk Domestik Bruto (Pengeluaran)
+397,Indeks Produksi Triwulanan menurut 2-digit KBLI,Industri Mikro dan Kecil
+399,Pertumbuhan  Produksi Triwulanan Q to Q menurut 2-digit KBLI,Industri Mikro dan Kecil
+400,Pertumbuhan  Produksi Tahunan Y on Y Menurut 2-digit KBLI,Industri Mikro dan Kecil
+401,Indeks Produksi Triwulanan menurut Provinsi,Industri Mikro dan Kecil
+404,Pertumbuhan Produksi Triwulanan Q to Q menurut provinsi,Industri Mikro dan Kecil
+405,Pertumbuhan Produksi Tahunan Y on Y Menurut Provinsi,Industri Mikro dan Kecil
+440,Jumlah Perusahaan menurut provinsi,Industri Mikro dan Kecil
+441,Jumlah Tenaga Kerja Menurut Provinsi,Industri Mikro dan Kecil
+442,Nilai Input Menurut Provinsi,Industri Mikro dan Kecil
+443,Nilai Output Menurut Provinsi,Industri Mikro dan Kecil
+444,Nilai Tambah (Harga Pasar) Menurut Provinsi,Industri Mikro dan Kecil
+446,Pengeluaran untuk Tenaga Kerja Menurut Provinsi,Industri Mikro dan Kecil
+447,Jumlah Perusahaan Menurut 2-digit KBLI,Industri Mikro dan Kecil
+448,Jumlah Tenaga Kerja Menurut 2-digit KBLI,Industri Mikro dan Kecil
+449,Nilai Input Menurut 2-digit KBLI,Industri Mikro dan Kecil
+450,Nilai Output Menurut 2-digit KBLI,Industri Mikro dan Kecil
+451,Nilai Tambah Menurut 2-digit KBLI,Industri Mikro dan Kecil
+517,Pengeluaran untuk Tenaga Kerja Menurut 2-digit KBLI,Industri Mikro dan Kecil
+533,[SERI 2010] 2. PDRB Atas Dasar Harga Konstan Menurut Pengeluaran (2010=100),Produk Domestik Regional Bruto (Pengeluaran)
+534,[SERI 2010] 1. PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Regional Bruto (Pengeluaran)
+540,[SERI 2010] 4. Laju Pertumbuhan (Y on Y) PDRB Atas Dasar Harga Konstan Menurut Pengeluaran (2010=100),Produk Domestik Regional Bruto (Pengeluaran)
+541,[SERI 2010] 5. Indeks Implisit PDRB Menurut Pengeluaran (2010=100),Produk Domestik Regional Bruto (Pengeluaran)
+542,[SERI 2010] 3. Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran,Produk Domestik Regional Bruto (Pengeluaran)
+1862,Sebaran Pasar Rakyat Menurut Waktu Operasional,Perdagangan Dalam Negeri
+1863,Sebaran Pasar Rakyat Menurut Umur Renovasi,Perdagangan Dalam Negeri
+1865,Sebaran Pasar Rakyat Menurut Umur/Tahun Beroperasi,Perdagangan Dalam Negeri
+1866,Sebaran Pasar Rakyat Menurut Jenis Bangunan,Perdagangan Dalam Negeri
+1867,Sebaran Pasar Rakyat Menurut Pengelola,Perdagangan Dalam Negeri
+1868,Sebaran Toko Swalayan Menurut Kelompok Komoditas Utama,Perdagangan Dalam Negeri
+1869,Sebaran Pusat Perbelanjaan Menurut Kelompok Komoditas Utama,Perdagangan Dalam Negeri
+1870,Sebaran Pasar Rakyat Menurut Kelompok Komoditas Utama,Perdagangan Dalam Negeri
+1875,Sebaran Pasar dan Pusat Perdagangan Menurut Klasifikasi,Perdagangan Dalam Negeri
+1876,Neraca Perdagangan Antar Wilayah Provinsi di Indonesia,Perdagangan Dalam Negeri
+1877,Margin Perdagangan dan Pengangkutan (MPP) Komoditas Minyak Goreng Menurut Provinsi,Perdagangan Dalam Negeri
+1878,Margin Perdagangan dan Pengangkutan (MPP) Komoditas Gula Pasir Menurut Provinsi,Perdagangan Dalam Negeri
+1879,Margin Perdagangan dan Pengangkutan (MPP) Komoditas Telur Ayam Ras Menurut Provinsi,Perdagangan Dalam Negeri
+1880,Margin Perdagangan dan Pengangkutan (MPP) Komoditas Daging Ayam Ras Menurut Provinsi,Perdagangan Dalam Negeri

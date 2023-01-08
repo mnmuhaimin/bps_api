@@ -1,0 +1,491 @@
+id,values,provinsi,tahun,dimensi,data_title
+99996308111170,71.21,INDONESIA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308111210,73.56,INDONESIA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308121170,73.6,INDONESIA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308121210,74.52,INDONESIA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308131170,64.15,INDONESIA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308131210,66.09,INDONESIA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308141170,71.93,INDONESIA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308141210,72.16,INDONESIA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308151170,75.83,INDONESIA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308151210,75.33,INDONESIA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308161170,75.62,INDONESIA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308161210,76.15,INDONESIA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+99996308171170,72.23,INDONESIA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+99996308171210,73.12,INDONESIA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+11006308111170,73.18,ACEH,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308111210,75.3,ACEH,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308121170,74.89,ACEH,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308121210,74.71,ACEH,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308131170,66.36,ACEH,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308131210,67.18,ACEH,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308141170,75.01,ACEH,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308141210,73.07,ACEH,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308151170,76.39,ACEH,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308151210,74.21,ACEH,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308161170,77.66,ACEH,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308161210,77.25,ACEH,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+11006308171170,74.05,ACEH,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+11006308171210,73.74,ACEH,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+12006308111170,70.28,SUMATERA UTARA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308111210,74.58,SUMATERA UTARA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308121170,73.08,SUMATERA UTARA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308121210,74.8,SUMATERA UTARA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308131170,63.64,SUMATERA UTARA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308131210,63.7,SUMATERA UTARA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308141170,72.51,SUMATERA UTARA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308141210,72.04,SUMATERA UTARA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308151170,75.03,SUMATERA UTARA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308151210,74.38,SUMATERA UTARA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308161170,74.21,SUMATERA UTARA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308161210,75.65,SUMATERA UTARA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+12006308171170,71.62,SUMATERA UTARA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+12006308171210,72.71,SUMATERA UTARA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+13006308111170,74.19,SUMATERA BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308111210,74.41,SUMATERA BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308121170,75.69,SUMATERA BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308121210,74.43,SUMATERA BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308131170,68.29,SUMATERA BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308131210,67.45,SUMATERA BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308141170,75.9,SUMATERA BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308141210,72.72,SUMATERA BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308151170,76.78,SUMATERA BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308151210,73.75,SUMATERA BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308161170,76.34,SUMATERA BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308161210,76.05,SUMATERA BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+13006308171170,74.64,SUMATERA BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+13006308171210,73.25,SUMATERA BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+14006308111170,73.25,RIAU,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308111210,74.75,RIAU,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308121170,74.82,RIAU,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308121210,75.3,RIAU,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308131170,66.89,RIAU,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308131210,66.76,RIAU,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308141170,73.48,RIAU,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308141210,72.54,RIAU,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308151170,76.61,RIAU,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308151210,75.76,RIAU,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308161170,75.44,RIAU,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308161210,76.98,RIAU,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+14006308171170,73.56,RIAU,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+14006308171210,73.84,RIAU,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+15006308111170,71.07,JAMBI,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308111210,75.21,JAMBI,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308121170,73.09,JAMBI,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308121210,76.46,JAMBI,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308131170,63.76,JAMBI,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308131210,68.36,JAMBI,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308141170,71.63,JAMBI,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308141210,74.54,JAMBI,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308151170,75.05,JAMBI,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308151210,78.72,JAMBI,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308161170,74.04,JAMBI,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308161210,78.42,JAMBI,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+15006308171170,71.61,JAMBI,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+15006308171210,75.44,JAMBI,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+16006308111170,71.95,SUMATERA SELATAN,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308111210,75.01,SUMATERA SELATAN,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308121170,74.31,SUMATERA SELATAN,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308121210,75.42,SUMATERA SELATAN,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308131170,65.37,SUMATERA SELATAN,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308131210,67.1,SUMATERA SELATAN,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308141170,73.26,SUMATERA SELATAN,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308141210,72.69,SUMATERA SELATAN,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308151170,77.51,SUMATERA SELATAN,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308151210,76.74,SUMATERA SELATAN,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308161170,75.69,SUMATERA SELATAN,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308161210,76.76,SUMATERA SELATAN,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+16006308171170,73.18,SUMATERA SELATAN,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+16006308171210,74.11,SUMATERA SELATAN,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+17006308111170,71.95,BENGKULU,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308111210,70.89,BENGKULU,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308121170,74.34,BENGKULU,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308121210,71.67,BENGKULU,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308131170,64.44,BENGKULU,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308131210,62.96,BENGKULU,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308141170,73.27,BENGKULU,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308141210,69.39,BENGKULU,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308151170,76.38,BENGKULU,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308151210,73.04,BENGKULU,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308161170,74.68,BENGKULU,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308161210,72.31,BENGKULU,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+17006308171170,72.68,BENGKULU,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+17006308171210,70.21,BENGKULU,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+18006308111170,70.01,LAMPUNG,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308111210,73.64,LAMPUNG,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308121170,72.76,LAMPUNG,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308121210,74.69,LAMPUNG,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308131170,62.93,LAMPUNG,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308131210,67.57,LAMPUNG,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308141170,69.33,LAMPUNG,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308141210,72.49,LAMPUNG,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308151170,75.52,LAMPUNG,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308151210,76.46,LAMPUNG,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308161170,75.62,LAMPUNG,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308161210,77.13,LAMPUNG,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+18006308171170,71.24,LAMPUNG,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+18006308171210,73.81,LAMPUNG,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+19006308111170,71.8,KEP. BANGKA BELITUNG,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308111210,73.71,KEP. BANGKA BELITUNG,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308121170,74.42,KEP. BANGKA BELITUNG,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308121210,74.78,KEP. BANGKA BELITUNG,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308131170,60.75,KEP. BANGKA BELITUNG,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308131210,62.29,KEP. BANGKA BELITUNG,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308141170,73.71,KEP. BANGKA BELITUNG,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308141210,72.48,KEP. BANGKA BELITUNG,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308151170,75.47,KEP. BANGKA BELITUNG,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308151210,74.9,KEP. BANGKA BELITUNG,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308161170,75.96,KEP. BANGKA BELITUNG,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308161210,77.68,KEP. BANGKA BELITUNG,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+19006308171170,72.23,KEP. BANGKA BELITUNG,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+19006308171210,72.85,KEP. BANGKA BELITUNG,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+21006308111170,76.14,KEP. RIAU,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308111210,77.02,KEP. RIAU,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308121170,77.74,KEP. RIAU,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308121210,78.53,KEP. RIAU,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308131170,69.84,KEP. RIAU,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308131210,71.2,KEP. RIAU,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308141170,76.77,KEP. RIAU,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308141210,73.83,KEP. RIAU,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308151170,79.91,KEP. RIAU,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308151210,79.65,KEP. RIAU,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308161170,79.23,KEP. RIAU,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308161210,78.82,KEP. RIAU,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+21006308171170,76.75,KEP. RIAU,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+21006308171210,76.68,KEP. RIAU,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+31006308111170,73.83,DKI JAKARTA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308111210,73.48,DKI JAKARTA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308121170,75.01,DKI JAKARTA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308121210,74.39,DKI JAKARTA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308131170,67.78,DKI JAKARTA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308131210,70.2,DKI JAKARTA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308141170,72.47,DKI JAKARTA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308141210,71.14,DKI JAKARTA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308151170,77.79,DKI JAKARTA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308151210,75.86,DKI JAKARTA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308161170,76.42,DKI JAKARTA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308161210,75.88,DKI JAKARTA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+31006308171170,74.04,DKI JAKARTA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+31006308171210,73.6,DKI JAKARTA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+32006308111170,70.12,JAWA BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308111210,72.94,JAWA BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308121170,72.54,JAWA BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308121210,73.81,JAWA BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308131170,64.18,JAWA BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308131210,66.91,JAWA BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308141170,70.94,JAWA BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308141210,71.5,JAWA BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308151170,75.07,JAWA BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308151210,74.62,JAWA BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308161170,74.79,JAWA BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308161210,75.2,JAWA BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+32006308171170,71.43,JAWA BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+32006308171210,72.63,JAWA BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+33006308111170,70.55,JAWA TENGAH,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308111210,72.59,JAWA TENGAH,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308121170,73.0,JAWA TENGAH,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308121210,74.08,JAWA TENGAH,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308131170,63.0,JAWA TENGAH,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308131210,62.45,JAWA TENGAH,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308141170,70.15,JAWA TENGAH,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308141210,70.76,JAWA TENGAH,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308151170,74.96,JAWA TENGAH,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308151210,74.77,JAWA TENGAH,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308161170,75.3,JAWA TENGAH,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308161210,76.08,JAWA TENGAH,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+33006308171170,71.36,JAWA TENGAH,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+33006308171210,72.0,JAWA TENGAH,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+34006308111170,72.13,DI YOGYAKARTA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308111210,72.27,DI YOGYAKARTA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308121170,74.87,DI YOGYAKARTA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308121210,74.26,DI YOGYAKARTA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308131170,68.08,DI YOGYAKARTA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308131210,65.72,DI YOGYAKARTA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308141170,71.19,DI YOGYAKARTA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308141210,72.1,DI YOGYAKARTA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308151170,77.1,DI YOGYAKARTA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308151210,76.36,DI YOGYAKARTA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308161170,76.59,DI YOGYAKARTA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308161210,75.43,DI YOGYAKARTA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+34006308171170,73.49,DI YOGYAKARTA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+34006308171210,72.86,DI YOGYAKARTA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+35006308111170,70.68,JAWA TIMUR,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308111210,73.98,JAWA TIMUR,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308121170,73.11,JAWA TIMUR,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308121210,74.68,JAWA TIMUR,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308131170,61.86,JAWA TIMUR,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308131210,65.32,JAWA TIMUR,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308141170,71.38,JAWA TIMUR,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308141210,72.28,JAWA TIMUR,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308151170,75.8,JAWA TIMUR,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308151210,75.65,JAWA TIMUR,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308161170,75.87,JAWA TIMUR,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308161210,76.21,JAWA TIMUR,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+35006308171170,71.66,JAWA TIMUR,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+35006308171210,73.19,JAWA TIMUR,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+36006308111170,69.65,BANTEN,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308111210,69.91,BANTEN,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308121170,72.58,BANTEN,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308121210,70.72,BANTEN,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308131170,64.11,BANTEN,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308131210,65.55,BANTEN,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308141170,68.65,BANTEN,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308141210,68.83,BANTEN,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308151170,75.15,BANTEN,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308151210,72.59,BANTEN,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308161170,75.5,BANTEN,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308161210,73.4,BANTEN,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+36006308171170,71.13,BANTEN,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+36006308171210,70.28,BANTEN,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+51006308111170,72.61,BALI,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308111210,73.07,BALI,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308121170,74.46,BALI,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308121210,74.07,BALI,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308131170,67.73,BALI,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308131210,69.2,BALI,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308141170,73.16,BALI,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308141210,71.41,BALI,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308151170,76.23,BALI,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308151210,74.25,BALI,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308161170,74.67,BALI,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308161210,74.9,BALI,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+51006308171170,73.27,BALI,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+51006308171210,72.92,BALI,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+52006308111170,71.81,NUSA TENGGARA BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308111210,70.83,NUSA TENGGARA BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308121170,74.73,NUSA TENGGARA BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308121210,72.84,NUSA TENGGARA BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308131170,62.06,NUSA TENGGARA BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308131210,60.64,NUSA TENGGARA BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308141170,73.9,NUSA TENGGARA BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308141210,72.45,NUSA TENGGARA BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308151170,76.2,NUSA TENGGARA BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308151210,73.73,NUSA TENGGARA BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308161170,76.4,NUSA TENGGARA BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308161210,75.46,NUSA TENGGARA BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+52006308171170,72.72,NUSA TENGGARA BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+52006308171210,71.18,NUSA TENGGARA BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+53006308111170,70.33,NUSA TENGGARA TIMUR,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308111210,73.11,NUSA TENGGARA TIMUR,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308121170,73.03,NUSA TENGGARA TIMUR,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308121210,74.98,NUSA TENGGARA TIMUR,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308131170,63.38,NUSA TENGGARA TIMUR,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308131210,63.48,NUSA TENGGARA TIMUR,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308141170,75.44,NUSA TENGGARA TIMUR,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308141210,73.51,NUSA TENGGARA TIMUR,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308151170,72.89,NUSA TENGGARA TIMUR,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308151210,73.79,NUSA TENGGARA TIMUR,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308161170,73.49,NUSA TENGGARA TIMUR,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308161210,75.0,NUSA TENGGARA TIMUR,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+53006308171170,71.53,NUSA TENGGARA TIMUR,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+53006308171210,72.48,NUSA TENGGARA TIMUR,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+61006308111170,71.27,KALIMANTAN BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308111210,74.13,KALIMANTAN BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308121170,73.25,KALIMANTAN BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308121210,75.36,KALIMANTAN BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308131170,61.39,KALIMANTAN BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308131210,67.66,KALIMANTAN BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308141170,73.21,KALIMANTAN BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308141210,73.75,KALIMANTAN BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308151170,75.99,KALIMANTAN BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308151210,75.57,KALIMANTAN BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308161170,74.74,KALIMANTAN BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308161210,76.85,KALIMANTAN BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+61006308171170,71.84,KALIMANTAN BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+61006308171210,74.02,KALIMANTAN BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+62006308111170,70.98,KALIMANTAN TENGAH,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308111210,74.01,KALIMANTAN TENGAH,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308121170,72.6,KALIMANTAN TENGAH,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308121210,74.67,KALIMANTAN TENGAH,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308131170,65.9,KALIMANTAN TENGAH,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308131210,65.97,KALIMANTAN TENGAH,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308141170,70.58,KALIMANTAN TENGAH,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308141210,73.23,KALIMANTAN TENGAH,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308151170,75.16,KALIMANTAN TENGAH,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308151210,77.57,KALIMANTAN TENGAH,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308161170,75.26,KALIMANTAN TENGAH,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308161210,77.85,KALIMANTAN TENGAH,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+62006308171170,71.89,KALIMANTAN TENGAH,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+62006308171210,74.05,KALIMANTAN TENGAH,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+63006308111170,72.59,KALIMANTAN SELATAN,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308111210,73.76,KALIMANTAN SELATAN,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308121170,74.81,KALIMANTAN SELATAN,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308121210,75.4,KALIMANTAN SELATAN,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308131170,65.1,KALIMANTAN SELATAN,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308131210,69.21,KALIMANTAN SELATAN,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308141170,72.89,KALIMANTAN SELATAN,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308141210,73.17,KALIMANTAN SELATAN,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308151170,76.63,KALIMANTAN SELATAN,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308151210,76.91,KALIMANTAN SELATAN,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308161170,76.82,KALIMANTAN SELATAN,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308161210,78.41,KALIMANTAN SELATAN,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+63006308171170,73.32,KALIMANTAN SELATAN,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+63006308171210,74.61,KALIMANTAN SELATAN,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+64006308111170,73.95,KALIMANTAN TIMUR,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308111210,75.49,KALIMANTAN TIMUR,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308121170,75.81,KALIMANTAN TIMUR,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308121210,76.96,KALIMANTAN TIMUR,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308131170,69.9,KALIMANTAN TIMUR,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308131210,71.58,KALIMANTAN TIMUR,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308141170,74.55,KALIMANTAN TIMUR,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308141210,74.34,KALIMANTAN TIMUR,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308151170,79.49,KALIMANTAN TIMUR,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308151210,78.52,KALIMANTAN TIMUR,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308161170,77.94,KALIMANTAN TIMUR,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308161210,77.84,KALIMANTAN TIMUR,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+64006308171170,75.41,KALIMANTAN TIMUR,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+64006308171210,75.91,KALIMANTAN TIMUR,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+65006308111170,71.35,KALIMANTAN UTARA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308111210,76.21,KALIMANTAN UTARA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308121170,75.64,KALIMANTAN UTARA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308121210,77.8,KALIMANTAN UTARA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308131170,65.39,KALIMANTAN UTARA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308131210,74.62,KALIMANTAN UTARA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308141170,74.7,KALIMANTAN UTARA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308141210,75.72,KALIMANTAN UTARA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308151170,80.72,KALIMANTAN UTARA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308151210,79.48,KALIMANTAN UTARA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308161170,78.98,KALIMANTAN UTARA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308161210,78.26,KALIMANTAN UTARA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+65006308171170,74.67,KALIMANTAN UTARA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+65006308171210,77.1,KALIMANTAN UTARA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+71006308111170,74.61,SULAWESI UTARA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308111210,77.17,SULAWESI UTARA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308121170,77.41,SULAWESI UTARA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308121210,78.58,SULAWESI UTARA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308131170,71.18,SULAWESI UTARA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308131210,71.63,SULAWESI UTARA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308141170,78.36,SULAWESI UTARA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308141210,78.08,SULAWESI UTARA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308151170,81.28,SULAWESI UTARA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308151210,79.71,SULAWESI UTARA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308161170,79.14,SULAWESI UTARA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308161210,79.37,SULAWESI UTARA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+71006308171170,77.11,SULAWESI UTARA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+71006308171210,77.54,SULAWESI UTARA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+72006308111170,72.37,SULAWESI TENGAH,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308111210,76.8,SULAWESI TENGAH,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308121170,76.32,SULAWESI TENGAH,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308121210,78.62,SULAWESI TENGAH,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308131170,65.72,SULAWESI TENGAH,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308131210,70.59,SULAWESI TENGAH,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308141170,74.93,SULAWESI TENGAH,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308141210,77.7,SULAWESI TENGAH,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308151170,77.31,SULAWESI TENGAH,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308151210,79.14,SULAWESI TENGAH,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308161170,78.66,SULAWESI TENGAH,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308161210,80.18,SULAWESI TENGAH,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+72006308171170,74.4,SULAWESI TENGAH,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+72006308171210,77.3,SULAWESI TENGAH,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+73006308111170,72.12,SULAWESI SELATAN,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308111210,74.02,SULAWESI SELATAN,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308121170,74.69,SULAWESI SELATAN,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308121210,75.21,SULAWESI SELATAN,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308131170,61.02,SULAWESI SELATAN,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308131210,67.05,SULAWESI SELATAN,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308141170,74.18,SULAWESI SELATAN,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308141210,73.45,SULAWESI SELATAN,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308151170,76.29,SULAWESI SELATAN,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308151210,75.77,SULAWESI SELATAN,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308161170,76.69,SULAWESI SELATAN,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308161210,77.41,SULAWESI SELATAN,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+73006308171170,72.71,SULAWESI SELATAN,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+73006308171210,73.96,SULAWESI SELATAN,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+74006308111170,70.94,SULAWESI TENGGARA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308111210,75.89,SULAWESI TENGGARA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308121170,75.11,SULAWESI TENGGARA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308121210,77.08,SULAWESI TENGGARA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308131170,64.49,SULAWESI TENGGARA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308131210,69.27,SULAWESI TENGGARA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308141170,74.49,SULAWESI TENGGARA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308141210,75.77,SULAWESI TENGGARA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308151170,77.88,SULAWESI TENGGARA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308151210,76.49,SULAWESI TENGGARA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308161170,77.75,SULAWESI TENGGARA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308161210,78.52,SULAWESI TENGGARA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+74006308171170,73.63,SULAWESI TENGGARA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+74006308171210,75.63,SULAWESI TENGGARA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+75006308111170,73.29,GORONTALO,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308111210,76.45,GORONTALO,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308121170,75.85,GORONTALO,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308121210,77.92,GORONTALO,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308131170,67.55,GORONTALO,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308131210,62.98,GORONTALO,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308141170,78.11,GORONTALO,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308141210,75.56,GORONTALO,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308151170,79.7,GORONTALO,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308151210,79.05,GORONTALO,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308161170,77.2,GORONTALO,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308161210,80.55,GORONTALO,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+75006308171170,75.41,GORONTALO,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+75006308171210,75.67,GORONTALO,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+76006308111170,67.55,SULAWESI BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308111210,74.09,SULAWESI BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308121170,73.51,SULAWESI BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308121210,76.87,SULAWESI BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308131170,66.41,SULAWESI BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308131210,71.03,SULAWESI BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308141170,74.71,SULAWESI BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308141210,75.37,SULAWESI BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308151170,75.77,SULAWESI BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308151210,79.71,SULAWESI BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308161170,75.35,SULAWESI BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308161210,79.34,SULAWESI BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+76006308171170,72.33,SULAWESI BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+76006308171210,76.19,SULAWESI BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+81006308111170,76.72,MALUKU,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308111210,80.33,MALUKU,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308121170,79.31,MALUKU,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308121210,80.84,MALUKU,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308131170,68.49,MALUKU,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308131210,71.46,MALUKU,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308141170,78.29,MALUKU,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308141210,78.51,MALUKU,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308151170,79.05,MALUKU,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308151210,81.71,MALUKU,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308161170,78.21,MALUKU,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308161210,80.89,MALUKU,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+81006308171170,76.84,MALUKU,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+81006308171210,79.12,MALUKU,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+82006308111170,77.07,MALUKU UTARA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308111210,80.67,MALUKU UTARA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308121170,79.83,MALUKU UTARA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308121210,81.39,MALUKU UTARA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308131170,72.68,MALUKU UTARA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308131210,70.49,MALUKU UTARA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308141170,78.94,MALUKU UTARA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308141210,79.38,MALUKU UTARA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308151170,82.83,MALUKU UTARA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308151210,81.57,MALUKU UTARA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308161170,81.81,MALUKU UTARA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308161210,81.88,MALUKU UTARA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+82006308171170,79.0,MALUKU UTARA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+82006308171210,79.41,MALUKU UTARA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+91006308111170,72.87,PAPUA BARAT,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308111210,77.26,PAPUA BARAT,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308121170,75.68,PAPUA BARAT,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308121210,78.47,PAPUA BARAT,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308131170,66.85,PAPUA BARAT,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308131210,66.34,PAPUA BARAT,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308141170,75.06,PAPUA BARAT,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308141210,75.55,PAPUA BARAT,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308151170,78.41,PAPUA BARAT,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308151210,79.3,PAPUA BARAT,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308161170,76.97,PAPUA BARAT,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308161210,80.02,PAPUA BARAT,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+91006308171170,74.46,PAPUA BARAT,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+91006308171210,76.37,PAPUA BARAT,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+94006308111170,72.09,PAPUA,2017,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308111210,73.71,PAPUA,2021,Kemandirian,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308121170,72.89,PAPUA,2017,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308121210,73.47,PAPUA,2021,Penguasaan Lingkungan,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308131170,62.42,PAPUA,2017,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308131210,65.37,PAPUA,2021,Pengembangan Diri,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308141170,69.3,PAPUA,2017,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308141210,73.42,PAPUA,2021,Hubungan Positif Dengan Orang Lain,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308151170,69.22,PAPUA,2017,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308151210,71.73,PAPUA,2021,Tujuan Hidup ,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308161170,73.02,PAPUA,2017,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308161210,74.14,PAPUA,2021,Penerimaan Diri ,Dimensi Makna Hidup Indeks Kebahagiaan
+94006308171170,69.98,PAPUA,2017,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan
+94006308171210,72.07,PAPUA,2021,Dimensi Makna Hidup (Total),Dimensi Makna Hidup Indeks Kebahagiaan

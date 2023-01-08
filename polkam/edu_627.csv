@@ -1,0 +1,911 @@
+id,values,provinsi,tahun,aspek,data_title
+99996277941170,59.9,INDONESIA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277941210,62.79,INDONESIA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277951170,67.15,INDONESIA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277951210,72.37,INDONESIA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277961170,62.99,INDONESIA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277961210,66.76,INDONESIA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277971170,71.12,INDONESIA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277971210,76.28,INDONESIA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277981170,69.28,INDONESIA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277981210,73.64,INDONESIA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277991170,65.98,INDONESIA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996277991210,70.26,INDONESIA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278001170,75.45,INDONESIA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278001210,79.1,INDONESIA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278011170,76.09,INDONESIA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278011210,81.56,INDONESIA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278021170,77.15,INDONESIA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278021210,81.2,INDONESIA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278031170,80.05,INDONESIA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278031210,82.56,INDONESIA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278041170,72.08,INDONESIA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278041210,75.87,INDONESIA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278051170,76.16,INDONESIA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278051210,80.07,INDONESIA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278061170,71.07,INDONESIA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+99996278061210,75.16,INDONESIA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277941170,60.6,ACEH,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277941210,62.99,ACEH,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277951170,68.83,ACEH,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277951210,72.89,ACEH,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277961170,64.77,ACEH,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277961210,67.4,ACEH,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277971170,72.19,ACEH,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277971210,75.45,ACEH,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277981170,70.17,ACEH,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277981210,71.6,ACEH,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277991170,67.24,ACEH,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006277991210,70.0,ACEH,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278001170,78.42,ACEH,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278001210,80.93,ACEH,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278011170,78.09,ACEH,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278011210,81.32,ACEH,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278021170,81.07,ACEH,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278021210,81.6,ACEH,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278031170,82.44,ACEH,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278031210,84.29,ACEH,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278041170,73.26,ACEH,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278041210,76.81,ACEH,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278051170,78.66,ACEH,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278051210,81.01,ACEH,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278061170,72.95,ACEH,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+11006278061210,75.5,ACEH,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277941170,56.68,SUMATERA UTARA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277941210,61.57,SUMATERA UTARA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277951170,63.93,SUMATERA UTARA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277951210,70.81,SUMATERA UTARA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277961170,58.7,SUMATERA UTARA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277961210,64.75,SUMATERA UTARA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277971170,69.09,SUMATERA UTARA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277971210,76.0,SUMATERA UTARA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277981170,66.93,SUMATERA UTARA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277981210,72.95,SUMATERA UTARA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277991170,62.89,SUMATERA UTARA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006277991210,69.05,SUMATERA UTARA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278001170,73.86,SUMATERA UTARA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278001210,79.2,SUMATERA UTARA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278011170,73.38,SUMATERA UTARA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278011210,80.94,SUMATERA UTARA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278021170,73.67,SUMATERA UTARA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278021210,78.9,SUMATERA UTARA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278031170,79.22,SUMATERA UTARA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278031210,82.62,SUMATERA UTARA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278041170,70.79,SUMATERA UTARA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278041210,75.33,SUMATERA UTARA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278051170,74.18,SUMATERA UTARA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278051210,79.44,SUMATERA UTARA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278061170,68.54,SUMATERA UTARA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+12006278061210,74.24,SUMATERA UTARA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277941170,60.53,SUMATERA BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277941210,62.56,SUMATERA BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277951170,68.12,SUMATERA BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277951210,71.29,SUMATERA BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277961170,64.25,SUMATERA BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277961210,66.06,SUMATERA BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277971170,72.02,SUMATERA BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277971210,75.82,SUMATERA BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277981170,70.72,SUMATERA BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277981210,73.11,SUMATERA BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277991170,67.03,SUMATERA BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006277991210,69.63,SUMATERA BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278001170,76.62,SUMATERA BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278001210,77.86,SUMATERA BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278011170,78.12,SUMATERA BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278011210,81.52,SUMATERA BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278021170,79.28,SUMATERA BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278021210,80.54,SUMATERA BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278031170,81.28,SUMATERA BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278031210,82.64,SUMATERA BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278041170,72.21,SUMATERA BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278041210,74.13,SUMATERA BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278051170,77.5,SUMATERA BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278051210,79.34,SUMATERA BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278061170,72.27,SUMATERA BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+13006278061210,74.49,SUMATERA BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277941170,61.25,RIAU,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277941210,61.0,RIAU,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277951170,68.06,RIAU,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277951210,72.8,RIAU,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277961170,63.81,RIAU,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277961210,67.02,RIAU,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277971170,72.03,RIAU,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277971210,76.57,RIAU,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277981170,71.41,RIAU,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277981210,74.06,RIAU,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277991170,67.19,RIAU,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006277991210,70.21,RIAU,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278001170,76.41,RIAU,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278001210,79.84,RIAU,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278011170,74.19,RIAU,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278011210,81.77,RIAU,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278021170,77.16,RIAU,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278021210,81.09,RIAU,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278031170,80.76,RIAU,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278031210,84.64,RIAU,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278041170,72.96,RIAU,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278041210,77.41,RIAU,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278051170,76.28,RIAU,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278051210,80.95,RIAU,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278061170,71.74,RIAU,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+14006278061210,75.58,RIAU,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277941170,59.28,JAMBI,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277941210,64.29,JAMBI,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277951170,66.73,JAMBI,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277951210,74.55,JAMBI,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277961170,63.36,JAMBI,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277961210,69.85,JAMBI,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277971170,70.97,JAMBI,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277971210,77.02,JAMBI,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277981170,69.77,JAMBI,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277981210,74.47,JAMBI,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277991170,65.93,JAMBI,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006277991210,72.0,JAMBI,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278001170,76.22,JAMBI,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278001210,80.17,JAMBI,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278011170,75.97,JAMBI,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278011210,82.63,JAMBI,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278021170,76.9,JAMBI,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278021210,81.46,JAMBI,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278031170,79.35,JAMBI,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278031210,85.11,JAMBI,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278041170,72.08,JAMBI,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278041210,77.66,JAMBI,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278051170,76.12,JAMBI,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278051210,81.4,JAMBI,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278061170,71.02,JAMBI,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+15006278061210,76.7,JAMBI,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277941170,61.29,SUMATERA SELATAN,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277941210,62.06,SUMATERA SELATAN,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277951170,68.0,SUMATERA SELATAN,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277951210,72.03,SUMATERA SELATAN,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277961170,64.22,SUMATERA SELATAN,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277961210,65.65,SUMATERA SELATAN,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277971170,72.26,SUMATERA SELATAN,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277971210,77.19,SUMATERA SELATAN,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277981170,69.88,SUMATERA SELATAN,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277981210,73.68,SUMATERA SELATAN,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277991170,67.01,SUMATERA SELATAN,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006277991210,69.96,SUMATERA SELATAN,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278001170,76.56,SUMATERA SELATAN,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278001210,80.39,SUMATERA SELATAN,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278011170,76.07,SUMATERA SELATAN,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278011210,81.5,SUMATERA SELATAN,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278021170,76.29,SUMATERA SELATAN,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278021210,79.87,SUMATERA SELATAN,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278031170,82.18,SUMATERA SELATAN,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278031210,85.14,SUMATERA SELATAN,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278041170,74.09,SUMATERA SELATAN,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278041210,76.38,SUMATERA SELATAN,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278051170,77.03,SUMATERA SELATAN,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278051210,80.68,SUMATERA SELATAN,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278061170,72.02,SUMATERA SELATAN,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+16006278061210,75.32,SUMATERA SELATAN,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277941170,58.57,BENGKULU,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277941210,58.07,BENGKULU,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277951170,65.09,BENGKULU,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277951210,69.06,BENGKULU,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277961170,59.8,BENGKULU,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277961210,64.69,BENGKULU,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277971170,69.99,BENGKULU,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277971210,73.88,BENGKULU,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277981170,67.28,BENGKULU,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277981210,70.99,BENGKULU,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277991170,63.96,BENGKULU,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006277991210,67.26,BENGKULU,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278001170,76.43,BENGKULU,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278001210,77.59,BENGKULU,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278011170,77.57,BENGKULU,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278011210,79.69,BENGKULU,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278021170,77.1,BENGKULU,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278021210,80.61,BENGKULU,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278031170,81.51,BENGKULU,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278031210,81.8,BENGKULU,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278041170,71.98,BENGKULU,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278041210,72.26,BENGKULU,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278051170,76.94,BENGKULU,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278051210,78.4,BENGKULU,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278061170,70.45,BENGKULU,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+17006278061210,72.83,BENGKULU,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277941170,57.92,LAMPUNG,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277941210,62.44,LAMPUNG,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277951170,63.87,LAMPUNG,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277951210,71.5,LAMPUNG,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277961170,59.87,LAMPUNG,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277961210,66.1,LAMPUNG,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277971170,70.88,LAMPUNG,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277971210,76.74,LAMPUNG,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277981170,66.23,LAMPUNG,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277981210,72.74,LAMPUNG,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277991170,63.54,LAMPUNG,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006277991210,69.75,LAMPUNG,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278001170,75.74,LAMPUNG,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278001210,79.18,LAMPUNG,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278011170,77.29,LAMPUNG,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278011210,82.69,LAMPUNG,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278021170,75.01,LAMPUNG,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278021210,78.98,LAMPUNG,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278031170,79.58,LAMPUNG,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278031210,83.2,LAMPUNG,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278041170,71.39,LAMPUNG,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278041210,76.93,LAMPUNG,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278051170,75.84,LAMPUNG,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278051210,80.22,LAMPUNG,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278061170,69.69,LAMPUNG,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+18006278061210,74.98,LAMPUNG,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277941170,62.03,KEP. BANGKA BELITUNG,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277941210,62.07,KEP. BANGKA BELITUNG,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277951170,69.31,KEP. BANGKA BELITUNG,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277951210,73.41,KEP. BANGKA BELITUNG,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277961170,65.49,KEP. BANGKA BELITUNG,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277961210,68.04,KEP. BANGKA BELITUNG,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277971170,72.8,KEP. BANGKA BELITUNG,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277971210,76.35,KEP. BANGKA BELITUNG,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277981170,74.18,KEP. BANGKA BELITUNG,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277981210,76.66,KEP. BANGKA BELITUNG,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277991170,68.68,KEP. BANGKA BELITUNG,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006277991210,71.26,KEP. BANGKA BELITUNG,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278001170,76.7,KEP. BANGKA BELITUNG,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278001210,79.97,KEP. BANGKA BELITUNG,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278011170,77.93,KEP. BANGKA BELITUNG,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278011210,83.36,KEP. BANGKA BELITUNG,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278021170,79.67,KEP. BANGKA BELITUNG,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278021210,84.04,KEP. BANGKA BELITUNG,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278031170,82.24,KEP. BANGKA BELITUNG,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278031210,84.13,KEP. BANGKA BELITUNG,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278041170,74.83,KEP. BANGKA BELITUNG,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278041210,76.66,KEP. BANGKA BELITUNG,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278051170,78.24,KEP. BANGKA BELITUNG,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278051210,81.62,KEP. BANGKA BELITUNG,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278061170,73.46,KEP. BANGKA BELITUNG,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+19006278061210,76.44,KEP. BANGKA BELITUNG,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277941170,64.04,KEP. RIAU,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277941210,68.54,KEP. RIAU,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277951170,70.49,KEP. RIAU,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277951210,75.34,KEP. RIAU,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277961170,64.43,KEP. RIAU,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277961210,67.63,KEP. RIAU,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277971170,74.84,KEP. RIAU,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277971210,78.36,KEP. RIAU,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277981170,73.27,KEP. RIAU,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277981210,79.25,KEP. RIAU,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277991170,69.23,KEP. RIAU,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006277991210,73.63,KEP. RIAU,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278001170,76.14,KEP. RIAU,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278001210,80.81,KEP. RIAU,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278011170,73.56,KEP. RIAU,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278011210,81.99,KEP. RIAU,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278021170,76.25,KEP. RIAU,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278021210,80.99,KEP. RIAU,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278031170,83.37,KEP. RIAU,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278031210,87.06,KEP. RIAU,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278041170,76.24,KEP. RIAU,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278041210,78.18,KEP. RIAU,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278051170,77.05,KEP. RIAU,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278051210,81.8,KEP. RIAU,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278061170,73.14,KEP. RIAU,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+21006278061210,77.72,KEP. RIAU,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277941170,63.38,DKI JAKARTA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277941210,68.67,DKI JAKARTA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277951170,69.08,DKI JAKARTA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277951210,74.38,DKI JAKARTA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277961170,65.74,DKI JAKARTA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277961210,67.48,DKI JAKARTA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277971170,71.93,DKI JAKARTA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277971210,76.41,DKI JAKARTA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277981170,73.43,DKI JAKARTA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277981210,75.61,DKI JAKARTA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277991170,68.64,DKI JAKARTA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006277991210,72.35,DKI JAKARTA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278001170,73.23,DKI JAKARTA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278001210,75.74,DKI JAKARTA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278011170,73.57,DKI JAKARTA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278011210,78.67,DKI JAKARTA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278021170,74.03,DKI JAKARTA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278021210,78.12,DKI JAKARTA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278031170,79.41,DKI JAKARTA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278031210,81.69,DKI JAKARTA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278041170,72.75,DKI JAKARTA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278041210,76.81,DKI JAKARTA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278051170,74.56,DKI JAKARTA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278051210,78.15,DKI JAKARTA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278061170,71.6,DKI JAKARTA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+31006278061210,75.25,DKI JAKARTA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277941170,59.51,JAWA BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277941210,61.88,JAWA BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277951170,66.86,JAWA BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277951210,71.44,JAWA BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277961170,62.26,JAWA BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277961210,65.49,JAWA BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277971170,70.39,JAWA BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277971210,75.34,JAWA BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277981170,68.94,JAWA BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277981210,72.53,JAWA BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277991170,65.48,JAWA BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006277991210,69.21,JAWA BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278001170,73.61,JAWA BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278001210,77.78,JAWA BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278011170,75.65,JAWA BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278011210,81.09,JAWA BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278021170,74.89,JAWA BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278021210,79.7,JAWA BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278031170,79.3,JAWA BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278031210,81.56,JAWA BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278041170,71.38,JAWA BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278041210,75.52,JAWA BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278051170,74.96,JAWA BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278051210,79.13,JAWA BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278061170,70.22,JAWA BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+32006278061210,74.17,JAWA BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277941170,60.1,JAWA TENGAH,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277941210,62.53,JAWA TENGAH,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277951170,66.15,JAWA TENGAH,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277951210,71.31,JAWA TENGAH,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277961170,62.09,JAWA TENGAH,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277961210,65.57,JAWA TENGAH,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277971170,71.74,JAWA TENGAH,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277971210,76.06,JAWA TENGAH,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277981170,68.3,JAWA TENGAH,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277981210,72.61,JAWA TENGAH,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277991170,65.5,JAWA TENGAH,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006277991210,69.46,JAWA TENGAH,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278001170,75.75,JAWA TENGAH,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278001210,79.46,JAWA TENGAH,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278011170,76.72,JAWA TENGAH,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278011210,81.78,JAWA TENGAH,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278021170,78.99,JAWA TENGAH,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278021210,82.76,JAWA TENGAH,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278031170,79.35,JAWA TENGAH,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278031210,81.69,JAWA TENGAH,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278041170,70.92,JAWA TENGAH,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278041210,74.84,JAWA TENGAH,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278051170,76.34,JAWA TENGAH,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278051210,80.12,JAWA TENGAH,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278061170,70.92,JAWA TENGAH,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+33006278061210,74.79,JAWA TENGAH,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277941170,63.31,DI YOGYAKARTA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277941210,64.78,DI YOGYAKARTA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277951170,67.92,DI YOGYAKARTA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277951210,70.08,DI YOGYAKARTA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277961170,66.14,DI YOGYAKARTA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277961210,63.68,DI YOGYAKARTA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277971170,72.07,DI YOGYAKARTA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277971210,76.35,DI YOGYAKARTA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277981170,70.78,DI YOGYAKARTA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277981210,73.4,DI YOGYAKARTA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277991170,67.95,DI YOGYAKARTA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006277991210,69.38,DI YOGYAKARTA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278001170,75.59,DI YOGYAKARTA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278001210,79.47,DI YOGYAKARTA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278011170,76.18,DI YOGYAKARTA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278011210,81.42,DI YOGYAKARTA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278021170,78.34,DI YOGYAKARTA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278021210,82.47,DI YOGYAKARTA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278031170,79.51,DI YOGYAKARTA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278031210,82.12,DI YOGYAKARTA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278041170,70.43,DI YOGYAKARTA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278041210,72.52,DI YOGYAKARTA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278051170,76.02,DI YOGYAKARTA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278051210,79.64,DI YOGYAKARTA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278061170,71.98,DI YOGYAKARTA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+34006278061210,74.51,DI YOGYAKARTA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277941170,60.03,JAWA TIMUR,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277941210,62.51,JAWA TIMUR,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277951170,67.14,JAWA TIMUR,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277951210,72.88,JAWA TIMUR,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277961170,64.26,JAWA TIMUR,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277961210,69.06,JAWA TIMUR,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277971170,71.83,JAWA TIMUR,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277971210,77.14,JAWA TIMUR,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277981170,70.37,JAWA TIMUR,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277981210,75.69,JAWA TIMUR,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277991170,66.63,JAWA TIMUR,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006277991210,71.4,JAWA TIMUR,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278001170,75.93,JAWA TIMUR,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278001210,79.91,JAWA TIMUR,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278011170,77.29,JAWA TIMUR,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278011210,82.91,JAWA TIMUR,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278021170,78.89,JAWA TIMUR,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278021210,82.81,JAWA TIMUR,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278031170,79.42,JAWA TIMUR,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278031210,81.75,JAWA TIMUR,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278041170,72.11,JAWA TIMUR,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278041210,76.2,JAWA TIMUR,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278051170,76.72,JAWA TIMUR,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278051210,80.73,JAWA TIMUR,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278061170,71.68,JAWA TIMUR,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+35006278061210,76.07,JAWA TIMUR,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277941170,59.33,BANTEN,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277941210,61.38,BANTEN,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277951170,67.53,BANTEN,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277951210,71.09,BANTEN,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277961170,62.73,BANTEN,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277961210,65.56,BANTEN,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277971170,71.39,BANTEN,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277971210,73.38,BANTEN,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277981170,68.46,BANTEN,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277981210,71.01,BANTEN,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277991170,65.78,BANTEN,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006277991210,68.42,BANTEN,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278001170,74.63,BANTEN,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278001210,74.59,BANTEN,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278011170,74.6,BANTEN,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278011210,78.67,BANTEN,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278021170,74.49,BANTEN,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278021210,77.57,BANTEN,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278031170,79.43,BANTEN,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278031210,79.04,BANTEN,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278041170,71.68,BANTEN,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278041210,74.25,BANTEN,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278051170,74.97,BANTEN,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278051210,76.79,BANTEN,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278061170,70.37,BANTEN,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+36006278061210,72.61,BANTEN,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277941170,63.75,BALI,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277941210,65.44,BALI,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277951170,69.83,BALI,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277951210,72.08,BALI,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277961170,65.89,BALI,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277961210,62.97,BALI,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277971170,71.23,BALI,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277971210,76.01,BALI,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277981170,71.93,BALI,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277981210,73.71,BALI,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277991170,68.48,BALI,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006277991210,69.78,BALI,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278001170,74.81,BALI,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278001210,78.24,BALI,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278011170,76.05,BALI,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278011210,81.98,BALI,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278021170,80.16,BALI,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278021210,82.62,BALI,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278031170,79.88,BALI,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278031210,82.01,BALI,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278041170,70.89,BALI,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278041210,75.13,BALI,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278051170,76.32,BALI,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278051210,79.98,BALI,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278061170,72.4,BALI,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+51006278061210,74.88,BALI,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277941170,58.88,NUSA TENGGARA BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277941210,57.44,NUSA TENGGARA BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277951170,67.95,NUSA TENGGARA BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277951210,70.55,NUSA TENGGARA BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277961170,61.47,NUSA TENGGARA BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277961210,63.45,NUSA TENGGARA BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277971170,72.01,NUSA TENGGARA BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277971210,76.15,NUSA TENGGARA BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277981170,66.72,NUSA TENGGARA BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277981210,70.7,NUSA TENGGARA BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277991170,65.25,NUSA TENGGARA BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006277991210,67.51,NUSA TENGGARA BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278001170,78.1,NUSA TENGGARA BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278001210,80.7,NUSA TENGGARA BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278011170,78.32,NUSA TENGGARA BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278011210,81.58,NUSA TENGGARA BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278021170,78.19,NUSA TENGGARA BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278021210,81.76,NUSA TENGGARA BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278031170,81.74,NUSA TENGGARA BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278031210,84.16,NUSA TENGGARA BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278041170,73.13,NUSA TENGGARA BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278041210,73.31,NUSA TENGGARA BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278051170,77.93,NUSA TENGGARA BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278051210,80.36,NUSA TENGGARA BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278061170,71.59,NUSA TENGGARA BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+52006278061210,73.93,NUSA TENGGARA BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277941170,59.42,NUSA TENGGARA TIMUR,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277941210,61.55,NUSA TENGGARA TIMUR,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277951170,65.31,NUSA TENGGARA TIMUR,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277951210,71.78,NUSA TENGGARA TIMUR,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277961170,59.02,NUSA TENGGARA TIMUR,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277961210,63.57,NUSA TENGGARA TIMUR,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277971170,67.56,NUSA TENGGARA TIMUR,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277971210,74.29,NUSA TENGGARA TIMUR,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277981170,64.02,NUSA TENGGARA TIMUR,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277981210,69.59,NUSA TENGGARA TIMUR,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277991170,62.92,NUSA TENGGARA TIMUR,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006277991210,68.02,NUSA TENGGARA TIMUR,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278001170,77.21,NUSA TENGGARA TIMUR,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278001210,81.7,NUSA TENGGARA TIMUR,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278011170,76.11,NUSA TENGGARA TIMUR,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278011210,82.39,NUSA TENGGARA TIMUR,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278021170,79.17,NUSA TENGGARA TIMUR,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278021210,83.37,NUSA TENGGARA TIMUR,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278031170,79.86,NUSA TENGGARA TIMUR,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278031210,83.18,NUSA TENGGARA TIMUR,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278041170,71.3,NUSA TENGGARA TIMUR,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278041210,75.18,NUSA TENGGARA TIMUR,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278051170,76.75,NUSA TENGGARA TIMUR,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278051210,81.21,NUSA TENGGARA TIMUR,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278061170,69.83,NUSA TENGGARA TIMUR,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+53006278061210,74.61,NUSA TENGGARA TIMUR,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277941170,56.62,KALIMANTAN BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277941210,60.92,KALIMANTAN BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277951170,65.43,KALIMANTAN BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277951210,72.27,KALIMANTAN BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277961170,61.49,KALIMANTAN BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277961210,67.26,KALIMANTAN BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277971170,69.96,KALIMANTAN BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277971210,76.33,KALIMANTAN BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277981170,68.63,KALIMANTAN BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277981210,74.79,KALIMANTAN BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277991170,64.33,KALIMANTAN BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006277991210,70.25,KALIMANTAN BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278001170,76.48,KALIMANTAN BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278001210,80.9,KALIMANTAN BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278011170,74.81,KALIMANTAN BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278011210,80.94,KALIMANTAN BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278021170,79.04,KALIMANTAN BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278021210,82.81,KALIMANTAN BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278031170,81.63,KALIMANTAN BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278031210,84.07,KALIMANTAN BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278041170,72.9,KALIMANTAN BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278041210,75.98,KALIMANTAN BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278051170,76.94,KALIMANTAN BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278051210,80.95,KALIMANTAN BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278061170,70.64,KALIMANTAN BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+61006278061210,75.6,KALIMANTAN BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277941170,61.13,KALIMANTAN TENGAH,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277941210,64.03,KALIMANTAN TENGAH,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277951170,68.41,KALIMANTAN TENGAH,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277951210,73.89,KALIMANTAN TENGAH,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277961170,64.67,KALIMANTAN TENGAH,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277961210,69.24,KALIMANTAN TENGAH,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277971170,70.94,KALIMANTAN TENGAH,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277971210,77.77,KALIMANTAN TENGAH,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277981170,70.66,KALIMANTAN TENGAH,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277981210,75.13,KALIMANTAN TENGAH,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277991170,67.11,KALIMANTAN TENGAH,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006277991210,71.93,KALIMANTAN TENGAH,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278001170,73.69,KALIMANTAN TENGAH,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278001210,80.28,KALIMANTAN TENGAH,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278011170,73.64,KALIMANTAN TENGAH,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278011210,79.57,KALIMANTAN TENGAH,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278021170,76.57,KALIMANTAN TENGAH,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278021210,82.05,KALIMANTAN TENGAH,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278031170,78.96,KALIMANTAN TENGAH,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278031210,84.3,KALIMANTAN TENGAH,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278041170,72.03,KALIMANTAN TENGAH,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278041210,76.87,KALIMANTAN TENGAH,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278051170,74.93,KALIMANTAN TENGAH,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278051210,80.6,KALIMANTAN TENGAH,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278061170,71.02,KALIMANTAN TENGAH,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+62006278061210,76.27,KALIMANTAN TENGAH,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277941170,58.08,KALIMANTAN SELATAN,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277941210,63.74,KALIMANTAN SELATAN,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277951170,66.34,KALIMANTAN SELATAN,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277951210,74.58,KALIMANTAN SELATAN,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277961170,62.64,KALIMANTAN SELATAN,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277961210,70.3,KALIMANTAN SELATAN,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277971170,69.42,KALIMANTAN SELATAN,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277971210,77.22,KALIMANTAN SELATAN,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277981170,69.84,KALIMANTAN SELATAN,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277981210,75.61,KALIMANTAN SELATAN,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277991170,65.21,KALIMANTAN SELATAN,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006277991210,72.27,KALIMANTAN SELATAN,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278001170,73.66,KALIMANTAN SELATAN,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278001210,78.41,KALIMANTAN SELATAN,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278011170,73.79,KALIMANTAN SELATAN,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278011210,80.45,KALIMANTAN SELATAN,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278021170,77.63,KALIMANTAN SELATAN,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278021210,81.72,KALIMANTAN SELATAN,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278031170,80.63,KALIMANTAN SELATAN,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278031210,84.16,KALIMANTAN SELATAN,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278041170,72.57,KALIMANTAN SELATAN,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278041210,76.09,KALIMANTAN SELATAN,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278051170,75.58,KALIMANTAN SELATAN,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278051210,80.13,KALIMANTAN SELATAN,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278061170,70.4,KALIMANTAN SELATAN,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+63006278061210,76.2,KALIMANTAN SELATAN,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277941170,62.21,KALIMANTAN TIMUR,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277941210,68.12,KALIMANTAN TIMUR,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277951170,71.32,KALIMANTAN TIMUR,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277951210,76.11,KALIMANTAN TIMUR,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277961170,66.75,KALIMANTAN TIMUR,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277961210,71.44,KALIMANTAN TIMUR,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277971170,73.46,KALIMANTAN TIMUR,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277971210,78.9,KALIMANTAN TIMUR,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277981170,74.56,KALIMANTAN TIMUR,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277981210,78.35,KALIMANTAN TIMUR,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277991170,69.62,KALIMANTAN TIMUR,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006277991210,74.51,KALIMANTAN TIMUR,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278001170,76.24,KALIMANTAN TIMUR,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278001210,78.3,KALIMANTAN TIMUR,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278011170,76.02,KALIMANTAN TIMUR,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278011210,78.39,KALIMANTAN TIMUR,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278021170,76.68,KALIMANTAN TIMUR,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278021210,80.07,KALIMANTAN TIMUR,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278031170,83.02,KALIMANTAN TIMUR,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278031210,84.79,KALIMANTAN TIMUR,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278041170,75.14,KALIMANTAN TIMUR,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278041210,78.02,KALIMANTAN TIMUR,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278051170,77.39,KALIMANTAN TIMUR,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278051210,79.86,KALIMANTAN TIMUR,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278061170,73.5,KALIMANTAN TIMUR,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+64006278061210,77.18,KALIMANTAN TIMUR,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277941170,58.97,KALIMANTAN UTARA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277941210,68.89,KALIMANTAN UTARA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277951170,69.18,KALIMANTAN UTARA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277951210,79.32,KALIMANTAN UTARA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277961170,61.72,KALIMANTAN UTARA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277961210,73.21,KALIMANTAN UTARA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277971170,69.78,KALIMANTAN UTARA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277971210,80.99,KALIMANTAN UTARA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277981170,71.57,KALIMANTAN UTARA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277981210,80.05,KALIMANTAN UTARA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277991170,66.19,KALIMANTAN UTARA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006277991210,76.45,KALIMANTAN UTARA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278001170,77.8,KALIMANTAN UTARA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278001210,82.21,KALIMANTAN UTARA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278011170,74.69,KALIMANTAN UTARA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278011210,82.71,KALIMANTAN UTARA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278021170,75.64,KALIMANTAN UTARA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278021210,84.14,KALIMANTAN UTARA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278031170,85.25,KALIMANTAN UTARA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278031210,86.62,KALIMANTAN UTARA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278041170,75.18,KALIMANTAN UTARA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278041210,79.71,KALIMANTAN UTARA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278051170,77.7,KALIMANTAN UTARA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278051210,83.06,KALIMANTAN UTARA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278061170,71.94,KALIMANTAN UTARA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+65006278061210,79.75,KALIMANTAN UTARA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277941170,65.66,SULAWESI UTARA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277941210,70.86,SULAWESI UTARA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277951170,71.94,SULAWESI UTARA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277951210,78.26,SULAWESI UTARA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277961170,66.21,SULAWESI UTARA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277961210,72.34,SULAWESI UTARA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277971170,73.61,SULAWESI UTARA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277971210,79.58,SULAWESI UTARA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277981170,73.82,SULAWESI UTARA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277981210,79.03,SULAWESI UTARA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277991170,70.14,SULAWESI UTARA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006277991210,75.93,SULAWESI UTARA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278001170,79.14,SULAWESI UTARA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278001210,82.97,SULAWESI UTARA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278011170,77.2,SULAWESI UTARA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278011210,84.97,SULAWESI UTARA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278021170,78.09,SULAWESI UTARA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278021210,84.99,SULAWESI UTARA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278031170,82.88,SULAWESI UTARA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278031210,85.34,SULAWESI UTARA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278041170,74.55,SULAWESI UTARA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278041210,80.35,SULAWESI UTARA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278051170,78.4,SULAWESI UTARA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278051210,83.73,SULAWESI UTARA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278061170,74.27,SULAWESI UTARA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+71006278061210,79.83,SULAWESI UTARA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277941170,60.06,SULAWESI TENGAH,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277941210,67.74,SULAWESI TENGAH,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277951170,66.65,SULAWESI TENGAH,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277951210,77.38,SULAWESI TENGAH,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277961170,59.92,SULAWESI TENGAH,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277961210,71.1,SULAWESI TENGAH,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277971170,68.86,SULAWESI TENGAH,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277971210,79.12,SULAWESI TENGAH,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277981170,64.56,SULAWESI TENGAH,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277981210,75.52,SULAWESI TENGAH,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277991170,63.86,SULAWESI TENGAH,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006277991210,74.1,SULAWESI TENGAH,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278001170,78.71,SULAWESI TENGAH,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278001210,82.49,SULAWESI TENGAH,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278011170,77.17,SULAWESI TENGAH,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278011210,83.37,SULAWESI TENGAH,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278021170,77.8,SULAWESI TENGAH,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278021210,83.57,SULAWESI TENGAH,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278031170,83.88,SULAWESI TENGAH,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278031210,86.73,SULAWESI TENGAH,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278041170,74.49,SULAWESI TENGAH,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278041210,78.98,SULAWESI TENGAH,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278051170,78.42,SULAWESI TENGAH,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278051210,83.03,SULAWESI TENGAH,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278061170,71.14,SULAWESI TENGAH,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+72006278061210,78.57,SULAWESI TENGAH,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277941170,57.71,SULAWESI SELATAN,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277941210,61.95,SULAWESI SELATAN,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277951170,69.46,SULAWESI SELATAN,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277951210,74.31,SULAWESI SELATAN,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277961170,64.61,SULAWESI SELATAN,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277961210,68.99,SULAWESI SELATAN,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277971170,69.23,SULAWESI SELATAN,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277971210,76.82,SULAWESI SELATAN,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277981170,70.76,SULAWESI SELATAN,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277981210,74.1,SULAWESI SELATAN,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277991170,66.42,SULAWESI SELATAN,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006277991210,71.21,SULAWESI SELATAN,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278001170,77.27,SULAWESI SELATAN,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278001210,80.52,SULAWESI SELATAN,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278011170,77.34,SULAWESI SELATAN,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278011210,83.04,SULAWESI SELATAN,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278021170,79.81,SULAWESI SELATAN,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278021210,83.47,SULAWESI SELATAN,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278031170,82.01,SULAWESI SELATAN,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278031210,84.24,SULAWESI SELATAN,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278041170,74.28,SULAWESI SELATAN,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278041210,76.91,SULAWESI SELATAN,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278051170,78.12,SULAWESI SELATAN,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278051210,81.64,SULAWESI SELATAN,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278061170,72.27,SULAWESI SELATAN,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+73006278061210,76.42,SULAWESI SELATAN,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277941170,56.45,SULAWESI TENGGARA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277941210,61.52,SULAWESI TENGGARA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277951170,66.6,SULAWESI TENGGARA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277951210,75.45,SULAWESI TENGGARA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277961170,60.42,SULAWESI TENGGARA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277961210,67.92,SULAWESI TENGGARA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277971170,69.3,SULAWESI TENGGARA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277971210,77.36,SULAWESI TENGGARA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277981170,65.64,SULAWESI TENGGARA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277981210,74.01,SULAWESI TENGGARA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277991170,63.6,SULAWESI TENGGARA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006277991210,71.21,SULAWESI TENGGARA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278001170,78.99,SULAWESI TENGGARA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278001210,83.34,SULAWESI TENGGARA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278011170,77.82,SULAWESI TENGGARA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278011210,83.07,SULAWESI TENGGARA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278021170,77.19,SULAWESI TENGGARA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278021210,85.72,SULAWESI TENGGARA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278031170,83.14,SULAWESI TENGGARA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278031210,86.52,SULAWESI TENGGARA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278041170,75.22,SULAWESI TENGGARA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278041210,79.26,SULAWESI TENGGARA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278051170,78.5,SULAWESI TENGGARA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278051210,83.58,SULAWESI TENGGARA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278061170,71.05,SULAWESI TENGGARA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+74006278061210,77.4,SULAWESI TENGGARA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277941170,65.23,GORONTALO,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277941210,67.77,GORONTALO,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277951170,73.87,GORONTALO,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277951210,78.32,GORONTALO,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277961170,65.82,GORONTALO,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277961210,68.06,GORONTALO,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277971170,72.09,GORONTALO,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277971210,77.64,GORONTALO,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277981170,71.14,GORONTALO,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277981210,73.95,GORONTALO,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277991170,69.59,GORONTALO,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006277991210,73.05,GORONTALO,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278001170,80.43,GORONTALO,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278001210,84.98,GORONTALO,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278011170,77.77,GORONTALO,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278011210,83.2,GORONTALO,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278021170,79.63,GORONTALO,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278021210,85.59,GORONTALO,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278031170,83.98,GORONTALO,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278031210,88.39,GORONTALO,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278041170,75.96,GORONTALO,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278041210,78.75,GORONTALO,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278051170,79.57,GORONTALO,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278051210,84.21,GORONTALO,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278061170,74.58,GORONTALO,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+75006278061210,78.63,GORONTALO,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277941170,54.31,SULAWESI BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277941210,56.81,SULAWESI BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277951170,65.67,SULAWESI BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277951210,73.19,SULAWESI BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277961170,59.24,SULAWESI BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277961210,67.8,SULAWESI BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277971170,69.0,SULAWESI BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277971210,76.53,SULAWESI BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277981170,60.2,SULAWESI BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277981210,73.22,SULAWESI BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277991170,61.59,SULAWESI BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006277991210,69.53,SULAWESI BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278001170,78.36,SULAWESI BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278001210,85.03,SULAWESI BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278011170,73.64,SULAWESI BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278011210,84.32,SULAWESI BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278021170,80.49,SULAWESI BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278021210,86.29,SULAWESI BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278031170,83.07,SULAWESI BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278031210,86.91,SULAWESI BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278041170,73.32,SULAWESI BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278041210,77.96,SULAWESI BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278051170,77.75,SULAWESI BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278051210,84.15,SULAWESI BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278061170,69.67,SULAWESI BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+76006278061210,76.84,SULAWESI BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277941170,67.5,MALUKU,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277941210,71.25,MALUKU,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277951170,72.74,MALUKU,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277951210,78.33,MALUKU,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277961170,68.83,MALUKU,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277961210,72.7,MALUKU,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277971170,73.46,MALUKU,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277971210,80.72,MALUKU,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277981170,70.64,MALUKU,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277981210,78.42,MALUKU,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277991170,70.59,MALUKU,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006277991210,76.17,MALUKU,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278001170,78.81,MALUKU,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278001210,82.6,MALUKU,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278011170,79.71,MALUKU,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278011210,85.71,MALUKU,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278021170,80.66,MALUKU,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278021210,85.71,MALUKU,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278031170,83.22,MALUKU,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278031210,88.82,MALUKU,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278041170,75.19,MALUKU,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278041210,80.93,MALUKU,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278051170,79.52,MALUKU,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278051210,84.72,MALUKU,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278061170,75.05,MALUKU,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+81006278061210,80.45,MALUKU,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277941170,67.68,MALUKU UTARA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277941210,69.12,MALUKU UTARA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277951170,74.05,MALUKU UTARA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277951210,78.9,MALUKU UTARA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277961170,71.94,MALUKU UTARA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277961210,74.14,MALUKU UTARA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277971170,75.86,MALUKU UTARA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277971210,80.94,MALUKU UTARA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277981170,74.79,MALUKU UTARA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277981210,77.86,MALUKU UTARA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277991170,72.86,MALUKU UTARA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006277991210,76.16,MALUKU UTARA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278001170,81.97,MALUKU UTARA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278001210,85.22,MALUKU UTARA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278011170,79.1,MALUKU UTARA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278011210,85.28,MALUKU UTARA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278021170,81.81,MALUKU UTARA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278021210,86.39,MALUKU UTARA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278031170,85.62,MALUKU UTARA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278031210,89.02,MALUKU UTARA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278041170,78.12,MALUKU UTARA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278041210,82.16,MALUKU UTARA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278051170,81.33,MALUKU UTARA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278051210,85.61,MALUKU UTARA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278061170,77.09,MALUKU UTARA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+82006278061210,80.88,MALUKU UTARA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277941170,62.84,PAPUA BARAT,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277941210,68.04,PAPUA BARAT,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277951170,69.0,PAPUA BARAT,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277951210,76.67,PAPUA BARAT,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277961170,66.88,PAPUA BARAT,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277961210,69.58,PAPUA BARAT,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277971170,72.83,PAPUA BARAT,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277971210,80.27,PAPUA BARAT,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277981170,69.98,PAPUA BARAT,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277981210,76.73,PAPUA BARAT,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277991170,68.24,PAPUA BARAT,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006277991210,74.1,PAPUA BARAT,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278001170,75.0,PAPUA BARAT,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278001210,81.98,PAPUA BARAT,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278011170,77.42,PAPUA BARAT,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278011210,83.35,PAPUA BARAT,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278021170,77.18,PAPUA BARAT,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278021210,81.43,PAPUA BARAT,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278031170,79.56,PAPUA BARAT,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278031210,87.19,PAPUA BARAT,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278041170,74.15,PAPUA BARAT,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278041210,78.17,PAPUA BARAT,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278051170,76.64,PAPUA BARAT,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278051210,82.45,PAPUA BARAT,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278061170,72.44,PAPUA BARAT,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+91006278061210,78.27,PAPUA BARAT,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277941170,53.54,PAPUA,2017,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277941210,61.89,PAPUA,2021,[Subdimensi Personal] Pendidikan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277951170,65.59,PAPUA,2017,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277951210,71.28,PAPUA,2021,[Subdimensi Personal] Pekerjaan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277961170,64.31,PAPUA,2017,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277961210,66.14,PAPUA,2021,[Subdimensi Personal] Pendapatan Rumah Tangga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277971170,68.64,PAPUA,2017,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277971210,76.17,PAPUA,2021,[Subdimensi Personal] Kesehatan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277981170,62.78,PAPUA,2017,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277981210,69.98,PAPUA,2021,[Subdimensi Personal] Kondisi Rumah dan Aset,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277991170,63.04,PAPUA,2017,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006277991210,68.95,PAPUA,2021,Subdimensi Personal (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278001170,73.06,PAPUA,2017,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278001210,76.0,PAPUA,2021,[Subdimensi Sosial] Hubungan Sosial,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278011170,74.23,PAPUA,2017,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278011210,79.32,PAPUA,2021,[Subdimensi Sosial] Keadaan Lingkungan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278021170,75.79,PAPUA,2017,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278021210,76.89,PAPUA,2021,[Subdimensi Sosial] Kondisi Keamanan,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278031170,75.74,PAPUA,2017,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278031210,79.66,PAPUA,2021,[Subdimensi Sosial] Keharmonisan Keluarga,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278041170,70.22,PAPUA,2017,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278041210,75.64,PAPUA,2021,[Subdimensi Sosial] Ketersediaan Waktu Luang,Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278051170,73.8,PAPUA,2017,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278051210,77.5,PAPUA,2021,Subdimensi Sosial (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278061170,68.42,PAPUA,2017,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan
+94006278061210,73.23,PAPUA,2021,Dimensi Kepuasan Hidup (Total),Dimensi Kepuasan Hidup Indeks Kebahagiaan

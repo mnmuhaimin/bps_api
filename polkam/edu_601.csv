@@ -1,0 +1,105 @@
+id,values,provinsi,tahun,data_title
+999960101140,68.28,INDONESIA,2014,Indeks Kebahagiaan Menurut Provinsi
+999960101170,70.69,INDONESIA,2017,Indeks Kebahagiaan Menurut Provinsi
+999960101210,71.49,INDONESIA,2021,Indeks Kebahagiaan Menurut Provinsi
+110060101140,67.48,ACEH,2014,Indeks Kebahagiaan Menurut Provinsi
+110060101170,71.96,ACEH,2017,Indeks Kebahagiaan Menurut Provinsi
+110060101210,71.24,ACEH,2021,Indeks Kebahagiaan Menurut Provinsi
+120060101140,67.65,SUMATERA UTARA,2014,Indeks Kebahagiaan Menurut Provinsi
+120060101170,68.41,SUMATERA UTARA,2017,Indeks Kebahagiaan Menurut Provinsi
+120060101210,70.57,SUMATERA UTARA,2021,Indeks Kebahagiaan Menurut Provinsi
+130060101140,66.79,SUMATERA BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+130060101170,72.43,SUMATERA BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+130060101210,71.34,SUMATERA BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+140060101140,68.85,RIAU,2014,Indeks Kebahagiaan Menurut Provinsi
+140060101170,71.89,RIAU,2017,Indeks Kebahagiaan Menurut Provinsi
+140060101210,71.8,RIAU,2021,Indeks Kebahagiaan Menurut Provinsi
+150060101140,71.1,JAMBI,2014,Indeks Kebahagiaan Menurut Provinsi
+150060101170,70.45,JAMBI,2017,Indeks Kebahagiaan Menurut Provinsi
+150060101210,75.17,JAMBI,2021,Indeks Kebahagiaan Menurut Provinsi
+160060101140,67.76,SUMATERA SELATAN,2014,Indeks Kebahagiaan Menurut Provinsi
+160060101170,71.98,SUMATERA SELATAN,2017,Indeks Kebahagiaan Menurut Provinsi
+160060101210,72.37,SUMATERA SELATAN,2021,Indeks Kebahagiaan Menurut Provinsi
+170060101140,67.43,BENGKULU,2014,Indeks Kebahagiaan Menurut Provinsi
+170060101170,70.61,BENGKULU,2017,Indeks Kebahagiaan Menurut Provinsi
+170060101210,69.74,BENGKULU,2021,Indeks Kebahagiaan Menurut Provinsi
+180060101140,67.92,LAMPUNG,2014,Indeks Kebahagiaan Menurut Provinsi
+180060101170,69.51,LAMPUNG,2017,Indeks Kebahagiaan Menurut Provinsi
+180060101210,71.64,LAMPUNG,2021,Indeks Kebahagiaan Menurut Provinsi
+190060101140,68.45,KEP. BANGKA BELITUNG,2014,Indeks Kebahagiaan Menurut Provinsi
+190060101170,71.75,KEP. BANGKA BELITUNG,2017,Indeks Kebahagiaan Menurut Provinsi
+190060101210,73.25,KEP. BANGKA BELITUNG,2021,Indeks Kebahagiaan Menurut Provinsi
+210060101140,72.42,KEP. RIAU,2014,Indeks Kebahagiaan Menurut Provinsi
+210060101170,73.11,KEP. RIAU,2017,Indeks Kebahagiaan Menurut Provinsi
+210060101210,74.78,KEP. RIAU,2021,Indeks Kebahagiaan Menurut Provinsi
+310060101140,69.21,DKI JAKARTA,2014,Indeks Kebahagiaan Menurut Provinsi
+310060101170,71.33,DKI JAKARTA,2017,Indeks Kebahagiaan Menurut Provinsi
+310060101210,70.68,DKI JAKARTA,2021,Indeks Kebahagiaan Menurut Provinsi
+320060101140,67.66,JAWA BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+320060101170,69.58,JAWA BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+320060101210,70.23,JAWA BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+330060101140,67.81,JAWA TENGAH,2014,Indeks Kebahagiaan Menurut Provinsi
+330060101170,70.92,JAWA TENGAH,2017,Indeks Kebahagiaan Menurut Provinsi
+330060101210,71.73,JAWA TENGAH,2021,Indeks Kebahagiaan Menurut Provinsi
+340060101140,70.77,DI YOGYAKARTA,2014,Indeks Kebahagiaan Menurut Provinsi
+340060101170,72.93,DI YOGYAKARTA,2017,Indeks Kebahagiaan Menurut Provinsi
+340060101210,71.7,DI YOGYAKARTA,2021,Indeks Kebahagiaan Menurut Provinsi
+350060101140,68.7,JAWA TIMUR,2014,Indeks Kebahagiaan Menurut Provinsi
+350060101170,70.77,JAWA TIMUR,2017,Indeks Kebahagiaan Menurut Provinsi
+350060101210,72.08,JAWA TIMUR,2021,Indeks Kebahagiaan Menurut Provinsi
+360060101140,68.24,BANTEN,2014,Indeks Kebahagiaan Menurut Provinsi
+360060101170,69.83,BANTEN,2017,Indeks Kebahagiaan Menurut Provinsi
+360060101210,68.08,BANTEN,2021,Indeks Kebahagiaan Menurut Provinsi
+510060101140,68.46,BALI,2014,Indeks Kebahagiaan Menurut Provinsi
+510060101170,72.48,BALI,2017,Indeks Kebahagiaan Menurut Provinsi
+510060101210,71.44,BALI,2021,Indeks Kebahagiaan Menurut Provinsi
+520060101140,69.28,NUSA TENGGARA BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+520060101170,70.7,NUSA TENGGARA BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+520060101210,69.98,NUSA TENGGARA BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+530060101140,66.22,NUSA TENGGARA TIMUR,2014,Indeks Kebahagiaan Menurut Provinsi
+530060101170,68.98,NUSA TENGGARA TIMUR,2017,Indeks Kebahagiaan Menurut Provinsi
+530060101210,70.31,NUSA TENGGARA TIMUR,2021,Indeks Kebahagiaan Menurut Provinsi
+610060101140,67.97,KALIMANTAN BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+610060101170,70.08,KALIMANTAN BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+610060101210,72.49,KALIMANTAN BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+620060101140,70.01,KALIMANTAN TENGAH,2014,Indeks Kebahagiaan Menurut Provinsi
+620060101170,70.85,KALIMANTAN TENGAH,2017,Indeks Kebahagiaan Menurut Provinsi
+620060101210,73.13,KALIMANTAN TENGAH,2021,Indeks Kebahagiaan Menurut Provinsi
+630060101140,70.11,KALIMANTAN SELATAN,2014,Indeks Kebahagiaan Menurut Provinsi
+630060101170,71.99,KALIMANTAN SELATAN,2017,Indeks Kebahagiaan Menurut Provinsi
+630060101210,73.48,KALIMANTAN SELATAN,2021,Indeks Kebahagiaan Menurut Provinsi
+640060101140,71.45,KALIMANTAN TIMUR,2014,Indeks Kebahagiaan Menurut Provinsi
+640060101170,73.57,KALIMANTAN TIMUR,2017,Indeks Kebahagiaan Menurut Provinsi
+640060101210,73.49,KALIMANTAN TIMUR,2021,Indeks Kebahagiaan Menurut Provinsi
+650060101170,73.33,KALIMANTAN UTARA,2017,Indeks Kebahagiaan Menurut Provinsi
+650060101210,76.33,KALIMANTAN UTARA,2021,Indeks Kebahagiaan Menurut Provinsi
+710060101140,70.79,SULAWESI UTARA,2014,Indeks Kebahagiaan Menurut Provinsi
+710060101170,73.69,SULAWESI UTARA,2017,Indeks Kebahagiaan Menurut Provinsi
+710060101210,74.96,SULAWESI UTARA,2021,Indeks Kebahagiaan Menurut Provinsi
+720060101140,67.92,SULAWESI TENGAH,2014,Indeks Kebahagiaan Menurut Provinsi
+720060101170,71.92,SULAWESI TENGAH,2017,Indeks Kebahagiaan Menurut Provinsi
+720060101210,74.46,SULAWESI TENGAH,2021,Indeks Kebahagiaan Menurut Provinsi
+730060101140,69.8,SULAWESI SELATAN,2014,Indeks Kebahagiaan Menurut Provinsi
+730060101170,71.91,SULAWESI SELATAN,2017,Indeks Kebahagiaan Menurut Provinsi
+730060101210,73.07,SULAWESI SELATAN,2021,Indeks Kebahagiaan Menurut Provinsi
+740060101140,68.66,SULAWESI TENGGARA,2014,Indeks Kebahagiaan Menurut Provinsi
+740060101170,71.22,SULAWESI TENGGARA,2017,Indeks Kebahagiaan Menurut Provinsi
+740060101210,73.98,SULAWESI TENGGARA,2021,Indeks Kebahagiaan Menurut Provinsi
+750060101140,69.28,GORONTALO,2014,Indeks Kebahagiaan Menurut Provinsi
+750060101170,73.19,GORONTALO,2017,Indeks Kebahagiaan Menurut Provinsi
+750060101210,74.77,GORONTALO,2021,Indeks Kebahagiaan Menurut Provinsi
+760060101140,67.86,SULAWESI BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+760060101170,70.02,SULAWESI BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+760060101210,73.46,SULAWESI BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+810060101140,72.12,MALUKU,2014,Indeks Kebahagiaan Menurut Provinsi
+810060101170,73.77,MALUKU,2017,Indeks Kebahagiaan Menurut Provinsi
+810060101210,76.28,MALUKU,2021,Indeks Kebahagiaan Menurut Provinsi
+820060101140,70.55,MALUKU UTARA,2014,Indeks Kebahagiaan Menurut Provinsi
+820060101170,75.68,MALUKU UTARA,2017,Indeks Kebahagiaan Menurut Provinsi
+820060101210,76.34,MALUKU UTARA,2021,Indeks Kebahagiaan Menurut Provinsi
+910060101140,70.45,PAPUA BARAT,2014,Indeks Kebahagiaan Menurut Provinsi
+910060101170,71.73,PAPUA BARAT,2017,Indeks Kebahagiaan Menurut Provinsi
+910060101210,74.52,PAPUA BARAT,2021,Indeks Kebahagiaan Menurut Provinsi
+940060101140,60.97,PAPUA,2014,Indeks Kebahagiaan Menurut Provinsi
+940060101170,67.52,PAPUA,2017,Indeks Kebahagiaan Menurut Provinsi
+940060101210,69.87,PAPUA,2021,Indeks Kebahagiaan Menurut Provinsi

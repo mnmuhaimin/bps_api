@@ -1,0 +1,698 @@
+id,values,kuantil,tahun,data_title
+110101000,4286,ACEH,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101010,3420,ACEH,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101020,1668,ACEH,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101030,2724,ACEH,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101040,1873,ACEH,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101050,2181,ACEH,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101060,986,ACEH,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101070,3053,ACEH,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101080,1517,ACEH,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101090,6297,ACEH,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101100,9244,ACEH,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101110,9114,ACEH,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101120,9200,ACEH,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101130,9150,ACEH,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101140,7569,ACEH,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101150,8048,ACEH,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101160,9646,ACEH,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101170,8885,ACEH,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101180,8758,ACEH,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101190,7483,ACEH,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101200,7745,ACEH,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+110101210,6651,ACEH,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101000,15887,SUMATERA UTARA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101010,15395,SUMATERA UTARA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101020,15063,SUMATERA UTARA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101030,17530,SUMATERA UTARA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101040,20924,SUMATERA UTARA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101050,25111,SUMATERA UTARA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101060,27785,SUMATERA UTARA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101070,28642,SUMATERA UTARA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101080,26185,SUMATERA UTARA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101090,26597,SUMATERA UTARA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101100,33227,SUMATERA UTARA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101110,37610,SUMATERA UTARA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101120,33250,SUMATERA UTARA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101130,40709,SUMATERA UTARA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101140,35728,SUMATERA UTARA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101150,35248,SUMATERA UTARA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101160,37102,SUMATERA UTARA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101170,39867,SUMATERA UTARA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101180,32922,SUMATERA UTARA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101190,30831,SUMATERA UTARA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101200,32990,SUMATERA UTARA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+210101210,36534,SUMATERA UTARA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101000,4464,SUMATERA BARAT,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101010,4879,SUMATERA BARAT,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101020,4845,SUMATERA BARAT,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101030,5842,SUMATERA BARAT,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101040,5387,SUMATERA BARAT,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101050,7203,SUMATERA BARAT,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101060,9953,SUMATERA BARAT,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101070,9499,SUMATERA BARAT,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101080,10776,SUMATERA BARAT,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101090,11848,SUMATERA BARAT,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101100,10819,SUMATERA BARAT,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101110,11695,SUMATERA BARAT,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101120,13468,SUMATERA BARAT,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101130,14324,SUMATERA BARAT,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101140,14955,SUMATERA BARAT,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101150,16277,SUMATERA BARAT,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101160,14921,SUMATERA BARAT,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101170,13205,SUMATERA BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101180,12953,SUMATERA BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101190,11064,SUMATERA BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101200,7992,SUMATERA BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+310101210,5666,SUMATERA BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101000,4542,RIAU,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101010,5341,RIAU,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101020,5571,RIAU,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101030,7020,RIAU,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101040,7151,RIAU,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101050,6855,RIAU,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101060,6277,RIAU,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101070,9767,RIAU,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101080,8024,RIAU,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101090,8968,RIAU,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101100,10129,RIAU,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101110,8323,RIAU,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101120,12533,RIAU,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101130,9399,RIAU,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101140,9644,RIAU,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101150,9595,RIAU,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101160,8520,RIAU,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101170,6869,RIAU,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101180,7246,RIAU,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101190,6570,RIAU,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101200,8194,RIAU,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+410101210,7512,RIAU,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101000,1667,JAMBI,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101010,1493,JAMBI,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101020,1554,JAMBI,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101030,1793,JAMBI,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101040,1984,JAMBI,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101050,2202,JAMBI,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101060,1969,JAMBI,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101070,2426,JAMBI,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101080,2692,JAMBI,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101090,2637,JAMBI,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101100,3586,JAMBI,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101110,4450,JAMBI,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101120,6099,JAMBI,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101130,6510,JAMBI,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101140,7643,JAMBI,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101150,10564,JAMBI,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101160,9424,JAMBI,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101170,9531,JAMBI,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101180,6313,JAMBI,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101190,6848,JAMBI,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101200,4709,JAMBI,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+510101210,3701,JAMBI,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101000,10754,SUMATERA SELATAN,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101010,10152,SUMATERA SELATAN,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101020,10502,SUMATERA SELATAN,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101030,7534,SUMATERA SELATAN,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101040,7328,SUMATERA SELATAN,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101050,8579,SUMATERA SELATAN,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101060,8294,SUMATERA SELATAN,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101070,9966,SUMATERA SELATAN,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101080,11213,SUMATERA SELATAN,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101090,14170,SUMATERA SELATAN,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101100,18288,SUMATERA SELATAN,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101110,19353,SUMATERA SELATAN,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101120,21498,SUMATERA SELATAN,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101130,22882,SUMATERA SELATAN,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101140,22708,SUMATERA SELATAN,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101150,20575,SUMATERA SELATAN,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101160,20368,SUMATERA SELATAN,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101170,15728,SUMATERA SELATAN,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101180,13558,SUMATERA SELATAN,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101190,12861,SUMATERA SELATAN,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101200,12189,SUMATERA SELATAN,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+610101210,13037,SUMATERA SELATAN,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101000,941,BENGKULU,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101010,676,BENGKULU,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101020,1170,BENGKULU,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101030,1159,BENGKULU,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101040,1086,BENGKULU,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101050,1100,BENGKULU,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101060,1654,BENGKULU,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101070,1945,BENGKULU,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101080,2001,BENGKULU,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101090,1827,BENGKULU,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101100,2717,BENGKULU,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101110,3498,BENGKULU,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101120,3943,BENGKULU,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101130,4550,BENGKULU,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101140,3847,BENGKULU,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101150,4463,BENGKULU,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101160,5904,BENGKULU,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101170,4867,BENGKULU,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101180,3389,BENGKULU,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101190,3453,BENGKULU,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101200,3333,BENGKULU,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+710101210,3493,BENGKULU,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101000,5473,LAMPUNG,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101010,5265,LAMPUNG,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101020,3290,LAMPUNG,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101030,3697,LAMPUNG,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101040,4624,LAMPUNG,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101050,4253,LAMPUNG,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101060,6052,LAMPUNG,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101070,6577,LAMPUNG,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101080,6850,LAMPUNG,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101090,9959,LAMPUNG,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101100,4813,LAMPUNG,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101110,6052,LAMPUNG,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101120,4383,LAMPUNG,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101130,4812,LAMPUNG,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101140,7755,LAMPUNG,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101150,9218,LAMPUNG,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101160,10485,LAMPUNG,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101170,11089,LAMPUNG,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101180,8963,LAMPUNG,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101190,8534,LAMPUNG,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101200,7594,LAMPUNG,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+810101210,9764,LAMPUNG,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101050,1218,KEP. BANGKA BELITUNG,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101060,1843,KEP. BANGKA BELITUNG,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101070,2284,KEP. BANGKA BELITUNG,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101080,2021,KEP. BANGKA BELITUNG,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101090,2506,KEP. BANGKA BELITUNG,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101100,2642,KEP. BANGKA BELITUNG,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101110,2732,KEP. BANGKA BELITUNG,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101120,5197,KEP. BANGKA BELITUNG,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101130,2515,KEP. BANGKA BELITUNG,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101140,1796,KEP. BANGKA BELITUNG,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101150,1875,KEP. BANGKA BELITUNG,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101160,2094,KEP. BANGKA BELITUNG,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101170,1931,KEP. BANGKA BELITUNG,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101180,2048,KEP. BANGKA BELITUNG,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101190,1953,KEP. BANGKA BELITUNG,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101200,1931,KEP. BANGKA BELITUNG,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+910101210,1566,KEP. BANGKA BELITUNG,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101050,1984,KEP. RIAU,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101060,3442,KEP. RIAU,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101070,3233,KEP. RIAU,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101080,2998,KEP. RIAU,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101090,3494,KEP. RIAU,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101100,4141,KEP. RIAU,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101110,3643,KEP. RIAU,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101120,3626,KEP. RIAU,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101130,4278,KEP. RIAU,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101140,4633,KEP. RIAU,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101150,4892,KEP. RIAU,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101160,4885,KEP. RIAU,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101170,3673,KEP. RIAU,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101180,3409,KEP. RIAU,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101190,3159,KEP. RIAU,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101200,2843,KEP. RIAU,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1010101210,2481,KEP. RIAU,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101000,18098,METRO JAYA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101010,33157,METRO JAYA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101020,32649,METRO JAYA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101030,37895,METRO JAYA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101040,53404,METRO JAYA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101050,57762,METRO JAYA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101060,60996,METRO JAYA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101070,63661,METRO JAYA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101080,61409,METRO JAYA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101090,57041,METRO JAYA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101100,60989,METRO JAYA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101110,53324,METRO JAYA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101120,52642,METRO JAYA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101130,49498,METRO JAYA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101140,44298,METRO JAYA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101150,44461,METRO JAYA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101160,43842,METRO JAYA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101170,34767,METRO JAYA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101180,34655,METRO JAYA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101190,31934,METRO JAYA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101200,26585,METRO JAYA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1110101210,29103,METRO JAYA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101000,17542,JAWA BARAT,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101010,18561,JAWA BARAT,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101020,18943,JAWA BARAT,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101030,17188,JAWA BARAT,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101040,17549,JAWA BARAT,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101050,19574,JAWA BARAT,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101060,22098,JAWA BARAT,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101070,22160,JAWA BARAT,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101080,23862,JAWA BARAT,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101090,27352,JAWA BARAT,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101100,16869,JAWA BARAT,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101110,29296,JAWA BARAT,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101120,27247,JAWA BARAT,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101130,24843,JAWA BARAT,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101140,27058,JAWA BARAT,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101150,27805,JAWA BARAT,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101160,29351,JAWA BARAT,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101170,25183,JAWA BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101180,16209,JAWA BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101190,13145,JAWA BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101200,11256,JAWA BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1210101210,7502,JAWA BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101000,12713,JAWA TENGAH,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101010,10978,JAWA TENGAH,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101020,10934,JAWA TENGAH,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101030,12528,JAWA TENGAH,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101040,13374,JAWA TENGAH,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101050,12823,JAWA TENGAH,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101060,18873,JAWA TENGAH,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101070,19806,JAWA TENGAH,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101080,20080,JAWA TENGAH,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101090,19801,JAWA TENGAH,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101100,15479,JAWA TENGAH,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101110,15205,JAWA TENGAH,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101120,11079,JAWA TENGAH,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101130,14859,JAWA TENGAH,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101140,15993,JAWA TENGAH,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101150,15958,JAWA TENGAH,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101160,14353,JAWA TENGAH,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101170,12033,JAWA TENGAH,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101180,9127,JAWA TENGAH,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101190,10317,JAWA TENGAH,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101200,10712,JAWA TENGAH,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1310101210,8909,JAWA TENGAH,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101000,1861,DI YOGYAKARTA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101010,3077,DI YOGYAKARTA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101020,3080,DI YOGYAKARTA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101030,2063,DI YOGYAKARTA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101040,2377,DI YOGYAKARTA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101050,3429,DI YOGYAKARTA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101060,2913,DI YOGYAKARTA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101070,4316,DI YOGYAKARTA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101080,5183,DI YOGYAKARTA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101090,6988,DI YOGYAKARTA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101100,17622,DI YOGYAKARTA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101110,6326,DI YOGYAKARTA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101120,8987,DI YOGYAKARTA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101130,6727,DI YOGYAKARTA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101140,7135,DI YOGYAKARTA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101150,9692,DI YOGYAKARTA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101160,8348,DI YOGYAKARTA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101170,7251,DI YOGYAKARTA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101180,6731,DI YOGYAKARTA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101190,6650,DI YOGYAKARTA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101200,7721,DI YOGYAKARTA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1410101210,4774,DI YOGYAKARTA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101000,25284,JAWA TIMUR,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101010,23608,JAWA TIMUR,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101020,25674,JAWA TIMUR,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101030,26347,JAWA TIMUR,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101040,25603,JAWA TIMUR,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101050,30476,JAWA TIMUR,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101060,42583,JAWA TIMUR,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101070,43822,JAWA TIMUR,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101080,40598,JAWA TIMUR,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101090,37337,JAWA TIMUR,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101100,16948,JAWA TIMUR,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101110,28392,JAWA TIMUR,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101120,22774,JAWA TIMUR,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101130,16913,JAWA TIMUR,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101140,14102,JAWA TIMUR,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101150,35437,JAWA TIMUR,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101160,28902,JAWA TIMUR,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101170,34598,JAWA TIMUR,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101180,26295,JAWA TIMUR,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101190,26985,JAWA TIMUR,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101200,17642,JAWA TIMUR,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1510101210,19257,JAWA TIMUR,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101040,802,BANTEN,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101050,1946,BANTEN,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101060,1660,BANTEN,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101070,1771,BANTEN,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101080,1255,BANTEN,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101090,2481,BANTEN,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101100,3832,BANTEN,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101110,3205,BANTEN,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101120,3804,BANTEN,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101130,4259,BANTEN,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101140,5741,BANTEN,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101150,5002,BANTEN,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101160,4570,BANTEN,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101170,3692,BANTEN,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101180,3623,BANTEN,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101190,3287,BANTEN,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101200,4250,BANTEN,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1610101210,3434,BANTEN,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101000,6669,BALI,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101010,5980,BALI,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101020,4759,BALI,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101030,4354,BALI,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101040,5456,BALI,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101050,5902,BALI,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101060,7420,BALI,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101070,7590,BALI,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101080,7401,BALI,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101090,7950,BALI,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101100,5593,BALI,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101110,5490,BALI,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101120,5183,BALI,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101130,5980,BALI,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101140,5072,BALI,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101150,5032,BALI,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101160,4764,BALI,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101170,3589,BALI,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101180,3212,BALI,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101190,3047,BALI,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101200,2597,BALI,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1710101210,2404,BALI,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101000,2904,NUSA TENGGARA BARAT,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101010,3309,NUSA TENGGARA BARAT,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101020,3109,NUSA TENGGARA BARAT,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101030,3245,NUSA TENGGARA BARAT,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101040,3429,NUSA TENGGARA BARAT,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101050,4352,NUSA TENGGARA BARAT,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101060,6327,NUSA TENGGARA BARAT,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101070,6885,NUSA TENGGARA BARAT,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101080,7024,NUSA TENGGARA BARAT,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101090,8535,NUSA TENGGARA BARAT,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101100,10908,NUSA TENGGARA BARAT,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101110,9585,NUSA TENGGARA BARAT,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101120,10504,NUSA TENGGARA BARAT,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101130,8928,NUSA TENGGARA BARAT,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101140,7242,NUSA TENGGARA BARAT,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101150,6015,NUSA TENGGARA BARAT,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101160,7779,NUSA TENGGARA BARAT,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101170,8132,NUSA TENGGARA BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101180,6451,NUSA TENGGARA BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101190,8185,NUSA TENGGARA BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101200,8591,NUSA TENGGARA BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1810101210,6296,NUSA TENGGARA BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101000,2634,NUSA TENGGARA TIMUR,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101010,3182,NUSA TENGGARA TIMUR,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101020,3165,NUSA TENGGARA TIMUR,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101030,3887,NUSA TENGGARA TIMUR,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101040,3468,NUSA TENGGARA TIMUR,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101050,5105,NUSA TENGGARA TIMUR,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101060,5011,NUSA TENGGARA TIMUR,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101070,6575,NUSA TENGGARA TIMUR,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101080,6772,NUSA TENGGARA TIMUR,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101090,6421,NUSA TENGGARA TIMUR,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101100,3583,NUSA TENGGARA TIMUR,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101110,5298,NUSA TENGGARA TIMUR,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101120,6389,NUSA TENGGARA TIMUR,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101130,6844,NUSA TENGGARA TIMUR,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101140,6496,NUSA TENGGARA TIMUR,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101150,6709,NUSA TENGGARA TIMUR,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101160,7813,NUSA TENGGARA TIMUR,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101170,6729,NUSA TENGGARA TIMUR,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101180,6257,NUSA TENGGARA TIMUR,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101190,5865,NUSA TENGGARA TIMUR,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101200,4790,NUSA TENGGARA TIMUR,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+1910101210,4909,NUSA TENGGARA TIMUR,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101000,1873,KALIMANTAN BARAT,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101010,2239,KALIMANTAN BARAT,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101020,2027,KALIMANTAN BARAT,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101030,1846,KALIMANTAN BARAT,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101040,2658,KALIMANTAN BARAT,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101050,5145,KALIMANTAN BARAT,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101060,8738,KALIMANTAN BARAT,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101070,10532,KALIMANTAN BARAT,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101080,11265,KALIMANTAN BARAT,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101090,10886,KALIMANTAN BARAT,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101100,8599,KALIMANTAN BARAT,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101110,10296,KALIMANTAN BARAT,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101120,10315,KALIMANTAN BARAT,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101130,9430,KALIMANTAN BARAT,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101140,8019,KALIMANTAN BARAT,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101150,6669,KALIMANTAN BARAT,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101160,7311,KALIMANTAN BARAT,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101170,6020,KALIMANTAN BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101180,5814,KALIMANTAN BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101190,4721,KALIMANTAN BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101200,3858,KALIMANTAN BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2010101210,4048,KALIMANTAN BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101000,2124,KALIMANTAN TENGAH,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101010,2111,KALIMANTAN TENGAH,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101020,1506,KALIMANTAN TENGAH,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101030,2230,KALIMANTAN TENGAH,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101040,2304,KALIMANTAN TENGAH,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101050,3026,KALIMANTAN TENGAH,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101060,3100,KALIMANTAN TENGAH,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101070,4080,KALIMANTAN TENGAH,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101080,4213,KALIMANTAN TENGAH,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101090,4097,KALIMANTAN TENGAH,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101100,2734,KALIMANTAN TENGAH,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101110,5682,KALIMANTAN TENGAH,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101120,3219,KALIMANTAN TENGAH,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101130,2983,KALIMANTAN TENGAH,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101140,2865,KALIMANTAN TENGAH,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101150,2681,KALIMANTAN TENGAH,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101160,3712,KALIMANTAN TENGAH,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101170,2699,KALIMANTAN TENGAH,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101180,2667,KALIMANTAN TENGAH,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101190,2444,KALIMANTAN TENGAH,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101200,2629,KALIMANTAN TENGAH,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2110101210,2399,KALIMANTAN TENGAH,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101000,3205,KALIMANTAN SELATAN,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101010,3872,KALIMANTAN SELATAN,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101020,3519,KALIMANTAN SELATAN,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101030,3542,KALIMANTAN SELATAN,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101040,3472,KALIMANTAN SELATAN,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101050,2757,KALIMANTAN SELATAN,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101060,3439,KALIMANTAN SELATAN,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101070,3068,KALIMANTAN SELATAN,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101080,5404,KALIMANTAN SELATAN,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101090,4069,KALIMANTAN SELATAN,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101100,1910,KALIMANTAN SELATAN,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101110,499,KALIMANTAN SELATAN,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101120,3372,KALIMANTAN SELATAN,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101130,7080,KALIMANTAN SELATAN,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101140,5982,KALIMANTAN SELATAN,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101150,6809,KALIMANTAN SELATAN,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101160,7211,KALIMANTAN SELATAN,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101170,6578,KALIMANTAN SELATAN,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101180,5699,KALIMANTAN SELATAN,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101190,5375,KALIMANTAN SELATAN,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101200,5206,KALIMANTAN SELATAN,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2210101210,4973,KALIMANTAN SELATAN,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101000,4115,KALIMANTAN TIMUR,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101010,3908,KALIMANTAN TIMUR,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101020,3821,KALIMANTAN TIMUR,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101030,5264,KALIMANTAN TIMUR,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101040,5853,KALIMANTAN TIMUR,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101050,6778,KALIMANTAN TIMUR,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101060,7472,KALIMANTAN TIMUR,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101070,8309,KALIMANTAN TIMUR,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101080,6714,KALIMANTAN TIMUR,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101090,7180,KALIMANTAN TIMUR,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101100,10007,KALIMANTAN TIMUR,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101110,9439,KALIMANTAN TIMUR,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101120,9639,KALIMANTAN TIMUR,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101130,9251,KALIMANTAN TIMUR,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101140,9095,KALIMANTAN TIMUR,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101150,8764,KALIMANTAN TIMUR,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101160,8896,KALIMANTAN TIMUR,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101170,9149,KALIMANTAN TIMUR,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101180,6287,KALIMANTAN TIMUR,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101190,4417,KALIMANTAN TIMUR,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101200,3609,KALIMANTAN TIMUR,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2310101210,4564,KALIMANTAN TIMUR,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2410101180,396,KALIMANTAN UTARA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2410101190,876,KALIMANTAN UTARA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2410101200,1015,KALIMANTAN UTARA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2410101210,971,KALIMANTAN UTARA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101000,8943,SULAWESI UTARA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101010,10292,SULAWESI UTARA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101020,11932,SULAWESI UTARA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101030,11229,SULAWESI UTARA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101040,7684,SULAWESI UTARA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101050,9181,SULAWESI UTARA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101060,9814,SULAWESI UTARA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101070,10275,SULAWESI UTARA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101080,10189,SULAWESI UTARA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101090,12515,SULAWESI UTARA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101100,8710,SULAWESI UTARA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101110,11286,SULAWESI UTARA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101120,6815,SULAWESI UTARA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101130,7609,SULAWESI UTARA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101140,6163,SULAWESI UTARA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101150,7837,SULAWESI UTARA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101160,9923,SULAWESI UTARA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101170,7981,SULAWESI UTARA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101180,10247,SULAWESI UTARA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101190,7425,SULAWESI UTARA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101200,6274,SULAWESI UTARA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2510101210,6215,SULAWESI UTARA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101000,3787,SULAWESI TENGAH,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101010,4666,SULAWESI TENGAH,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101020,3480,SULAWESI TENGAH,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101030,3881,SULAWESI TENGAH,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101040,3246,SULAWESI TENGAH,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101050,4935,SULAWESI TENGAH,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101060,5048,SULAWESI TENGAH,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101070,6272,SULAWESI TENGAH,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101080,6012,SULAWESI TENGAH,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101090,7160,SULAWESI TENGAH,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101100,13030,SULAWESI TENGAH,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101110,7001,SULAWESI TENGAH,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101120,8134,SULAWESI TENGAH,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101130,7815,SULAWESI TENGAH,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101140,7804,SULAWESI TENGAH,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101150,8988,SULAWESI TENGAH,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101160,9602,SULAWESI TENGAH,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101170,10240,SULAWESI TENGAH,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101180,9379,SULAWESI TENGAH,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101190,6265,SULAWESI TENGAH,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101200,5454,SULAWESI TENGAH,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2610101210,5139,SULAWESI TENGAH,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101000,7660,SULAWESI SELATAN,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101010,7549,SULAWESI SELATAN,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101020,6740,SULAWESI SELATAN,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101030,7405,SULAWESI SELATAN,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101040,10033,SULAWESI SELATAN,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101050,12571,SULAWESI SELATAN,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101060,14214,SULAWESI SELATAN,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101070,16387,SULAWESI SELATAN,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101080,16354,SULAWESI SELATAN,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101090,16971,SULAWESI SELATAN,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101100,15784,SULAWESI SELATAN,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101110,22509,SULAWESI SELATAN,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101120,18169,SULAWESI SELATAN,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101130,17124,SULAWESI SELATAN,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101140,14925,SULAWESI SELATAN,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101150,16088,SULAWESI SELATAN,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101160,15071,SULAWESI SELATAN,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101170,21616,SULAWESI SELATAN,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101180,21498,SULAWESI SELATAN,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101190,16008,SULAWESI SELATAN,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101200,12815,SULAWESI SELATAN,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2710101210,14636,SULAWESI SELATAN,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101000,2087,SULAWESI TENGGARA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101010,1483,SULAWESI TENGGARA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101020,1265,SULAWESI TENGGARA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101030,1183,SULAWESI TENGGARA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101040,1672,SULAWESI TENGGARA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101050,583,SULAWESI TENGGARA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101060,1007,SULAWESI TENGGARA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101070,5940,SULAWESI TENGGARA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101080,6176,SULAWESI TENGGARA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101090,6129,SULAWESI TENGGARA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101100,6196,SULAWESI TENGGARA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101110,6254,SULAWESI TENGGARA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101120,7166,SULAWESI TENGGARA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101130,7059,SULAWESI TENGGARA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101140,5284,SULAWESI TENGGARA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101150,3655,SULAWESI TENGGARA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101160,3756,SULAWESI TENGGARA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101170,2866,SULAWESI TENGGARA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101180,1263,SULAWESI TENGGARA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101190,1213,SULAWESI TENGGARA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101200,2148,SULAWESI TENGGARA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2810101210,2431,SULAWESI TENGGARA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101040,2250,GORONTALO,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101050,2681,GORONTALO,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101060,2724,GORONTALO,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101070,4421,GORONTALO,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101080,3754,GORONTALO,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101090,3917,GORONTALO,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101100,3080,GORONTALO,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101110,2602,GORONTALO,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101120,2458,GORONTALO,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101130,3735,GORONTALO,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101140,3377,GORONTALO,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101150,3372,GORONTALO,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101160,3763,GORONTALO,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101170,3099,GORONTALO,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101180,2836,GORONTALO,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101190,2367,GORONTALO,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101200,2518,GORONTALO,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+2910101210,2445,GORONTALO,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3010101170,1841,SULAWESI BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3010101180,1817,SULAWESI BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3010101190,1863,SULAWESI BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3010101200,1704,SULAWESI BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3010101210,1500,SULAWESI BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101000,341,MALUKU,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101010,111,MALUKU,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101020,538,MALUKU,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101030,1851,MALUKU,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101040,1146,MALUKU,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101050,902,MALUKU,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101060,1039,MALUKU,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101070,1726,MALUKU,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101080,2348,MALUKU,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101090,2570,MALUKU,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101100,4004,MALUKU,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101110,1510,MALUKU,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101120,1726,MALUKU,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101130,2186,MALUKU,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101140,2394,MALUKU,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101150,1843,MALUKU,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101160,2559,MALUKU,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101170,3086,MALUKU,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101180,2751,MALUKU,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101190,3495,MALUKU,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101200,5350,MALUKU,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3110101210,3139,MALUKU,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101050,542,MALUKU UTARA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101060,883,MALUKU UTARA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101070,714,MALUKU UTARA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101080,708,MALUKU UTARA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101090,1111,MALUKU UTARA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101100,1916,MALUKU UTARA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101110,887,MALUKU UTARA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101120,926,MALUKU UTARA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101130,1177,MALUKU UTARA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101140,1124,MALUKU UTARA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101150,814,MALUKU UTARA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101160,1096,MALUKU UTARA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101170,789,MALUKU UTARA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101180,722,MALUKU UTARA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101190,718,MALUKU UTARA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101200,850,MALUKU UTARA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3210101210,1008,MALUKU UTARA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101150,1356,PAPUA BARAT,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101160,8103,PAPUA BARAT,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101170,2284,PAPUA BARAT,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101180,3475,PAPUA BARAT,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101190,2972,PAPUA BARAT,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101200,3162,PAPUA BARAT,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3310101210,2784,PAPUA BARAT,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101000,2678,PAPUA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101010,2522,PAPUA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101020,3555,PAPUA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101030,3694,PAPUA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101040,4749,PAPUA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101050,5387,PAPUA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101060,5549,PAPUA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101070,4682,PAPUA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101080,5754,PAPUA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101090,6128,PAPUA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101100,5091,PAPUA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101110,7049,PAPUA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101120,7414,PAPUA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101130,8655,PAPUA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101140,8870,PAPUA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101150,7194,PAPUA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101160,3123,PAPUA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101170,6785,PAPUA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101180,7311,PAPUA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101190,6994,PAPUA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101200,6962,PAPUA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3410101210,6236,PAPUA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101000,172532,INDONESIA,2000,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101010,187226,INDONESIA,2001,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101020,184359,INDONESIA,2002,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101030,196931,INDONESIA,2003,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101040,220886,INDONESIA,2004,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101050,256543,INDONESIA,2005,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101060,299163,INDONESIA,2006,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101070,330384,INDONESIA,2007,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101080,326752,INDONESIA,2008,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101090,344942,INDONESIA,2009,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101100,332490,INDONESIA,2010,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101110,347605,INDONESIA,2011,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101120,341159,INDONESIA,2012,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101130,342084,INDONESIA,2013,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101140,325317,INDONESIA,2014,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101150,352936,INDONESIA,2015,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101160,357197,INDONESIA,2016,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101170,336652,INDONESIA,2017,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101180,294281,INDONESIA,2018,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101190,269324,INDONESIA,2019,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101200,247218,INDONESIA,2020,Jumlah Tindak Pidana Menurut Kepolisian Daerah
+3510101210,239481,INDONESIA,2021,Jumlah Tindak Pidana Menurut Kepolisian Daerah
