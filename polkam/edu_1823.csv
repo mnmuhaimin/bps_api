@@ -1,0 +1,52 @@
+id,values,jenis_pelayanan,tahun,jenis_angka,data_title
+1182311591170,3443.0,Pengaduan,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+1182311591180,6652.0,Pengaduan,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+1182311591190,5444.0,Pengaduan,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+1182311601170,27.43,Pengaduan,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+1182311601180,41.03,Pengaduan,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+1182311601190,39.39,Pengaduan,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311591170,1823.0,Kesehatan,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311591180,3163.0,Kesehatan,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311591190,3232.0,Kesehatan,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311601170,14.53,Kesehatan,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311601180,19.51,Kesehatan,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+2182311601190,23.38,Kesehatan,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311591170,884.0,Bantuan Hukum,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311591180,2265.0,Bantuan Hukum,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311591190,2234.0,Bantuan Hukum,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311601170,7.04,Bantuan Hukum,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311601180,13.97,Bantuan Hukum,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+3182311601190,16.16,Bantuan Hukum,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311591170,1154.0,Penegakan Hukum,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311591180,1177.0,Penegakan Hukum,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311591190,773.0,Penegakan Hukum,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311601170,9.2,Penegakan Hukum,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311601180,7.26,Penegakan Hukum,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+4182311601190,5.59,Penegakan Hukum,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311591170,792.0,Rehabilitasi Sosial,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311591180,1330.0,Rehabilitasi Sosial,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311591190,1646.0,Rehabilitasi Sosial,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311601170,6.31,Rehabilitasi Sosial,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311601180,8.2,Rehabilitasi Sosial,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+5182311601190,11.91,Rehabilitasi Sosial,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311591170,178.0,Reintegrasi Sosial,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311591180,334.0,Reintegrasi Sosial,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311591190,254.0,Reintegrasi Sosial,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311601170,1.42,Reintegrasi Sosial,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311601180,2.06,Reintegrasi Sosial,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+6182311601190,1.84,Reintegrasi Sosial,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311591170,98.0,Pemulangan,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311591180,133.0,Pemulangan,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311591190,117.0,Pemulangan,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311601170,0.78,Pemulangan,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311601180,0.82,Pemulangan,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+7182311601190,0.85,Pemulangan,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311591170,95.0,Pendampingan Tokoh Agama,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311591180,177.0,Pendampingan Tokoh Agama,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311591190,121.0,Pendampingan Tokoh Agama,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311601170,0.76,Pendampingan Tokoh Agama,2017,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311601180,1.09,Pendampingan Tokoh Agama,2018,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+8182311601190,0.88,Pendampingan Tokoh Agama,2019,Persentase,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+9182311591170,12550.0,Jumlah Kasus,2017,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+9182311591180,16214.0,Jumlah Kasus,2018,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
+9182311591190,13821.0,Jumlah Kasus,2019,Jumlah,Jumlah kasus dan Persentase korban kekerasan terhadap perempuan yang mendapat layanan komprehensif
