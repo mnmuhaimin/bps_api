@@ -1,0 +1,1904 @@
+id,values,dimensi,tahun,label,data_title
+13365471000,781125.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+13365471010,729100.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+13365471020,693103.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+13365471030,724771.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+13365471040,818520.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+13365471050,907158.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+13365471060,1038270.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+13365471070,1162980.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+13365471080,1301110.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+13365471090,1056750.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+13365471100,1278490.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+13365471110,1480290.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+13365471120,1545710.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+13365471130,1579050.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+13365471140,1623410.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+13365471180,18439.8,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+13365471190,17844.6,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+13365471200,18622.5,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+13365471210,25774.2,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+13365481000,1259300.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+13365481010,1179180.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+13365481020,1200230.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+13365481030,1303050.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+13365481040,1525680.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+13365481050,1735060.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+13365481060,1918080.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+13365481070,2020400.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+13365481080,2169490.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+13365481090,1605300.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+13365481100,1969180.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+13365481110,2265890.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+13365481120,2336520.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+13365481130,2329060.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+13365481140,2410440.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+13365481180,10176.2,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+13365481190,9261.6,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+13365481200,8580.2,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+13365481210,11249.2,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+13365491000,-478175.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491010,-450080.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491020,-507127.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491030,1073163545.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491040,-707160.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491050,-827902.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491060,-879810.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491070,-857420.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491080,-868380.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491090,-548550.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491100,-690690.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491110,-785600.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491120,-790810.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491130,-750010.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491140,-787030.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491180,8263.6,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491190,8583.0,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491200,10042.4,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+13365491210,14525.0,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365471040,125997.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+23365471050,180736.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+23365471060,211306.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+23365471070,233300.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+23365471080,313427.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+23365471090,192296.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+23365471100,251147.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+23365471110,364699.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+23365471120,388400.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+23365471130,375934.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+23365471180,1222.4,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+23365471190,1503.2,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+23365471200,1338.8,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+23365471210,1583.6,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+23365481040,44744.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+23365481050,59458.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+23365481060,69800.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+23365481070,90215.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+23365481080,115133.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+23365481090,95544.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+23365481100,106864.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+23365481110,131587.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+23365481120,155592.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+23365481130,163902.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+23365481180,4910.7,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+23365481190,3567.7,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+23365481200,2613.5,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+23365481210,3967.1,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+23365491040,81253.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491050,121278.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491060,141506.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491070,143086.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491080,198294.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491090,96752.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491100,144283.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491110,233112.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491120,232808.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491130,212032.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491180,-3688.3,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491190,-2064.6,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491200,-1274.7,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+23365491210,-2383.5,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365471000,63878.0,Australia,2000,Ekspor,Neraca Perdagangan beberapa Negara
+33365471010,63389.0,Australia,2001,Ekspor,Neraca Perdagangan beberapa Negara
+33365471020,65036.0,Australia,2002,Ekspor,Neraca Perdagangan beberapa Negara
+33365471030,71551.0,Australia,2003,Ekspor,Neraca Perdagangan beberapa Negara
+33365471040,86420.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+33365471050,105833.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+33365471060,123316.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+33365471070,141122.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+33365471080,186965.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+33365471090,153884.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+33365471100,212337.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+33365471110,271733.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+33365471120,256675.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+33365471130,252981.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+33365471140,241160.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+33365471180,2819.6,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+33365471190,2328.6,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+33365471200,2505.7,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+33365471210,3223.0,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+33365481000,71537.0,Australia,2000,Impor,Neraca Perdagangan beberapa Negara
+33365481010,63890.0,Australia,2001,Impor,Neraca Perdagangan beberapa Negara
+33365481020,72693.0,Australia,2002,Impor,Neraca Perdagangan beberapa Negara
+33365481030,89089.0,Australia,2003,Impor,Neraca Perdagangan beberapa Negara
+33365481040,109383.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+33365481050,125283.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+33365481060,139279.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+33365481070,165364.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+33365481080,200273.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+33365481090,165470.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+33365481100,193201.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+33365481110,234357.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+33365481120,250560.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+33365481130,232595.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+33365481140,227626.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+33365481180,5825.5,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+33365481190,5515.3,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+33365481200,4646.6,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+33365481210,9425.0,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+33365491000,-7659.0,Australia,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491010,-501.0,Australia,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491020,-7657.0,Australia,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491030,-17539.0,Australia,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491040,-22962.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491050,-19449.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491060,-15963.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491070,-24241.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491080,-13308.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491090,-11587.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491100,19136.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491110,37376.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491120,6115.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491130,20385.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491140,13534.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491180,-3005.9,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491190,-3186.7,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491200,-2140.8,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+33365491210,-6202.0,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365471040,6615.0,Bangladesh,2004,Ekspor,Neraca Perdagangan beberapa Negara
+43365471050,7233.0,Bangladesh,2005,Ekspor,Neraca Perdagangan beberapa Negara
+43365471060,9103.0,Bangladesh,2006,Ekspor,Neraca Perdagangan beberapa Negara
+43365471070,10233.0,Bangladesh,2007,Ekspor,Neraca Perdagangan beberapa Negara
+43365471080,11777.0,Bangladesh,2008,Ekspor,Neraca Perdagangan beberapa Negara
+43365471090,12443.0,Bangladesh,2009,Ekspor,Neraca Perdagangan beberapa Negara
+43365471100,14195.0,Bangladesh,2010,Ekspor,Neraca Perdagangan beberapa Negara
+43365471110,19807.0,Bangladesh,2011,Ekspor,Neraca Perdagangan beberapa Negara
+43365471120,25113.0,Bangladesh,2012,Ekspor,Neraca Perdagangan beberapa Negara
+43365471130,27033.0,Bangladesh,2013,Ekspor,Neraca Perdagangan beberapa Negara
+43365471180,1890.3,Bangladesh,2018,Ekspor,Neraca Perdagangan beberapa Negara
+43365471190,1913.8,Bangladesh,2019,Ekspor,Neraca Perdagangan beberapa Negara
+43365471200,1684.5,Bangladesh,2020,Ekspor,Neraca Perdagangan beberapa Negara
+43365471210,2923.1,Bangladesh,2021,Ekspor,Neraca Perdagangan beberapa Negara
+43365481040,12611.0,Bangladesh,2004,Impor,Neraca Perdagangan beberapa Negara
+43365481050,12881.0,Bangladesh,2005,Impor,Neraca Perdagangan beberapa Negara
+43365481060,14964.0,Bangladesh,2006,Impor,Neraca Perdagangan beberapa Negara
+43365481070,17263.0,Bangladesh,2007,Impor,Neraca Perdagangan beberapa Negara
+43365481080,22473.0,Bangladesh,2008,Impor,Neraca Perdagangan beberapa Negara
+43365481090,20631.0,Bangladesh,2009,Impor,Neraca Perdagangan beberapa Negara
+43365481100,26071.0,Bangladesh,2010,Impor,Neraca Perdagangan beberapa Negara
+43365481110,33978.0,Bangladesh,2011,Impor,Neraca Perdagangan beberapa Negara
+43365481120,34133.0,Bangladesh,2012,Impor,Neraca Perdagangan beberapa Negara
+43365481130,33576.0,Bangladesh,2013,Impor,Neraca Perdagangan beberapa Negara
+43365481180,89.5,Bangladesh,2018,Impor,Neraca Perdagangan beberapa Negara
+43365481190,96.1,Bangladesh,2019,Impor,Neraca Perdagangan beberapa Negara
+43365481200,76.6,Bangladesh,2020,Impor,Neraca Perdagangan beberapa Negara
+43365481210,108.2,Bangladesh,2021,Impor,Neraca Perdagangan beberapa Negara
+43365491040,-5996.0,Bangladesh,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491050,-5648.0,Bangladesh,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491060,-5861.0,Bangladesh,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491070,-7030.0,Bangladesh,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491080,-10695.0,Bangladesh,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491090,-8188.0,Bangladesh,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491100,-11877.0,Bangladesh,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491110,-14171.0,Bangladesh,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491120,-9020.0,Bangladesh,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491130,-6543.0,Bangladesh,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491180,1800.8,Bangladesh,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491190,1817.7,Bangladesh,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491200,1607.9,Bangladesh,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+43365491210,2814.9,Bangladesh,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365471000,208889.0,Belanda,2000,Ekspor,Neraca Perdagangan beberapa Negara
+53365471010,216155.0,Belanda,2001,Ekspor,Neraca Perdagangan beberapa Negara
+53365471020,219857.0,Belanda,2002,Ekspor,Neraca Perdagangan beberapa Negara
+53365471030,264849.0,Belanda,2003,Ekspor,Neraca Perdagangan beberapa Negara
+53365471040,318066.0,Belanda,2004,Ekspor,Neraca Perdagangan beberapa Negara
+53365471050,349844.0,Belanda,2005,Ekspor,Neraca Perdagangan beberapa Negara
+53365471060,399635.0,Belanda,2006,Ekspor,Neraca Perdagangan beberapa Negara
+53365471070,476787.0,Belanda,2007,Ekspor,Neraca Perdagangan beberapa Negara
+53365471080,541398.0,Belanda,2008,Ekspor,Neraca Perdagangan beberapa Negara
+53365471090,431839.0,Belanda,2009,Ekspor,Neraca Perdagangan beberapa Negara
+53365471100,492742.0,Belanda,2010,Ekspor,Neraca Perdagangan beberapa Negara
+53365471110,569513.0,Belanda,2011,Ekspor,Neraca Perdagangan beberapa Negara
+53365471120,554699.0,Belanda,2012,Ekspor,Neraca Perdagangan beberapa Negara
+53365471130,567674.0,Belanda,2013,Ekspor,Neraca Perdagangan beberapa Negara
+53365471180,3896.6,Belanda,2018,Ekspor,Neraca Perdagangan beberapa Negara
+53365471190,3205.0,Belanda,2019,Ekspor,Neraca Perdagangan beberapa Negara
+53365471200,3113.7,Belanda,2020,Ekspor,Neraca Perdagangan beberapa Negara
+53365471210,4631.6,Belanda,2021,Ekspor,Neraca Perdagangan beberapa Negara
+53365481000,198331.0,Belanda,2000,Impor,Neraca Perdagangan beberapa Negara
+53365481010,195552.0,Belanda,2001,Impor,Neraca Perdagangan beberapa Negara
+53365481020,194130.0,Belanda,2002,Impor,Neraca Perdagangan beberapa Negara
+53365481030,234014.0,Belanda,2003,Impor,Neraca Perdagangan beberapa Negara
+53365481040,284020.0,Belanda,2004,Impor,Neraca Perdagangan beberapa Negara
+53365481050,310600.0,Belanda,2005,Impor,Neraca Perdagangan beberapa Negara
+53365481060,358510.0,Belanda,2006,Impor,Neraca Perdagangan beberapa Negara
+53365481070,421084.0,Belanda,2007,Impor,Neraca Perdagangan beberapa Negara
+53365481080,495043.0,Belanda,2008,Impor,Neraca Perdagangan beberapa Negara
+53365481090,382268.0,Belanda,2009,Impor,Neraca Perdagangan beberapa Negara
+53365481100,440024.0,Belanda,2010,Impor,Neraca Perdagangan beberapa Negara
+53365481110,507759.0,Belanda,2011,Impor,Neraca Perdagangan beberapa Negara
+53365481120,501163.0,Belanda,2012,Impor,Neraca Perdagangan beberapa Negara
+53365481130,507478.0,Belanda,2013,Impor,Neraca Perdagangan beberapa Negara
+53365481180,1239.3,Belanda,2018,Impor,Neraca Perdagangan beberapa Negara
+53365481190,832.0,Belanda,2019,Impor,Neraca Perdagangan beberapa Negara
+53365481200,804.3,Belanda,2020,Impor,Neraca Perdagangan beberapa Negara
+53365481210,846.1,Belanda,2021,Impor,Neraca Perdagangan beberapa Negara
+53365491000,10558.0,Belanda,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491010,20603.0,Belanda,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491020,25727.0,Belanda,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491030,30835.0,Belanda,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491040,34046.0,Belanda,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491050,39244.0,Belanda,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491060,41125.0,Belanda,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491070,55703.0,Belanda,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491080,46355.0,Belanda,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491090,49571.0,Belanda,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491100,52718.0,Belanda,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491110,61754.0,Belanda,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491120,53536.0,Belanda,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491130,60196.0,Belanda,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491180,2657.3,Belanda,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491190,2372.9,Belanda,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491200,2309.4,Belanda,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+53365491210,3785.5,Belanda,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365471040,306816.0,Belgia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+63365471050,335862.0,Belgia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+63365471060,366758.0,Belgia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+63365471070,431118.0,Belgia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+63365471080,471932.0,Belgia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+63365471090,371397.0,Belgia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+63365471100,407055.0,Belgia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+63365471110,475981.0,Belgia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+63365471120,446637.0,Belgia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+63365471130,467831.0,Belgia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+63365471180,1261.2,Belgia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+63365471190,1075.7,Belgia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+63365471200,1220.4,Belgia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+63365471210,1630.9,Belgia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+63365481040,285596.0,Belgia,2004,Impor,Neraca Perdagangan beberapa Negara
+63365481050,318768.0,Belgia,2005,Impor,Neraca Perdagangan beberapa Negara
+63365481060,351575.0,Belgia,2006,Impor,Neraca Perdagangan beberapa Negara
+63365481070,412012.0,Belgia,2007,Impor,Neraca Perdagangan beberapa Negara
+63365481080,466437.0,Belgia,2008,Impor,Neraca Perdagangan beberapa Negara
+63365481090,354666.0,Belgia,2009,Impor,Neraca Perdagangan beberapa Negara
+63365481100,391333.0,Belgia,2010,Impor,Neraca Perdagangan beberapa Negara
+63365481110,466833.0,Belgia,2011,Impor,Neraca Perdagangan beberapa Negara
+63365481120,439492.0,Belgia,2012,Impor,Neraca Perdagangan beberapa Negara
+63365481130,451921.0,Belgia,2013,Impor,Neraca Perdagangan beberapa Negara
+63365481180,603.4,Belgia,2018,Impor,Neraca Perdagangan beberapa Negara
+63365481190,633.6,Belgia,2019,Impor,Neraca Perdagangan beberapa Negara
+63365481200,526.0,Belgia,2020,Impor,Neraca Perdagangan beberapa Negara
+63365481210,767.8,Belgia,2021,Impor,Neraca Perdagangan beberapa Negara
+63365491040,21220.0,Belgia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491050,17104.0,Belgia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491060,15184.0,Belgia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491070,19106.0,Belgia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491080,5494.0,Belgia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491090,16731.0,Belgia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491100,15721.0,Belgia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491110,9148.0,Belgia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491120,7145.0,Belgia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491130,15910.0,Belgia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491180,657.8,Belgia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491190,442.1,Belgia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491200,694.4,Belgia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+63365491210,863.1,Belgia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365471040,96678.0,Brazil,2004,Ekspor,Neraca Perdagangan beberapa Negara
+73365471050,118529.0,Brazil,2005,Ekspor,Neraca Perdagangan beberapa Negara
+73365471060,137807.0,Brazil,2006,Ekspor,Neraca Perdagangan beberapa Negara
+73365471070,160649.0,Brazil,2007,Ekspor,Neraca Perdagangan beberapa Negara
+73365471080,197942.0,Brazil,2008,Ekspor,Neraca Perdagangan beberapa Negara
+73365471090,152995.0,Brazil,2009,Ekspor,Neraca Perdagangan beberapa Negara
+73365471100,201915.0,Brazil,2010,Ekspor,Neraca Perdagangan beberapa Negara
+73365471110,256040.0,Brazil,2011,Ekspor,Neraca Perdagangan beberapa Negara
+73365471120,242580.0,Brazil,2012,Ekspor,Neraca Perdagangan beberapa Negara
+73365471130,242179.0,Brazil,2013,Ekspor,Neraca Perdagangan beberapa Negara
+73365471140,225102.0,Brazil,2014,Ekspor,Neraca Perdagangan beberapa Negara
+73365471180,1145.7,Brazil,2018,Ekspor,Neraca Perdagangan beberapa Negara
+73365471190,1002.6,Brazil,2019,Ekspor,Neraca Perdagangan beberapa Negara
+73365471200,1015.2,Brazil,2020,Ekspor,Neraca Perdagangan beberapa Negara
+73365471210,1509.7,Brazil,2021,Ekspor,Neraca Perdagangan beberapa Negara
+73365481040,66433.0,Brazil,2004,Impor,Neraca Perdagangan beberapa Negara
+73365481050,77628.0,Brazil,2005,Impor,Neraca Perdagangan beberapa Negara
+73365481060,95838.0,Brazil,2006,Impor,Neraca Perdagangan beberapa Negara
+73365481070,126645.0,Brazil,2007,Impor,Neraca Perdagangan beberapa Negara
+73365481080,182377.0,Brazil,2008,Impor,Neraca Perdagangan beberapa Negara
+73365481090,133673.0,Brazil,2009,Impor,Neraca Perdagangan beberapa Negara
+73365481100,191537.0,Brazil,2010,Impor,Neraca Perdagangan beberapa Negara
+73365481110,236946.0,Brazil,2011,Impor,Neraca Perdagangan beberapa Negara
+73365481120,228377.0,Brazil,2012,Impor,Neraca Perdagangan beberapa Negara
+73365481130,244677.0,Brazil,2013,Impor,Neraca Perdagangan beberapa Negara
+73365481140,237531.0,Brazil,2014,Impor,Neraca Perdagangan beberapa Negara
+73365481180,1802.5,Brazil,2018,Impor,Neraca Perdagangan beberapa Negara
+73365481190,1940.4,Brazil,2019,Impor,Neraca Perdagangan beberapa Negara
+73365481200,2560.8,Brazil,2020,Impor,Neraca Perdagangan beberapa Negara
+73365481210,2621.5,Brazil,2021,Impor,Neraca Perdagangan beberapa Negara
+73365491040,30244.0,Brazil,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491050,40901.0,Brazil,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491060,41969.0,Brazil,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491070,34004.0,Brazil,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491080,15565.0,Brazil,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491090,19322.0,Brazil,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491100,10378.0,Brazil,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491110,19094.0,Brazil,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491120,14203.0,Brazil,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491130,-2498.0,Brazil,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491140,-12429.0,Brazil,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491180,-656.8,Brazil,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491190,-937.7,Brazil,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491200,-1545.6,Brazil,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+73365491210,-1111.8,Brazil,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365471000,249203.0,Cina/Tiongkok,2000,Ekspor,Neraca Perdagangan beberapa Negara
+83365471010,266098.0,Cina/Tiongkok,2001,Ekspor,Neraca Perdagangan beberapa Negara
+83365471020,325596.0,Cina/Tiongkok,2002,Ekspor,Neraca Perdagangan beberapa Negara
+83365471030,438228.0,Cina/Tiongkok,2003,Ekspor,Neraca Perdagangan beberapa Negara
+83365471040,593326.0,Cina/Tiongkok,2004,Ekspor,Neraca Perdagangan beberapa Negara
+83365471050,102000.0,Cina/Tiongkok,2005,Ekspor,Neraca Perdagangan beberapa Negara
+83365471060,969380.0,Cina/Tiongkok,2006,Ekspor,Neraca Perdagangan beberapa Negara
+83365471070,1217815.0,Cina/Tiongkok,2007,Ekspor,Neraca Perdagangan beberapa Negara
+83365471080,1428660.0,Cina/Tiongkok,2008,Ekspor,Neraca Perdagangan beberapa Negara
+83365471090,1201790.0,Cina/Tiongkok,2009,Ekspor,Neraca Perdagangan beberapa Negara
+83365471100,1578270.0,Cina/Tiongkok,2010,Ekspor,Neraca Perdagangan beberapa Negara
+83365471110,1899180.0,Cina/Tiongkok,2011,Ekspor,Neraca Perdagangan beberapa Negara
+83365471120,2048940.0,Cina/Tiongkok,2012,Ekspor,Neraca Perdagangan beberapa Negara
+83365471130,2210250.0,Cina/Tiongkok,2013,Ekspor,Neraca Perdagangan beberapa Negara
+83365471180,27132.2,Cina/Tiongkok,2018,Ekspor,Neraca Perdagangan beberapa Negara
+83365471190,27961.9,Cina/Tiongkok,2019,Ekspor,Neraca Perdagangan beberapa Negara
+83365471200,31781.8,Cina/Tiongkok,2020,Ekspor,Neraca Perdagangan beberapa Negara
+83365471210,53781.9,Cina/Tiongkok,2021,Ekspor,Neraca Perdagangan beberapa Negara
+83365481000,225094.0,Cina/Tiongkok,2000,Impor,Neraca Perdagangan beberapa Negara
+83365481010,243553.0,Cina/Tiongkok,2001,Impor,Neraca Perdagangan beberapa Negara
+83365481020,295170.0,Cina/Tiongkok,2002,Impor,Neraca Perdagangan beberapa Negara
+83365481030,412760.0,Cina/Tiongkok,2003,Impor,Neraca Perdagangan beberapa Negara
+83365481040,561229.0,Cina/Tiongkok,2004,Impor,Neraca Perdagangan beberapa Negara
+83365481050,761953.0,Cina/Tiongkok,2005,Impor,Neraca Perdagangan beberapa Negara
+83365481060,791797.0,Cina/Tiongkok,2006,Impor,Neraca Perdagangan beberapa Negara
+83365481070,956233.0,Cina/Tiongkok,2007,Impor,Neraca Perdagangan beberapa Negara
+83365481080,1131620.0,Cina/Tiongkok,2008,Impor,Neraca Perdagangan beberapa Negara
+83365481090,1004170.0,Cina/Tiongkok,2009,Impor,Neraca Perdagangan beberapa Negara
+83365481100,1396200.0,Cina/Tiongkok,2010,Impor,Neraca Perdagangan beberapa Negara
+83365481110,1742850.0,Cina/Tiongkok,2011,Impor,Neraca Perdagangan beberapa Negara
+83365481120,1817780.0,Cina/Tiongkok,2012,Impor,Neraca Perdagangan beberapa Negara
+83365481130,1950380.0,Cina/Tiongkok,2013,Impor,Neraca Perdagangan beberapa Negara
+83365481180,45537.8,Cina/Tiongkok,2018,Impor,Neraca Perdagangan beberapa Negara
+83365481190,44930.6,Cina/Tiongkok,2019,Impor,Neraca Perdagangan beberapa Negara
+83365481200,39634.7,Cina/Tiongkok,2020,Impor,Neraca Perdagangan beberapa Negara
+83365481210,56227.2,Cina/Tiongkok,2021,Impor,Neraca Perdagangan beberapa Negara
+83365491000,24109.0,Cina/Tiongkok,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491010,22545.0,Cina/Tiongkok,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491020,30426.0,Cina/Tiongkok,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491030,25468.0,Cina/Tiongkok,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491040,32097.0,Cina/Tiongkok,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491050,1073081871.0,Cina/Tiongkok,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491060,177583.0,Cina/Tiongkok,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491070,261582.0,Cina/Tiongkok,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491080,297040.0,Cina/Tiongkok,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491090,197620.0,Cina/Tiongkok,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491100,182070.0,Cina/Tiongkok,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491110,156330.0,Cina/Tiongkok,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491120,231160.0,Cina/Tiongkok,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491130,259870.0,Cina/Tiongkok,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491180,-18405.6,Cina/Tiongkok,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491190,-16968.7,Cina/Tiongkok,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491200,-7852.9,Cina/Tiongkok,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+83365491210,-2445.3,Cina/Tiongkok,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365471000,50367.0,Denmark,2000,Ekspor,Neraca Perdagangan beberapa Negara
+93365471010,51077.0,Denmark,2001,Ekspor,Neraca Perdagangan beberapa Negara
+93365471020,56308.0,Denmark,2002,Ekspor,Neraca Perdagangan beberapa Negara
+93365471030,65280.0,Denmark,2003,Ekspor,Neraca Perdagangan beberapa Negara
+93365471040,75568.0,Denmark,2004,Ekspor,Neraca Perdagangan beberapa Negara
+93365471050,83569.0,Denmark,2005,Ekspor,Neraca Perdagangan beberapa Negara
+93365471060,91703.0,Denmark,2006,Ekspor,Neraca Perdagangan beberapa Negara
+93365471070,101954.0,Denmark,2007,Ekspor,Neraca Perdagangan beberapa Negara
+93365471080,115929.0,Denmark,2008,Ekspor,Neraca Perdagangan beberapa Negara
+93365471090,91817.0,Denmark,2009,Ekspor,Neraca Perdagangan beberapa Negara
+93365471100,95758.0,Denmark,2010,Ekspor,Neraca Perdagangan beberapa Negara
+93365471110,111900.0,Denmark,2011,Ekspor,Neraca Perdagangan beberapa Negara
+93365471120,106125.0,Denmark,2012,Ekspor,Neraca Perdagangan beberapa Negara
+93365471130,111351.0,Denmark,2013,Ekspor,Neraca Perdagangan beberapa Negara
+93365471140,110489.0,Denmark,2014,Ekspor,Neraca Perdagangan beberapa Negara
+93365471180,201.3,Denmark,2018,Ekspor,Neraca Perdagangan beberapa Negara
+93365471190,195.3,Denmark,2019,Ekspor,Neraca Perdagangan beberapa Negara
+93365471200,163.9,Denmark,2020,Ekspor,Neraca Perdagangan beberapa Negara
+93365471210,201.9,Denmark,2021,Ekspor,Neraca Perdagangan beberapa Negara
+93365481000,44377.0,Denmark,2000,Impor,Neraca Perdagangan beberapa Negara
+93365481010,44132.0,Denmark,2001,Impor,Neraca Perdagangan beberapa Negara
+93365481020,48890.0,Denmark,2002,Impor,Neraca Perdagangan beberapa Negara
+93365481030,56227.0,Denmark,2003,Impor,Neraca Perdagangan beberapa Negara
+93365481040,66845.0,Denmark,2004,Impor,Neraca Perdagangan beberapa Negara
+93365481050,74265.0,Denmark,2005,Impor,Neraca Perdagangan beberapa Negara
+93365481060,85103.0,Denmark,2006,Impor,Neraca Perdagangan beberapa Negara
+93365481070,97324.0,Denmark,2007,Impor,Neraca Perdagangan beberapa Negara
+93365481080,109158.0,Denmark,2008,Impor,Neraca Perdagangan beberapa Negara
+93365481090,80372.0,Denmark,2009,Impor,Neraca Perdagangan beberapa Negara
+93365481100,83170.0,Denmark,2010,Impor,Neraca Perdagangan beberapa Negara
+93365481110,96431.0,Denmark,2011,Impor,Neraca Perdagangan beberapa Negara
+93365481120,92295.0,Denmark,2012,Impor,Neraca Perdagangan beberapa Negara
+93365481130,98374.0,Denmark,2013,Impor,Neraca Perdagangan beberapa Negara
+93365481140,99127.0,Denmark,2014,Impor,Neraca Perdagangan beberapa Negara
+93365481180,202.5,Denmark,2018,Impor,Neraca Perdagangan beberapa Negara
+93365481190,204.8,Denmark,2019,Impor,Neraca Perdagangan beberapa Negara
+93365481200,161.6,Denmark,2020,Impor,Neraca Perdagangan beberapa Negara
+93365481210,205.3,Denmark,2021,Impor,Neraca Perdagangan beberapa Negara
+93365491000,5990.0,Denmark,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491010,6945.0,Denmark,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491020,7418.0,Denmark,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491030,9052.0,Denmark,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491040,8723.0,Denmark,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491050,9303.0,Denmark,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491060,6600.0,Denmark,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491070,4631.0,Denmark,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491080,6722.0,Denmark,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491090,11445.0,Denmark,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491100,12589.0,Denmark,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491110,15469.0,Denmark,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491120,13830.0,Denmark,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491130,12977.0,Denmark,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491140,11363.0,Denmark,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491180,-1.2,Denmark,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491190,-9.4,Denmark,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491200,2.3,Denmark,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+93365491210,-3.4,Denmark,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365471040,181663.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+103365471050,241473.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+103365471060,301244.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+103365471070,351930.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+103365471080,467581.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+103365471090,301656.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+103365471100,397668.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+103365471110,516481.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+103365471120,525383.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+103365471130,527266.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+103365471140,497561.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+103365471180,1000.9,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+103365471190,864.1,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+103365471200,973.5,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+103365471210,1493.6,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+103365481040,75569.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+103365481050,98708.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+103365481060,137807.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+103365481070,199754.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+103365481080,267101.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+103365481090,167411.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+103365481100,229655.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+103365481110,305605.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+103365481120,314150.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+103365481130,314967.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+103365481140,285893.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+103365481180,1551.1,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+103365481190,1204.5,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+103365481200,957.9,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+103365481210,1253.8,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+103365491040,106093.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491050,142766.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491060,163437.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491070,152176.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491080,200480.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491090,134245.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491100,168013.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491110,210877.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491120,211233.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491130,212299.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491140,211668.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491180,-550.2,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491190,-340.4,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491200,15.7,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+103365491210,239.8,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365471000,39794.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+113365471010,32664.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+113365471020,36510.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+113365471030,36231.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+113365471040,39680.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+113365471050,39879.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+113365471060,47413.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+113365471070,50270.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+113365471080,49462.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+113365471090,38421.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+113365471100,51541.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+113365471110,48316.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+113365471120,52071.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+113365471130,53885.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+113365471180,6832.2,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+113365471190,6770.1,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+113365471200,5900.7,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+113365471210,8603.7,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+113365481000,36887.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+113365481010,34944.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+113365481020,37202.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+113365481030,39502.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+113365481040,42345.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+113365481050,46963.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+113365481060,54077.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+113365481070,57708.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+113365481080,60491.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+113365481090,45856.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+113365481100,58533.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+113365481110,64097.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+113365481120,65845.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+113365481130,65048.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+113365481180,958.4,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+113365481190,821.9,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+113365481200,592.0,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+113365481210,1273.3,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+113365491000,2907.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491010,-2280.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491020,-692.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491030,-3271.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491040,-2664.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491050,-7084.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491060,-6665.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491070,-7438.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491080,-11030.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491090,-7436.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491100,-6992.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491110,-15781.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491120,-13773.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491130,-11163.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491180,5873.8,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491190,5948.2,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491200,5308.7,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+113365491210,7330.4,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365471000,45482.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+123365471010,42802.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+123365471020,44671.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+123365471030,52514.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+123365471040,60916.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+123365471050,65240.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+123365471060,77287.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+123365471070,90091.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+123365471080,96890.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+123365471090,62859.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+123365471100,69492.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+123365471110,79126.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+123365471120,73114.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+123365471130,74433.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+123365471140,73982.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+123365471180,85.1,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+123365471190,76.6,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+123365471200,60.8,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+123365471210,85.5,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+123365481000,33900.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+123365481010,32114.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+123365481020,33642.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+123365481030,41601.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+123365481040,50677.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+123365481050,58474.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+123365481060,69448.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+123365481070,81756.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+123365481080,92160.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+123365481090,60822.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+123365481100,68773.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+123365481110,84235.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+123365481120,76558.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+123365481130,77579.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+123365481140,76161.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+123365481180,663.3,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+123365481190,506.8,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+123365481200,334.3,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+123365481210,390.4,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+123365491000,11582.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491010,10688.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491020,11029.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491030,10913.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491040,10239.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491050,6765.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491060,7839.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491070,8335.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491080,4730.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491090,2037.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491100,719.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491110,-5108.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491120,-3444.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491130,-3146.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491140,-2179.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491180,-578.2,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491190,-430.2,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491200,-273.5,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+123365491210,-304.9,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365471000,201860.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+133365471010,189894.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+133365471020,200092.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+133365471030,223762.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+133365471040,259260.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+133365471050,289337.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+133365471060,316816.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+133365471070,344629.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+133365471080,362675.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+133365471090,318510.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+133365471100,390143.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+133365471110,428732.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+133365471120,442799.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+133365471130,458959.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+133365471140,473659.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+133365471180,2557.6,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+133365471190,2501.7,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+133365471200,2034.9,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+133365471210,2063.1,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+133365481000,212805.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+133365481010,201076.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+133365481020,207644.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+133365481030,231896.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+133365481040,271074.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+133365481050,299533.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+133365481060,334681.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+133365481070,367864.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+133365481080,388505.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+133365481090,347311.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+133365481100,433111.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+133365481110,483633.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+133365481120,504405.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+133365481130,523558.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+133365481140,544112.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+133365481180,2634.6,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+133365481190,3226.0,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+133365481200,2747.2,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+133365481210,2878.5,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+133365491000,-10945.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491010,-11182.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491020,-7552.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491030,-8134.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491040,-11814.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491050,-10196.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491060,-17865.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491070,-23235.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491080,-25830.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491090,-28801.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491100,-42968.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491110,-54901.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491120,-61606.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491130,-64599.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491140,-70453.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491180,-77.0,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491190,-724.3,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491200,-712.3,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+133365491210,-815.4,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365471000,42378.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+143365471010,43352.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+143365471020,50353.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+143365471030,58964.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+143365471040,76647.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+143365471050,99618.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+143365471060,121812.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+143365471070,150160.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+143365471080,194816.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+143365471090,164912.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+143365471100,226334.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+143365471110,302892.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+143365471120,296827.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+143365471130,314809.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+143365471180,13729.3,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+143365471190,11823.5,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+143365471200,10394.5,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+143365471210,13289.4,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+143365481000,51563.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+143365481010,50391.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+143365481020,56496.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+143365481030,72559.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+143365481040,99757.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+143365481050,142865.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+143365481060,178485.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+143365481070,229349.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+143365481080,321026.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+143365481090,257200.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+143365481100,350192.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+143365481110,464507.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+143365481120,489689.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+143365481130,465529.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+143365481180,5016.9,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+143365481190,4295.7,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+143365481200,3764.3,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+143365481210,7668.3,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+143365491000,-9185.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491010,-7038.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491020,-6143.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491030,-13595.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491040,-23110.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491050,-43247.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491060,-56674.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491070,-79189.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491080,-126210.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491090,-92288.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491100,-123858.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491110,-161615.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491120,-192863.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491130,-150720.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491180,8712.4,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491190,7527.8,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491200,6630.2,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+143365491210,5621.1,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365471000,62124.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+153365471010,56321.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+153365471020,57159.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+153365471030,61058.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+153365471040,71585.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+153365471050,85660.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+153365471060,100799.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+153365471070,114101.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+153365471080,137020.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+153365471090,116510.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+153365471100,157779.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+153365471110,203497.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+153365471120,190020.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+153365471130,182552.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+153365471140,176293.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+153365471180,0.0,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+153365471190,0.0,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+153365471200,0.0,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+153365471210,0.0,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+153365481000,33515.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+153365481010,30962.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+153365481020,31289.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+153365481030,32551.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+153365481040,46525.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+153365481050,57701.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+153365481060,61066.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+153365481070,74473.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+153365481080,129197.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+153365481090,96829.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+153365481100,135663.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+153365481110,177436.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+153365481120,191690.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+153365481130,186629.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+153365481140,178179.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+153365481180,35.3,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+153365481190,96.6,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+153365481200,47.5,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+153365481210,59.3,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+153365491000,28609.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491010,25359.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491020,25870.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491030,28507.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491040,25060.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491050,27959.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491060,39733.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491070,39628.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491080,7823.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491090,19681.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491100,22116.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491110,26061.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491120,-1669.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491130,-4077.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491140,-1886.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491180,-35.3,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491190,-96.6,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491200,-47.5,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+153365491210,-59.3,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365471000,281525.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+163365471010,267357.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+163365471020,276317.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+163365471030,304268.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+163365471040,341621.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+163365471050,371381.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+163365471060,428261.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+163365471070,434473.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+163365471080,468354.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+163365471090,357353.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+163365471100,410006.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+163365471110,478460.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+163365471120,476284.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+163365471130,476991.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+163365471140,477950.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+163365471180,1465.3,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+163365471190,1351.5,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+163365471200,1283.4,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+163365471210,1475.9,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+163365481000,334371.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+163365481010,320956.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+163365481020,335458.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+163365481030,380821.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+163365481040,451715.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+163365481050,483066.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+163365481060,547543.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+163365481070,620899.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+163365481080,643387.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+163365481090,486737.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+163365481100,562493.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+163365481110,638940.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+163365481120,648671.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+163365481130,645516.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+163365481140,663726.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+163365481180,1212.5,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+163365481190,1048.6,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+163365481200,956.4,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+163365481210,1090.7,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+163365491000,-52846.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491010,-53599.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491020,-59142.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491030,-76553.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491040,-110094.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491050,-111685.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491060,-119282.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491070,-186426.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491080,-173033.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491090,-129384.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491100,-152487.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491110,-160480.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491120,-172387.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491130,-168525.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491140,-185775.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491180,252.8,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491190,302.9,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491200,327.0,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+163365491210,385.2,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365471000,239934.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+173365471010,244253.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+173365471020,254219.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+173365471030,299468.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+173365471040,353544.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+173365471050,372962.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+173365471060,416231.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+173365471070,499933.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+173365471080,544962.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+173365471090,406685.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+173365471100,446852.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+173365471110,523283.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+173365471120,501534.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+173365471130,517628.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+173365471180,1920.9,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+173365471190,1749.3,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+173365471200,1746.2,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+173365471210,2792.3,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+173365481000,238071.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+173365481010,236128.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+173365481020,246613.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+173365481030,297405.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+173365481040,355269.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+173365481050,384837.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+173365481060,440852.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+173365481070,509937.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+173365481080,563436.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+173365481090,414725.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+173365481100,486968.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+173365481110,558813.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+173365481120,489096.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+173365481130,477292.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+173365481180,1840.3,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+173365481190,1776.6,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+173365481200,1556.8,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+173365481210,1728.3,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+173365491000,1863.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491010,8125.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491020,7606.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491030,2063.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491040,-1726.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491050,-11875.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491060,-24621.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491070,-10004.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491080,-18474.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491090,-8040.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491100,-40116.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491110,-35530.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491120,12438.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491130,40336.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491180,80.6,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491190,-27.3,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491200,189.5,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+173365491210,1064.0,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365471000,479227.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+183365471010,403616.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+183365471020,416730.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+183365471030,471999.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+183365471040,565743.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+183365471050,594986.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+183365471060,649948.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+183365471070,714211.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+183365471080,782049.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+183365471090,580719.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+183365471100,769772.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+183365471110,822564.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+183365471120,798621.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+183365471130,714613.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+183365471140,690284.0,Amerika Serikat,2014,Ekspor,Neraca Perdagangan beberapa Negara
+183365471180,19465.6,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+183365471190,16003.3,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+183365471200,13664.7,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+183365471210,17855.4,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+183365481000,379491.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+183365481010,349189.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+183365481020,337209.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+183365481030,383085.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+183365481040,454592.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+183365481050,514988.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+183365481060,579609.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+183365481070,619662.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+183365481080,762626.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+183365481090,550550.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+183365481100,692435.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+183365481110,854098.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+183365481120,885610.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+183365481130,832424.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+183365481140,811882.0,Amerika Serikat,2014,Impor,Neraca Perdagangan beberapa Negara
+183365481180,17976.8,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+183365481190,15661.8,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+183365481200,10672.1,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+183365481210,14644.3,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+183365491000,99736.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491010,54427.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491020,79520.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491030,88914.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491040,111150.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491050,79998.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491060,70340.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491070,94549.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491080,19422.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491090,30169.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491100,77337.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491110,-31534.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491120,-86989.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491130,-117811.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491140,-121598.0,Amerika Serikat,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491180,1488.8,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491190,-341.4,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491200,-2992.7,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+183365491210,3211.1,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365471000,550260.0,Amerika Serikat,2000,Ekspor,Neraca Perdagangan beberapa Negara
+193365471010,571460.0,Amerika Serikat,2001,Ekspor,Neraca Perdagangan beberapa Negara
+193365471020,615705.0,Amerika Serikat,2002,Ekspor,Neraca Perdagangan beberapa Negara
+193365471030,751824.0,Amerika Serikat,2003,Ekspor,Neraca Perdagangan beberapa Negara
+193365471040,911858.0,Amerika Serikat,2004,Ekspor,Neraca Perdagangan beberapa Negara
+193365471050,977970.0,Amerika Serikat,2005,Ekspor,Neraca Perdagangan beberapa Negara
+193365471060,1122112.0,Amerika Serikat,2006,Ekspor,Neraca Perdagangan beberapa Negara
+193365471070,1323818.0,Amerika Serikat,2007,Ekspor,Neraca Perdagangan beberapa Negara
+193365471080,1451390.0,Amerika Serikat,2008,Ekspor,Neraca Perdagangan beberapa Negara
+193365471090,1120666.0,Amerika Serikat,2009,Ekspor,Neraca Perdagangan beberapa Negara
+193365471100,1261577.0,Amerika Serikat,2010,Ekspor,Neraca Perdagangan beberapa Negara
+193365471110,1476955.0,Amerika Serikat,2011,Ekspor,Neraca Perdagangan beberapa Negara
+193365471120,1408370.0,Amerika Serikat,2012,Ekspor,Neraca Perdagangan beberapa Negara
+193365471130,1451631.0,Amerika Serikat,2013,Ekspor,Neraca Perdagangan beberapa Negara
+193365471180,2708.2,Amerika Serikat,2018,Ekspor,Neraca Perdagangan beberapa Negara
+193365471190,2405.8,Amerika Serikat,2019,Ekspor,Neraca Perdagangan beberapa Negara
+193365471200,2456.3,Amerika Serikat,2020,Ekspor,Neraca Perdagangan beberapa Negara
+193365471210,2909.9,Amerika Serikat,2021,Ekspor,Neraca Perdagangan beberapa Negara
+193365481000,495480.0,Amerika Serikat,2000,Impor,Neraca Perdagangan beberapa Negara
+193365481010,486053.0,Amerika Serikat,2001,Impor,Neraca Perdagangan beberapa Negara
+193365481020,490157.0,Amerika Serikat,2002,Impor,Neraca Perdagangan beberapa Negara
+193365481030,604729.0,Amerika Serikat,2003,Impor,Neraca Perdagangan beberapa Negara
+193365481040,718269.0,Amerika Serikat,2004,Impor,Neraca Perdagangan beberapa Negara
+193365481050,780514.0,Amerika Serikat,2005,Impor,Neraca Perdagangan beberapa Negara
+193365481060,922376.0,Amerika Serikat,2006,Impor,Neraca Perdagangan beberapa Negara
+193365481070,1055997.0,Amerika Serikat,2007,Impor,Neraca Perdagangan beberapa Negara
+193365481080,1186681.0,Amerika Serikat,2008,Impor,Neraca Perdagangan beberapa Negara
+193365481090,926154.0,Amerika Serikat,2009,Impor,Neraca Perdagangan beberapa Negara
+193365481100,1056170.0,Amerika Serikat,2010,Impor,Neraca Perdagangan beberapa Negara
+193365481110,1256168.0,Amerika Serikat,2011,Impor,Neraca Perdagangan beberapa Negara
+193365481120,1164626.0,Amerika Serikat,2012,Impor,Neraca Perdagangan beberapa Negara
+193365481130,1192751.0,Amerika Serikat,2013,Impor,Neraca Perdagangan beberapa Negara
+193365481180,3973.0,Amerika Serikat,2018,Impor,Neraca Perdagangan beberapa Negara
+193365481190,3476.5,Amerika Serikat,2019,Impor,Neraca Perdagangan beberapa Negara
+193365481200,3023.9,Amerika Serikat,2020,Impor,Neraca Perdagangan beberapa Negara
+193365481210,3187.6,Amerika Serikat,2021,Impor,Neraca Perdagangan beberapa Negara
+193365491000,54780.0,Amerika Serikat,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491010,85407.0,Amerika Serikat,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491020,125548.0,Amerika Serikat,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491030,147095.0,Amerika Serikat,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491040,193589.0,Amerika Serikat,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491050,197456.0,Amerika Serikat,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491060,199736.0,Amerika Serikat,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491070,267822.0,Amerika Serikat,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491080,264709.0,Amerika Serikat,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491090,194512.0,Amerika Serikat,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491100,205408.0,Amerika Serikat,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491110,220787.0,Amerika Serikat,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491120,243744.0,Amerika Serikat,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491130,258880.0,Amerika Serikat,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491180,-1264.8,Amerika Serikat,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491190,-1070.8,Amerika Serikat,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491200,-567.6,Amerika Serikat,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+193365491210,-277.7,Amerika Serikat,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365471040,2798.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+203365471050,3200.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+203365471060,3800.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+203365471070,4400.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+203365471080,4708.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+203365471090,4196.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+203365471100,5143.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+203365471110,6950.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+203365471120,8200.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+203365471130,9100.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+203365471180,525.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+203365471190,618.5,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+203365471200,541.3,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+203365471210,531.1,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+203365481040,3193.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+203365481050,3927.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+203365481060,4749.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+203365481070,5300.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+203365481080,6508.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+203365481090,5830.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+203365481100,6791.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+203365481110,9300.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+203365481120,11000.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+203365481130,13000.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+203365481180,33.0,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+203365481190,42.6,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+203365481200,47.4,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+203365481210,49.3,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+203365491040,-395.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491050,-727.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491060,-949.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491070,-900.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491080,-1800.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491090,-1634.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491100,-1648.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491110,-2350.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491120,-2800.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491130,-3900.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491180,492.6,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491190,575.9,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491200,493.9,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+203365491210,481.8,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365471000,276645.0,Arab Saudi,2000,Ekspor,Neraca Perdagangan beberapa Negara
+213365471010,259857.0,Arab Saudi,2001,Ekspor,Neraca Perdagangan beberapa Negara
+213365471020,252408.0,Arab Saudi,2002,Ekspor,Neraca Perdagangan beberapa Negara
+213365471030,272699.0,Arab Saudi,2003,Ekspor,Neraca Perdagangan beberapa Negara
+213365471040,304623.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+213365471050,359411.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+213365471060,389513.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+213365471070,416432.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+213365471080,452170.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+213365471090,313981.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+213365471100,387481.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+213365471110,452132.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+213365471120,454833.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+213365471130,458397.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+213365471140,469980.0,Arab Saudi,2014,Ekspor,Neraca Perdagangan beberapa Negara
+213365471180,913.9,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+213365471190,858.2,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+213365471200,789.1,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+213365471210,1061.6,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+213365481000,238812.0,Arab Saudi,2000,Impor,Neraca Perdagangan beberapa Negara
+213365481010,221757.0,Arab Saudi,2001,Impor,Neraca Perdagangan beberapa Negara
+213365481020,221961.0,Arab Saudi,2002,Impor,Neraca Perdagangan beberapa Negara
+213365481030,239085.0,Arab Saudi,2003,Impor,Neraca Perdagangan beberapa Negara
+213365481040,273084.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+213365481050,323365.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+213365481060,348958.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+213365481070,379794.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+213365481080,407165.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+213365481090,320287.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+213365481100,392119.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+213365481110,451246.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+213365481120,462423.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+213365481130,461925.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+213365481140,465908.0,Arab Saudi,2014,Impor,Neraca Perdagangan beberapa Negara
+213365481180,1840.7,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+213365481190,1838.7,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+213365481200,1615.5,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+213365481210,2054.0,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+213365491000,37833.0,Arab Saudi,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491010,38100.0,Arab Saudi,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491020,30447.0,Arab Saudi,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491030,33614.0,Arab Saudi,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491040,31538.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491050,36046.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491060,40555.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491070,36638.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491080,45005.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491090,-6306.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491100,-4638.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491110,886.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491120,-7590.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491130,-3528.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491140,4072.0,Arab Saudi,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491180,-926.8,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491190,-980.5,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491200,-826.3,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+213365491210,-992.4,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365471040,20093.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+223365471050,27849.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+223365471060,38762.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+223365471070,48351.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+223365471080,71172.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+223365471090,43196.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+223365471100,57244.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+223365471110,83316.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+223365471120,88575.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+223365471130,81912.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+223365471180,33.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+223365471190,207.1,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+223365471200,19.8,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+223365471210,13.3,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+223365481040,12781.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+223365481050,17353.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+223365481060,24120.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+223365481070,33260.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+223365481080,38452.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+223365481090,28409.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+223365481100,24024.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+223365481110,30000.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+223365481120,35307.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+223365481130,45966.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+223365481180,26.7,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+223365481190,141.8,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+223365481200,130.1,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+223365481210,277.9,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+223365491040,7312.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491050,10497.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491060,14642.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491070,15091.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491080,32720.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491090,14787.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491100,33220.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491110,53316.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491120,53268.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491130,35945.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491180,6.9,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491190,65.3,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491200,-110.3,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+223365491210,-264.6,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365471000,172267.0,Arab Saudi,2000,Ekspor,Neraca Perdagangan beberapa Negara
+233365471010,150439.0,Arab Saudi,2001,Ekspor,Neraca Perdagangan beberapa Negara
+233365471020,162471.0,Arab Saudi,2002,Ekspor,Neraca Perdagangan beberapa Negara
+233365471030,193817.0,Arab Saudi,2003,Ekspor,Neraca Perdagangan beberapa Negara
+233365471040,253845.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+233365471050,284419.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+233365471060,325465.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+233365471070,371554.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+233365471080,422007.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+233365471090,361614.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+233365471100,466384.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+233365471110,555216.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+233365471120,547879.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+233365471130,559649.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+233365471140,573091.0,Arab Saudi,2014,Ekspor,Neraca Perdagangan beberapa Negara
+233365471180,9540.1,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+233365471190,7234.4,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+233365471200,6507.6,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+233365471210,8980.5,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+233365481000,160481.0,Arab Saudi,2000,Impor,Neraca Perdagangan beberapa Negara
+233365481010,141098.0,Arab Saudi,2001,Impor,Neraca Perdagangan beberapa Negara
+233365481020,152126.0,Arab Saudi,2002,Impor,Neraca Perdagangan beberapa Negara
+233365481030,178827.0,Arab Saudi,2003,Impor,Neraca Perdagangan beberapa Negara
+233365481040,224463.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+233365481050,261238.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+233365481060,309383.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+233365481070,356648.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+233365481080,435275.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+233365481090,322843.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+233365481100,425212.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+233365481110,524418.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+233365481120,519569.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+233365481130,515561.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+233365481140,525564.0,Arab Saudi,2014,Impor,Neraca Perdagangan beberapa Negara
+233365481180,9088.9,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+233365481190,8421.3,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+233365481200,6849.4,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+233365481210,9427.2,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+233365491000,11786.0,Arab Saudi,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491010,9341.0,Arab Saudi,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491020,10345.0,Arab Saudi,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491030,14990.0,Arab Saudi,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491040,29382.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491050,23181.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491060,16082.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491070,14906.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491080,-13268.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491090,38771.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491100,41172.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491110,30798.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491120,28310.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491130,44088.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491140,47527.0,Arab Saudi,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491180,451.2,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491190,-1186.9,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491200,-341.8,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+233365491210,-446.7,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365471040,28599.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+243365471050,45189.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+243365471060,56016.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+243365471070,62871.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+243365471080,87648.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+243365471090,51985.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+243365471100,66619.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+243365471110,102078.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+243365471120,118912.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+243365471130,115210.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+243365471180,137.0,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+243365471190,196.5,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+243365471200,149.0,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+243365471210,128.7,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+243365481040,12630.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+243365481050,15534.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+243365481060,17243.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+243365481070,21388.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+243365481080,24836.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+243365481090,20348.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+243365481100,22691.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+243365481110,25144.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+243365481120,27259.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+243365481130,29644.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+243365481180,266.6,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+243365481190,308.3,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+243365481200,291.9,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+243365481210,266.8,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+243365491040,15968.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491050,29655.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491060,38774.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491070,41483.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491080,62812.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491090,31637.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491100,43927.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491110,76934.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491120,91653.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491130,85566.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491180,-129.6,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491190,-111.7,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491200,-142.9,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+243365491210,-138.1,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365471000,98230.0,Arab Saudi,2000,Ekspor,Neraca Perdagangan beberapa Negara
+253365471010,88006.0,Arab Saudi,2001,Ekspor,Neraca Perdagangan beberapa Negara
+253365471020,93264.0,Arab Saudi,2002,Ekspor,Neraca Perdagangan beberapa Negara
+253365471030,99369.0,Arab Saudi,2003,Ekspor,Neraca Perdagangan beberapa Negara
+253365471040,125745.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+253365471050,140870.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+253365471060,160571.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+253365471070,176028.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+253365471080,199414.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+253365471090,157244.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+253365471100,198612.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+253365471110,228086.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+253365471120,227538.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+253365471130,228331.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+253365471140,234139.0,Arab Saudi,2014,Ekspor,Neraca Perdagangan beberapa Negara
+253365471180,9271.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+253365471190,8801.8,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+253365471200,8098.8,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+253365471210,12006.5,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+253365481000,81963.0,Arab Saudi,2000,Impor,Neraca Perdagangan beberapa Negara
+253365481010,73867.0,Arab Saudi,2001,Impor,Neraca Perdagangan beberapa Negara
+253365481020,79868.0,Arab Saudi,2002,Impor,Neraca Perdagangan beberapa Negara
+253365481030,81948.0,Arab Saudi,2003,Impor,Neraca Perdagangan beberapa Negara
+253365481040,105298.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+253365481050,114410.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+253365481060,131085.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+253365481070,146767.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+253365481080,156348.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+253365481090,123757.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+253365481100,164622.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+253365481110,187473.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+253365481120,196393.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+253365481130,205898.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+253365481140,208874.0,Arab Saudi,2014,Impor,Neraca Perdagangan beberapa Negara
+253365481180,8602.9,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+253365481190,7775.3,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+253365481200,6933.0,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+253365481210,9451.0,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+253365491000,16266.0,Arab Saudi,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491010,14139.0,Arab Saudi,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491020,13396.0,Arab Saudi,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491030,17421.0,Arab Saudi,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491040,20446.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491050,26460.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491060,29486.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491070,29261.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491080,43066.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491090,33487.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491100,33990.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491110,40613.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491120,31145.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491130,22434.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491140,25265.0,Arab Saudi,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491180,668.7,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491190,1026.5,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491200,1165.7,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+253365491210,2555.5,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365471040,189084.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+263365471050,213891.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+263365471060,250441.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+263365471070,272055.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+263365471080,291827.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+263365471090,229683.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+263365471100,298138.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+263365471110,349569.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+263365471120,370889.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+263365471130,380107.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+263365471140,397658.0,Arab Saudi,2014,Ekspor,Neraca Perdagangan beberapa Negara
+263365471180,905.3,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+263365471190,939.3,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+263365471200,936.5,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+263365471210,1302.1,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+263365481040,197347.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+263365481050,221414.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+263365481060,256130.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+263365481070,283264.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+263365481080,310561.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+263365481090,234385.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+263365481100,301482.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+263365481110,350856.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+263365481120,370746.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+263365481130,381202.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+263365481140,399977.0,Arab Saudi,2014,Impor,Neraca Perdagangan beberapa Negara
+263365481180,287.3,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+263365481190,265.7,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+263365481200,269.5,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+263365481210,307.3,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+263365491040,-8263.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491050,-7523.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491060,-5689.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491070,-11209.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491080,-18734.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491090,-4702.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491100,-3344.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491110,-1287.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491120,143.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491130,-1095.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491140,-2319.0,Arab Saudi,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491180,618.0,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491190,673.6,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491200,667.0,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+263365491210,994.8,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365471040,7530.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+273365471050,10652.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+273365471060,13694.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+273365471070,16200.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+273365471080,26246.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+273365471090,23062.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+273365471100,26438.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+273365471110,30528.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+273365471120,29409.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+273365471130,28493.0,Arab Saudi,2013,Ekspor,Neraca Perdagangan beberapa Negara
+273365471180,1033.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+273365471190,1012.8,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+273365471200,1055.8,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+273365471210,1653.4,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+273365481040,12859.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+273365481050,19816.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+273365481060,20722.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+273365481070,27063.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+273365481080,48775.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+273365481090,44946.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+273365481100,52923.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+273365481110,58903.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+273365481120,65774.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+273365481130,59662.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+273365481180,139.7,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+273365481190,135.4,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+273365481200,128.3,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+273365481210,212.2,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+273365491040,-5329.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491050,-9163.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491060,-7028.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491070,-10863.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491080,-22528.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491090,-21884.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491100,-26485.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491110,-28376.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491120,-36365.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491130,-31169.0,Arab Saudi,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491180,893.9,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491190,877.4,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491200,927.5,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+273365491210,1441.2,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365471040,2380.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+283365471050,3813.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+283365471060,4585.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+283365471070,6313.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+283365471080,6882.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+283365471090,6662.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+283365471100,8661.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+283365471110,9238.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+283365471180,897.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+283365471190,875.6,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+283365471200,1031.9,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+283365471210,1122.3,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+283365481040,2196.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+283365481050,1927.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+283365481060,2564.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+283365481070,3277.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+283365481080,4256.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+283365481090,4348.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+283365481100,4760.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+283365481110,9019.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+283365481180,151.6,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+283365481190,182.7,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+283365481200,187.2,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+283365481210,165.9,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+283365491040,184.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491050,1887.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491060,2021.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491070,3036.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491080,2626.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491090,2314.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491100,3901.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491110,219.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491180,746.0,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491190,692.9,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491200,844.6,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+283365491210,956.4,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365471040,31148.0,Arab Saudi,2004,Ekspor,Neraca Perdagangan beberapa Negara
+293365471050,55145.0,Arab Saudi,2005,Ekspor,Neraca Perdagangan beberapa Negara
+293365471060,57444.0,Arab Saudi,2006,Ekspor,Neraca Perdagangan beberapa Negara
+293365471070,65133.0,Arab Saudi,2007,Ekspor,Neraca Perdagangan beberapa Negara
+293365471080,80615.0,Arab Saudi,2008,Ekspor,Neraca Perdagangan beberapa Negara
+293365471090,56742.0,Arab Saudi,2009,Ekspor,Neraca Perdagangan beberapa Negara
+293365471100,84000.0,Arab Saudi,2010,Ekspor,Neraca Perdagangan beberapa Negara
+293365471110,114500.0,Arab Saudi,2011,Ekspor,Neraca Perdagangan beberapa Negara
+293365471120,114000.0,Arab Saudi,2012,Ekspor,Neraca Perdagangan beberapa Negara
+293365471180,420.6,Arab Saudi,2018,Ekspor,Neraca Perdagangan beberapa Negara
+293365471190,424.3,Arab Saudi,2019,Ekspor,Neraca Perdagangan beberapa Negara
+293365471200,371.0,Arab Saudi,2020,Ekspor,Neraca Perdagangan beberapa Negara
+293365471210,464.3,Arab Saudi,2021,Ekspor,Neraca Perdagangan beberapa Negara
+293365481040,14164.0,Arab Saudi,2004,Impor,Neraca Perdagangan beberapa Negara
+293365481050,21314.0,Arab Saudi,2005,Impor,Neraca Perdagangan beberapa Negara
+293365481060,26760.0,Arab Saudi,2006,Impor,Neraca Perdagangan beberapa Negara
+293365481070,37576.0,Arab Saudi,2007,Impor,Neraca Perdagangan beberapa Negara
+293365481080,42378.0,Arab Saudi,2008,Impor,Neraca Perdagangan beberapa Negara
+293365481090,33906.0,Arab Saudi,2009,Impor,Neraca Perdagangan beberapa Negara
+293365481100,44235.0,Arab Saudi,2010,Impor,Neraca Perdagangan beberapa Negara
+293365481110,64105.0,Arab Saudi,2011,Impor,Neraca Perdagangan beberapa Negara
+293365481120,35703.0,Arab Saudi,2012,Impor,Neraca Perdagangan beberapa Negara
+293365481130,44598.0,Arab Saudi,2013,Impor,Neraca Perdagangan beberapa Negara
+293365481180,2527.5,Arab Saudi,2018,Impor,Neraca Perdagangan beberapa Negara
+293365481190,1917.8,Arab Saudi,2019,Impor,Neraca Perdagangan beberapa Negara
+293365481200,830.7,Arab Saudi,2020,Impor,Neraca Perdagangan beberapa Negara
+293365481210,2047.4,Arab Saudi,2021,Impor,Neraca Perdagangan beberapa Negara
+293365491040,16984.0,Arab Saudi,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491050,33831.0,Arab Saudi,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491060,30684.0,Arab Saudi,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491070,27557.0,Arab Saudi,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491080,38237.0,Arab Saudi,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491090,22836.0,Arab Saudi,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491100,39765.0,Arab Saudi,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491110,50395.0,Arab Saudi,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491120,78297.0,Arab Saudi,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491180,-2106.9,Arab Saudi,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491190,-1493.6,Arab Saudi,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491200,-459.8,Arab Saudi,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+293365491210,-1583.1,Arab Saudi,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365471040,81709.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+303365471050,103738.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+303365471060,122112.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+303365471070,136371.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+303365471080,171764.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+303365471090,116778.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+303365471100,130669.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+303365471110,160305.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+303365471120,161026.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+303365471130,153188.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+303365471140,142301.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+303365471180,60.2,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+303365471190,87.5,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+303365471200,53.6,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+303365471210,53.6,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+303365481040,48062.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+303365481050,55472.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+303365481060,64272.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+303365481070,80378.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+303365481080,90293.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+303365481090,68970.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+303365481100,77326.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+303365481110,90787.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+303365481120,87316.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+303365481130,89988.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+303365481140,88053.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+303365481180,181.9,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+303365481190,198.5,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+303365481200,177.6,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+303365481210,223.4,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+303365491040,33646.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491050,48265.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491060,57840.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491070,55993.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491080,81471.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491090,47808.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491100,53344.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491110,69518.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491120,73710.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491130,63201.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491140,54247.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491180,-121.7,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491190,-111.0,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491200,-123.9,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+303365491210,-169.8,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365471040,13379.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+313365471050,16050.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+313365471060,16932.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+313365471070,17837.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+313365471080,20323.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+313365471090,17523.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+313365471100,21410.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+313365471110,25383.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+313365471120,22807.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+313365471130,25121.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+313365471140,25697.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+313365471180,2468.0,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+313365471190,1944.0,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+313365471200,2386.1,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+313365471210,3811.5,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+313365481040,17949.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+313365481050,25356.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+313365481060,29828.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+313365481070,32590.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+313365481080,42326.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+313365481090,31648.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+313365481100,37783.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+313365481110,43955.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+313365481120,42920.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+313365481130,44647.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+313365481140,45758.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+313365481180,641.4,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+313365481190,378.0,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+313365481200,194.9,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+313365481210,185.5,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+313365491040,-4570.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491050,-9306.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491060,-12896.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491070,-14753.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491080,-22003.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491090,-14125.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491100,-16373.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491110,-18572.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491120,-20114.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491130,-19526.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491140,-20061.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491180,1826.6,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491190,1566.1,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491200,2191.2,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+313365491210,3626.0,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365471000,300083.0,Australia,2000,Ekspor,Neraca Perdagangan beberapa Negara
+323365471010,297188.0,Australia,2001,Ekspor,Neraca Perdagangan beberapa Negara
+323365471020,312011.0,Australia,2002,Ekspor,Neraca Perdagangan beberapa Negara
+323365471030,365829.0,Australia,2003,Ekspor,Neraca Perdagangan beberapa Negara
+323365471040,425110.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+323365471050,439125.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+323365471060,490702.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+323365471070,550458.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+323365471080,608942.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+323365471090,476091.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+323365471100,516955.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+323365471110,585313.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+323365471120,558461.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+323365471130,567987.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+323365471140,571234.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+323365471180,1006.8,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+323365471190,1013.3,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+323365471200,916.3,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+323365471210,1004.8,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+323365481000,311029.0,Australia,2000,Impor,Neraca Perdagangan beberapa Negara
+323365481010,302015.0,Australia,2001,Impor,Neraca Perdagangan beberapa Negara
+323365481020,312164.0,Australia,2002,Impor,Neraca Perdagangan beberapa Negara
+323365481030,370574.0,Australia,2003,Impor,Neraca Perdagangan beberapa Negara
+323365481040,443056.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+323365481050,485242.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+323365481060,546505.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+323365481070,631447.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+323365481080,715783.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+323365481090,560484.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+323365481100,608652.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+323365481110,712895.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+323365481120,666715.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+323365481130,671257.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+323365481140,660293.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+323365481180,1655.3,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+323365481190,1424.3,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+323365481200,1358.4,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+323365481210,1275.6,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+323365491000,-10947.0,Australia,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491010,-4826.0,Australia,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491020,-154.0,Australia,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491030,-4745.0,Australia,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491040,-17947.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491050,-46116.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491060,-55803.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491070,-80989.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491080,-106840.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491090,-84393.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491100,-91697.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491110,-127582.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491120,-108254.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491130,-103270.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491140,-89059.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491180,-648.5,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491190,-411.1,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491200,-442.2,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+323365491210,-270.8,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365471000,137806.0,Australia,2000,Ekspor,Neraca Perdagangan beberapa Negara
+333365471010,121755.0,Australia,2001,Ekspor,Neraca Perdagangan beberapa Negara
+333365471020,125177.0,Australia,2002,Ekspor,Neraca Perdagangan beberapa Negara
+333365471030,144183.0,Australia,2003,Ekspor,Neraca Perdagangan beberapa Negara
+333365471040,198633.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+333365471050,229652.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+333365471060,271809.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+333365471070,299270.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+333365471080,338176.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+333365471090,269832.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+333365471100,351867.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+333365471110,409503.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+333365471120,408393.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+333365471130,410250.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+333365471140,409769.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+333365471180,12915.0,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+333365471190,12916.7,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+333365471200,10661.9,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+333365471210,11634.1,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+333365481000,134546.0,Australia,2000,Impor,Neraca Perdagangan beberapa Negara
+333365481010,116004.0,Australia,2001,Impor,Neraca Perdagangan beberapa Negara
+333365481020,116441.0,Australia,2002,Impor,Neraca Perdagangan beberapa Negara
+333365481030,127935.0,Australia,2003,Impor,Neraca Perdagangan beberapa Negara
+333365481040,163851.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+333365481050,200050.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+333365481060,238711.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+333365481070,263155.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+333365481080,319781.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+333365481090,245785.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+333365481100,310791.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+333365481110,365770.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+333365481120,379723.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+333365481130,373016.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+333365481140,366247.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+333365481180,21439.5,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+333365481190,17589.9,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+333365481200,12341.2,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+333365481210,15451.7,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+333365491000,3259.0,Australia,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491010,5752.0,Australia,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491020,8736.0,Australia,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491030,16248.0,Australia,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491040,34782.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491050,29602.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491060,33098.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491070,36115.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491080,18396.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491090,24048.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491100,41076.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491110,43733.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491120,28670.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491130,37234.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491140,43522.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491180,-8524.5,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491190,-4673.1,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491200,-1679.4,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+333365491210,-3817.6,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365471040,5757.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+343365471050,6347.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+343365471060,6886.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+343365471070,7740.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+343365471080,8137.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+343365471090,7085.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+343365471100,8307.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+343365471110,10553.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+343365471120,9784.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+343365471130,10397.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+343365471180,320.6,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+343365471190,321.4,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+343365471200,266.0,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+343365471210,379.9,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+343365481040,7973.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+343365481050,8833.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+343365481060,10259.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+343365481070,11301.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+343365481080,13953.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+343365481090,10049.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+343365481100,13512.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+343365481110,20268.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+343365481120,19102.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+343365481130,17973.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+343365481180,42.9,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+343365481190,40.3,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+343365481200,26.6,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+343365481210,53.3,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+343365491040,-2216.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491050,-2487.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491060,-3373.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491070,-3560.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491080,-5816.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491090,-2965.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491100,-5205.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491110,-9715.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491120,-9318.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491130,-7576.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491180,277.7,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491190,281.1,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491200,239.3,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+343365491210,326.6,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365471000,86962.0,Australia,2000,Ekspor,Neraca Perdagangan beberapa Negara
+353365471010,75788.0,Australia,2001,Ekspor,Neraca Perdagangan beberapa Negara
+353365471020,82965.0,Australia,2002,Ekspor,Neraca Perdagangan beberapa Negara
+353365471030,102405.0,Australia,2003,Ekspor,Neraca Perdagangan beberapa Negara
+353365471040,123307.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+353365471050,130205.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+353365471060,147236.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+353365471070,168979.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+353365471080,183907.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+353365471090,131042.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+353365471100,158090.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+353365471110,187243.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+353365471120,172725.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+353365471130,167619.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+353365471140,162588.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+353365471180,161.2,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+353365471190,155.7,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+353365471200,172.3,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+353365471210,241.6,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+353365481000,72981.0,Australia,2000,Impor,Neraca Perdagangan beberapa Negara
+353365481010,63471.0,Australia,2001,Impor,Neraca Perdagangan beberapa Negara
+353365481020,67667.0,Australia,2002,Impor,Neraca Perdagangan beberapa Negara
+353365481030,84197.0,Australia,2003,Impor,Neraca Perdagangan beberapa Negara
+353365481040,100791.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+353365481050,111324.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+353365481060,126609.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+353365481070,153463.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+353365481080,168993.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+353365481090,120262.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+353365481100,148474.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+353365481110,174730.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+353365481120,164114.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+353365481130,159665.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+353365481140,159532.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+353365481180,705.1,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+353365481190,562.5,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+353365481200,435.1,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+353365481210,560.3,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+353365491000,13980.0,Australia,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491010,12317.0,Australia,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491020,15298.0,Australia,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491030,18208.0,Australia,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491040,22516.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491050,18881.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491060,20627.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491070,15516.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491080,14914.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491090,10780.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491100,9616.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491110,12513.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491120,8611.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491130,7954.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491140,3056.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491180,-543.9,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491190,-406.8,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491200,-262.8,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+353365491210,-318.7,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365471000,69057.0,Australia,2000,Ekspor,Neraca Perdagangan beberapa Negara
+363365471010,64919.0,Australia,2001,Ekspor,Neraca Perdagangan beberapa Negara
+363365471020,68108.0,Australia,2002,Ekspor,Neraca Perdagangan beberapa Negara
+363365471030,80324.0,Australia,2003,Ekspor,Neraca Perdagangan beberapa Negara
+363365471040,96248.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+363365471050,110178.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+363365471060,130795.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+363365471070,153858.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+363365471080,175897.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+363365471090,151910.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+363365471100,193366.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+363365471110,220221.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+363365471120,227883.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+363365471130,224863.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+363365471140,225239.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+363365471180,6820.9,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+363365471190,6218.4,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+363365471200,5110.3,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+363365471210,7090.3,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+363365481000,61924.0,Australia,2000,Impor,Neraca Perdagangan beberapa Negara
+363365481010,61961.0,Australia,2001,Impor,Neraca Perdagangan beberapa Negara
+363365481020,64645.0,Australia,2002,Impor,Neraca Perdagangan beberapa Negara
+363365481030,75824.0,Australia,2003,Impor,Neraca Perdagangan beberapa Negara
+363365481040,94410.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+363365481050,118158.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+363365481060,128654.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+363365481070,141294.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+363365481080,179168.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+363365481090,134734.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+363365481100,185121.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+363365481110,229137.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+363365481120,251464.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+363365481130,249652.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+363365481140,228200.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+363365481180,10952.8,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+363365481190,9469.1,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+363365481200,6483.8,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+363365481210,9146.5,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+363365491000,7133.0,Australia,2000,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491010,2959.0,Australia,2001,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491020,3463.0,Australia,2002,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491030,4499.0,Australia,2003,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491040,1838.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491050,-7980.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491060,2142.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491070,12563.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491080,-3270.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491090,17176.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491100,8245.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491110,-8916.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491120,-23581.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491130,-24789.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491140,-2961.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491180,-4131.9,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491190,-3250.7,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491200,-1373.5,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+363365491210,-2056.2,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365471040,33994.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+373365471050,51859.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+373365471060,59208.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+373365471070,69165.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+373365471080,95021.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+373365471090,57603.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+373365471100,65745.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+373365471110,92811.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+373365471120,97340.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+373365471130,86700.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+373365471180,4.2,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+373365471190,10.7,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+373365471200,14.1,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+373365471210,22.9,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+373365481040,16679.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+373365481050,24027.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+373365481060,33615.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+373365481070,46097.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+373365481080,49602.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+373365481090,40597.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+373365481100,33815.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+373365481110,38346.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+373365481120,43501.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+373365481130,46363.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+373365481180,10.5,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+373365481190,6.0,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+373365481200,11.4,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+373365481210,13.8,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+373365491040,17315.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491050,27832.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491060,25593.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491070,23068.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491080,45419.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491090,17006.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491100,31930.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491110,54465.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491120,53840.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491130,40337.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491180,-6.3,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491190,4.7,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491200,2.6,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+373365491210,9.1,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365471040,26485.0,Australia,2004,Ekspor,Neraca Perdagangan beberapa Negara
+383365471050,32442.0,Australia,2005,Ekspor,Neraca Perdagangan beberapa Negara
+383365471060,39606.0,Australia,2006,Ekspor,Neraca Perdagangan beberapa Negara
+383365471070,48561.0,Australia,2007,Ekspor,Neraca Perdagangan beberapa Negara
+383365471080,62685.0,Australia,2008,Ekspor,Neraca Perdagangan beberapa Negara
+383365471090,57096.0,Australia,2009,Ekspor,Neraca Perdagangan beberapa Negara
+383365471100,71658.0,Australia,2010,Ekspor,Neraca Perdagangan beberapa Negara
+383365471110,94518.0,Australia,2011,Ekspor,Neraca Perdagangan beberapa Negara
+383365471120,115458.0,Australia,2012,Ekspor,Neraca Perdagangan beberapa Negara
+383365471130,132478.0,Australia,2013,Ekspor,Neraca Perdagangan beberapa Negara
+383365471140,149565.0,Australia,2014,Ekspor,Neraca Perdagangan beberapa Negara
+383365471180,4581.9,Australia,2018,Ekspor,Neraca Perdagangan beberapa Negara
+383365471190,5153.4,Australia,2019,Ekspor,Neraca Perdagangan beberapa Negara
+383365471200,4941.4,Australia,2020,Ekspor,Neraca Perdagangan beberapa Negara
+383365471210,6851.3,Australia,2021,Ekspor,Neraca Perdagangan beberapa Negara
+383365481040,31969.0,Australia,2004,Impor,Neraca Perdagangan beberapa Negara
+383365481050,36978.0,Australia,2005,Impor,Neraca Perdagangan beberapa Negara
+383365481060,44410.0,Australia,2006,Impor,Neraca Perdagangan beberapa Negara
+383365481070,62682.0,Australia,2007,Impor,Neraca Perdagangan beberapa Negara
+383365481080,80714.0,Australia,2008,Impor,Neraca Perdagangan beberapa Negara
+383365481090,69949.0,Australia,2009,Impor,Neraca Perdagangan beberapa Negara
+383365481100,83779.0,Australia,2010,Impor,Neraca Perdagangan beberapa Negara
+383365481110,104041.0,Australia,2011,Impor,Neraca Perdagangan beberapa Negara
+383365481120,115101.0,Australia,2012,Impor,Neraca Perdagangan beberapa Negara
+383365481130,131260.0,Australia,2013,Impor,Neraca Perdagangan beberapa Negara
+383365481140,148770.0,Australia,2014,Impor,Neraca Perdagangan beberapa Negara
+383365481180,3794.6,Australia,2018,Impor,Neraca Perdagangan beberapa Negara
+383365481190,3848.2,Australia,2019,Impor,Neraca Perdagangan beberapa Negara
+383365481200,3130.6,Australia,2020,Impor,Neraca Perdagangan beberapa Negara
+383365481210,4213.0,Australia,2021,Impor,Neraca Perdagangan beberapa Negara
+383365491040,-5484.0,Australia,2004,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491050,-4536.0,Australia,2005,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491060,-4805.0,Australia,2006,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491070,-14121.0,Australia,2007,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491080,-18029.0,Australia,2008,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491090,-12853.0,Australia,2009,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491100,-12121.0,Australia,2010,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491110,-9523.0,Australia,2011,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491120,357.0,Australia,2012,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491130,1218.0,Australia,2013,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491140,795.0,Australia,2014,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491180,787.3,Australia,2018,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491190,1305.2,Australia,2019,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491200,1810.8,Australia,2020,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
+383365491210,2638.3,Australia,2021,Neraca Perdagangan,Neraca Perdagangan beberapa Negara
